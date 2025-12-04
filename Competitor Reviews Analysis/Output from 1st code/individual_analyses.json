@@ -1,0 +1,2208 @@
+[
+  {
+    "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21SbmRreG1WVWxDZVVad05GUkJlRGN4TTE5NU0wRRAB",
+    "sentiment": "Neutral",
+    "sentiment_score": 0.0,
+    "topics": [
+      "ambiance",
+      "food presentation",
+      "taste",
+      "coffee quality",
+      "overall experience",
+      "improvement areas"
+    ],
+    "strengths": [
+      "cozy ambiance",
+      "aesthetically pleasing setup",
+      "great presentation",
+      "appetizing appearance"
+    ],
+    "weaknesses": [
+      "taste did not match visual appeal",
+      "sandwiches lacked flavor",
+      "coffee was average"
+    ],
+    "key_insights": "Semicolon Cafe offers a cozy ambiance and visually appealing food, but the taste of the sandwiches and coffee falls short of expectations, indicating a need for improvement in flavor."
+  },
+  {
+    "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21SbmRreG1WVWxDZVVad05GUkJlRGN4TTE5NU0wRRAB",
+    "sentiment": "Neutral",
+    "sentiment_score": 0.0,
+    "topics": [
+      "ambiance",
+      "food presentation",
+      "taste",
+      "coffee quality",
+      "overall experience",
+      "improvement areas"
+    ],
+    "strengths": [
+      "cozy ambiance",
+      "aesthetically pleasing setup",
+      "great presentation of food",
+      "appetizing appearance"
+    ],
+    "weaknesses": [
+      "taste did not match visual appeal",
+      "sandwiches lacked flavor",
+      "coffee was mediocre",
+      "room for improvement on taste"
+    ],
+    "key_insights": "Semicolon Cafe offers a cozy and aesthetically pleasing atmosphere, but while the presentation of the food is impressive, the taste falls short, indicating a need for improvement in flavor."
+  },
+  {
+    "review_id": "ChZDSUhNMG9nS0VPbkJ2N1BIc2N1dFZREAE",
+    "sentiment": "Neutral",
+    "sentiment_score": 0.0,
+    "topics": [
+      "food quality",
+      "pricing",
+      "ambience",
+      "seating capacity",
+      "ordering process",
+      "parking availability"
+    ],
+    "strengths": [
+      "Delicious avocado sandwich with well-balanced ingredients",
+      "Light and fluffy bread",
+      "High quality and great taste",
+      "Clean and calming ambience",
+      "Quick food service through kiosk ordering",
+      "Not too crowded, providing a comfortable experience"
+    ],
+    "weaknesses": [
+      "Sandwich is a bit pricey",
+      "Sandwich size is small for a full meal",
+      "Limited seating due to small cafe size",
+      "Limited parking options nearby"
+    ],
+    "key_insights": "The reviewer praises the quality and taste of the avocado sandwich, despite its small size and higher price, and appreciates the clean, calming ambience of the cafe, indicating a positive overall experience that encourages a return visit."
+  },
+  {
+    "review_id": "ChZDSUhNMG9nS0VPbkJ2N1BIc2N1dFZREAE",
+    "sentiment": "Neutral",
+    "sentiment_score": 0.0,
+    "topics": [
+      "food quality",
+      "menu variety",
+      "pricing",
+      "ambience",
+      "seating capacity",
+      "ordering process",
+      "parking availability"
+    ],
+    "strengths": [
+      "High-quality and tasty food",
+      "Light and fluffy bread",
+      "Clean and calming ambience",
+      "Quick food service through kiosk ordering",
+      "Not too crowded despite limited seating"
+    ],
+    "weaknesses": [
+      "Sandwich is a bit pricey",
+      "Sandwich size may be small for a full meal",
+      "Limited parking options nearby"
+    ],
+    "key_insights": "The caf\u00e9 offers high-quality, delicious food in a clean and calming environment, though it may be slightly pricey and small for a full meal; the convenient kiosk ordering and quick service enhance the overall experience."
+  },
+  {
+    "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xRMFVsVkdWR0o2V0RsRk1tWlpSWFV0ZDFoNWVsRRAB",
+    "sentiment": "Mixed",
+    "sentiment_score": 3.5,
+    "topics": [
+      "sandwich quality",
+      "wait time",
+      "space constraints",
+      "crowd size"
+    ],
+    "strengths": [
+      "Good flavor"
+    ],
+    "weaknesses": [
+      "Long wait time",
+      "Small space",
+      "Cramped during peak hours"
+    ],
+    "key_insights": "The sandwich is flavorful and enjoyable, but patrons should be prepared for potentially long wait times and a cramped atmosphere during busy periods."
+  },
+  {
+    "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xRMFVsVkdWR0o2V0RsRk1tWlpSWFV0ZDFoNWVsRRAB",
+    "sentiment": "Neutral",
+    "sentiment_score": 0.0,
+    "topics": [
+      "sandwich quality",
+      "wait time",
+      "space constraints",
+      "crowd management"
+    ],
+    "strengths": [
+      "good flavor"
+    ],
+    "weaknesses": [
+      "long wait time",
+      "small space",
+      "cramped during peak hours"
+    ],
+    "key_insights": "The sandwich is flavorful and fluffy, but the long wait times and cramped space during busy hours may deter those in a hurry."
+  },
+  {
+    "review_id": "ChdDSUhNMG9nS0VJVGZwcEszNjhXWG5BRRAB",
+    "sentiment": "Neutral",
+    "sentiment_score": 0.0,
+    "topics": [
+      "cafe experience",
+      "staff performance",
+      "ambience and cleanliness",
+      "coffee quality",
+      "food quality",
+      "social media influence"
+    ],
+    "strengths": [
+      "Cute space from afar",
+      "Promising concept",
+      "Popular on social media"
+    ],
+    "weaknesses": [
+      "Staff seemed overwhelmed and confused",
+      "Slow service despite ordering via tablet",
+      "Lack of cleanliness",
+      "Chipped and dirty furniture",
+      "Coffee was just okay and not memorable",
+      "Disappointment with drink presentation",
+      "Flavorless sandwiches overly drenched in mayo",
+      "Overall experience did not meet expectations"
+    ],
+    "key_insights": "Semicolon Cafe, despite its appealing concept and aesthetic, fails to deliver on service quality and food taste, leaving it feeling overrated and more focused on social media popularity than actual customer experience."
+  },
+  {
+    "review_id": "ChdDSUhNMG9nS0VJVGZwcEszNjhXWG5BRRAB",
+    "sentiment": "Neutral",
+    "sentiment_score": 0.0,
+    "topics": [
+      "cafe experience",
+      "staff performance",
+      "ambience and cleanliness",
+      "coffee quality",
+      "food quality",
+      "social media influence"
+    ],
+    "strengths": [
+      "Cute space from afar",
+      "Promising concept"
+    ],
+    "weaknesses": [
+      "Overwhelmed and confused staff",
+      "Slow service despite ordering via tablet",
+      "Lack of cleanliness",
+      "Chipped and dirty furniture",
+      "Mediocre coffee",
+      "Disappointing presentation of drinks",
+      "Flavorless sandwiches",
+      "Overly drenched in mayo",
+      "Overall experience doesn't match the hype"
+    ],
+    "key_insights": "Semicolon Cafe, despite its appealing aesthetic and social media buzz, falls short in service, cleanliness, and food quality, ultimately delivering an underwhelming experience that doesn't justify the hype."
+  },
+  {
+    "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xCYWRVdFdOeTEyY2tGd2NVbzFiVUpHU2xnelFVRRAB",
+    "sentiment": "Neutral",
+    "sentiment_score": 0.0,
+    "topics": [
+      "cafe",
+      "unique sandwiches",
+      "atmosphere",
+      "quick lunches",
+      "delightful spot"
+    ],
+    "strengths": [
+      "unique sandwiches",
+      "amazing taste",
+      "cozy atmosphere",
+      "relaxed environment",
+      "potential for repeat visits"
+    ],
+    "weaknesses": [],
+    "key_insights": "The cafe offers unique and delicious sandwiches in a relaxed atmosphere, making it an appealing choice for quick lunches."
+  },
+  {
+    "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xCYWRVdFdOeTEyY2tGd2NVbzFiVUpHU2xnelFVRRAB",
+    "sentiment": "Neutral",
+    "sentiment_score": 0.0,
+    "topics": [],
+    "strengths": [
+      "unique sandwiches",
+      "amazing taste",
+      "cozy atmosphere",
+      "relaxed environment",
+      "suitable for quick lunches"
+    ],
+    "weaknesses": [],
+    "key_insights": "The cafe offers unique and delicious sandwiches in a relaxed atmosphere, making it an appealing choice for quick lunches in the future."
+  },
+  {
+    "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xZd1VGbGFjMjV5VVc5QlJ6QXhTbWd0TUdoa2RGRRAB",
+    "sentiment": "Neutral",
+    "sentiment_score": 0.0,
+    "topics": [
+      "bulgogi sandwich",
+      "flavour",
+      "bread quality",
+      "lettuce",
+      "sauce",
+      "portion size",
+      "drinks"
+    ],
+    "strengths": [
+      "Drinks might be good"
+    ],
+    "weaknesses": [
+      "Lack of flavor in the bulgogi sandwich",
+      "Bread not typical for Korean sandwiches",
+      "Lettuce felt out of place",
+      "Insufficient sauce",
+      "Average portion size not enough for a full lunch"
+    ],
+    "key_insights": "The bulgogi sandwich lacked authentic flavor and proper ingredients, resembling a Western sandwich rather than a traditional Korean one, leading to disappointment and a low rating."
+  },
+  {
+    "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xZd1VGbGFjMjV5VVc5QlJ6QXhTbWd0TUdoa2RGRRAB",
+    "sentiment": "Neutral",
+    "sentiment_score": 0.0,
+    "topics": [
+      "bulgogi sandwich",
+      "flavour",
+      "bread quality",
+      "lettuce",
+      "sauce",
+      "portion size",
+      "drinks"
+    ],
+    "strengths": [
+      "The drinks may be good."
+    ],
+    "weaknesses": [
+      "Lack of flavor in the bulgogi sandwich.",
+      "Bread is not typical fluffy bread found in Korean sandwiches.",
+      "Lettuce felt out of place.",
+      "Sauce was insufficient.",
+      "Average portion size not enough for a full lunch."
+    ],
+    "key_insights": "The bulgogi sandwich lacks authentic flavor and proper ingredients, resembling a western sandwich rather than a traditional Korean one, leading to disappointment and a low rating."
+  },
+  {
+    "review_id": "ChZDSUhNMG9nS0VJQ0FnSURIcmZfMFl3EAE",
+    "sentiment": "Neutral",
+    "sentiment_score": 0.0,
+    "topics": [
+      "cafe",
+      "sandwiches",
+      "coffee",
+      "parfaits",
+      "dessert",
+      "recommendation"
+    ],
+    "strengths": [
+      "Tasty sandwiches with various offerings",
+      "Unique parfaits with cheesecake and crunchy corn flake bits",
+      "Not too sweet parfaits with good texture",
+      "Highly recommended by customers"
+    ],
+    "weaknesses": [],
+    "key_insights": "The cafe offers a unique and delicious menu, particularly highlighting its exceptional parfaits that combine cheesecake and crunchy corn flakes, making it a must-visit for anyone in the area."
+  },
+  {
+    "review_id": "ChZDSUhNMG9nS0VJQ0FnSURIcmZfMFl3EAE",
+    "sentiment": "Neutral",
+    "sentiment_score": 0.0,
+    "topics": [
+      "cafe",
+      "sandwiches",
+      "coffee",
+      "parfaits",
+      "dessert",
+      "recommendation"
+    ],
+    "strengths": [
+      "Tasty sandwiches with various offerings",
+      "Unique parfaits with cheesecake and crunchy corn flake bits",
+      "Not overly sweet desserts with good texture",
+      "Strong recommendation for parfaits"
+    ],
+    "weaknesses": [],
+    "key_insights": "The cafe offers a unique selection of delicious sandwiches and standout parfaits that combine cheesecake and crunchy corn flake bits, making it a must-visit spot for dessert lovers."
+  },
+  {
+    "review_id": "ChZDSUhNMG9nS0VJQ0FnTURJeUxfUk1REAE",
+    "sentiment": "Neutral",
+    "sentiment_score": 0.0,
+    "topics": [
+      "sandwich variety",
+      "taste",
+      "portion size",
+      "fresh ingredients",
+      "vegetable content"
+    ],
+    "strengths": [
+      "Delicious sauces and flavors in the sandwiches",
+      "Fresh ingredients and packed with veggies",
+      "Light on the stomach",
+      "Perfect sandwich size",
+      "Overall tasty experience"
+    ],
+    "weaknesses": [
+      "Shroom sandwich was somewhat bland"
+    ],
+    "key_insights": "The sandwiches are flavorful and made with fresh ingredients, offering a satisfying yet light dining experience, making the reviewer eager to return."
+  },
+  {
+    "review_id": "ChZDSUhNMG9nS0VJQ0FnTURJeUxfUk1REAE",
+    "sentiment": "Neutral",
+    "sentiment_score": 0.0,
+    "topics": [
+      "sandwich variety",
+      "taste",
+      "portion size",
+      "fresh ingredients",
+      "vegetable content"
+    ],
+    "strengths": [
+      "Delicious sauces",
+      "Tasty and fresh ingredients",
+      "Packed with veggies",
+      "Perfect sandwich size",
+      "Light on the stomach"
+    ],
+    "weaknesses": [
+      "Shroom sandwich somewhat bland"
+    ],
+    "key_insights": "The reviewer finds the sandwiches delicious and well-sized, appreciating the fresh ingredients and veggie-packed nature, despite one being somewhat bland. Overall, they express a strong desire to return."
+  },
+  {
+    "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25WellsbGtNMWRHVG5wWlRsSlJTV1JhVTJGVlRsRRAB",
+    "sentiment": "Neutral",
+    "sentiment_score": 0.0,
+    "topics": [
+      "food quality",
+      "pricing",
+      "customer service",
+      "self-service",
+      "social media influence"
+    ],
+    "strengths": [
+      "Friendly and helpful staff"
+    ],
+    "weaknesses": [
+      "High prices for food and drinks",
+      "Lack of flavor in food items",
+      "Self-service model may not meet customer expectations",
+      "Overall quality does not justify the price"
+    ],
+    "key_insights": "The reviewer found the food to be overpriced and underwhelming in flavor, feeling that the quality did not justify the high prices, despite friendly service. They would consider returning only if prices were significantly lowered."
+  },
+  {
+    "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25WellsbGtNMWRHVG5wWlRsSlJTV1JhVTJGVlRsRRAB",
+    "sentiment": "Neutral",
+    "sentiment_score": 0.0,
+    "topics": [
+      "food quality",
+      "pricing",
+      "customer service",
+      "self-service",
+      "social media influence"
+    ],
+    "strengths": [
+      "Friendly and helpful staff"
+    ],
+    "weaknesses": [
+      "High prices for average taste",
+      "Lack of flavor in food items",
+      "Self-service model may not meet customer expectations",
+      "Overall value perceived as low"
+    ],
+    "key_insights": "The reviewer found the food to be overpriced and lacking in flavor, feeling that the quality did not justify the high prices, despite friendly service. They would only consider returning if prices were significantly reduced."
+  },
+  {
+    "review_id": "ChdDSUhNMG9nS0VJQ0FnTUN3NUlXSThBRRAB",
+    "sentiment": "Neutral",
+    "sentiment_score": 0.0,
+    "topics": [
+      "food quality",
+      "seating arrangement",
+      "parking situation",
+      "overall experience"
+    ],
+    "strengths": [
+      "Good quality sandwiches and drinks",
+      "Loved the flavor of the food",
+      "Seating available to enjoy food",
+      "Overall positive experience leading to a high rating"
+    ],
+    "weaknesses": [
+      "Not a cozy spot to linger for long",
+      "Tricky parking situation requiring a walk from the mall"
+    ],
+    "key_insights": "The cafe offers delicious sandwiches and drinks, making it a popular choice despite limited parking and a less cozy atmosphere for lingering."
+  },
+  {
+    "review_id": "ChdDSUhNMG9nS0VJQ0FnTUN3NUlXSThBRRAB",
+    "sentiment": "Positive",
+    "sentiment_score": 4.5,
+    "topics": [
+      "food quality",
+      "seating availability",
+      "atmosphere",
+      "parking situation",
+      "customer experience"
+    ],
+    "strengths": [
+      "Good quality sandwiches and drinks",
+      "Loved the flavor of the food",
+      "Seating available to enjoy food",
+      "Positive overall experience"
+    ],
+    "weaknesses": [
+      "Not a cozy spot to linger",
+      "Tricky parking situation",
+      "Limited street parking"
+    ],
+    "key_insights": "The cafe offers delicious sandwiches and drinks, making it a popular choice despite limited parking and a less cozy atmosphere for lingering."
+  },
+  {
+    "review_id": "ChZDSUhNMG9nS0VJQ0FnTURveE9yQmFREAE",
+    "sentiment": "Neutral",
+    "sentiment_score": 0.0,
+    "topics": [
+      "food quality",
+      "service experience",
+      "staff distraction",
+      "self serve kiosk"
+    ],
+    "strengths": [
+      "Good food",
+      "Amazing tiramisu latte"
+    ],
+    "weaknesses": [
+      "Staff inattentiveness",
+      "Employee distracted by personal phone use"
+    ],
+    "key_insights": "The food quality, particularly the tiramisu latte, is highly praised, but customer service is lacking due to staff distraction with personal activities."
+  },
+  {
+    "review_id": "ChZDSUhNMG9nS0VJQ0FnTURveE9yQmFREAE",
+    "sentiment": "Mixed",
+    "sentiment_score": 3.0,
+    "topics": [
+      "food quality",
+      "customer service",
+      "staff attention",
+      "self serve kiosk",
+      "tiramisu latte"
+    ],
+    "strengths": [
+      "Good food",
+      "Amazing tiramisu latte"
+    ],
+    "weaknesses": [
+      "Staff inattentiveness",
+      "Employee distracted by social media"
+    ],
+    "key_insights": "The food quality, particularly the tiramisu latte, is highly praised, but customer service is lacking due to staff distraction with personal activities."
+  },
+  {
+    "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNnN1ozUVZ3EAE",
+    "sentiment": "Positive",
+    "sentiment_score": 4.5,
+    "topics": [],
+    "strengths": [
+      "Lots of seats",
+      "Very aesthetic environment",
+      "Food came out quickly",
+      "Tasty food",
+      "Bingsu is comparable in quality to more expensive options",
+      "Anxiety-friendly ordering system using tablets"
+    ],
+    "weaknesses": [],
+    "key_insights": "The restaurant offers a pleasant atmosphere with quick service and tasty food, including affordable bingsu that rivals more expensive options, making it a favorable choice for a relaxed dining experience."
+  },
+  {
+    "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNnN1ozUVZ3EAE",
+    "sentiment": "Positive",
+    "sentiment_score": 4.5,
+    "topics": [],
+    "strengths": [
+      "Lots of seats",
+      "Very aesthetic environment",
+      "Food came out quickly",
+      "Tasty food",
+      "Bingsu is comparable in quality to more expensive options",
+      "Anxiety-friendly ordering system via tablet"
+    ],
+    "weaknesses": [],
+    "key_insights": "The restaurant offers a pleasant dining experience with quick service and tasty food, including a highly praised bingsu, all in an aesthetically pleasing environment that caters to those who prefer a low-pressure ordering system."
+  },
+  {
+    "review_id": "ChdDSUhNMG9nS0VJQ0FnSURUcE4tbnhRRRAB",
+    "sentiment": "Neutral",
+    "sentiment_score": 0.0,
+    "topics": [],
+    "strengths": [],
+    "weaknesses": [],
+    "key_insights": "The review highlights that while the concept of the hipster Asian fusion sandwich shop is appealing, the execution falls short, particularly in terms of flavor and sandwich structure, leading to a lackluster dining experience. Additionally, the minimal interaction with staff and limited seating options detract from the overall atmosphere, making it less likely to be a repeat destination."
+  },
+  {
+    "review_id": "ChdDSUhNMG9nS0VJQ0FnSURUcE4tbnhRRRAB",
+    "sentiment": "Neutral",
+    "sentiment_score": 0.0,
+    "topics": [],
+    "strengths": [],
+    "weaknesses": [],
+    "key_insights": "The review highlights that while the hipster Asian fusion sandwich place offers a unique concept and appealing decor, the food lacks flavor and proper execution, with a disappointing emphasis on a fluffy brioche that fails to hold the ingredients together. Additionally, the service experience is minimal and impersonal, contributing to an overall rating of 2 stars."
+  },
+  {
+    "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNfclBlWW1BRRAB",
+    "sentiment": "Neutral",
+    "sentiment_score": 0.0,
+    "topics": [
+      "presentation",
+      "taste",
+      "sauce quality",
+      "authenticity",
+      "comparison to Korean toast",
+      "bread quality",
+      "cheese type",
+      "overall assessment"
+    ],
+    "strengths": [
+      "Visually appealing presentation",
+      "Good sauces",
+      "Tasty as an egg sandwich"
+    ],
+    "weaknesses": [
+      "Not an accurate representation of gilgeori/Korean toast",
+      "Lacks heavily buttered and fried bread",
+      "Does not include American cheese",
+      "Does not fully capture the essence of the dish from Korea"
+    ],
+    "key_insights": "The dish is visually appealing and has good sauces, but it fails to authentically represent traditional Korean toast due to its lack of heavily buttered and fried bread and American cheese, making it more of a good egg sandwich than a true Korean version."
+  },
+  {
+    "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNfclBlWW1BRRAB",
+    "sentiment": "Neutral",
+    "sentiment_score": 0.0,
+    "topics": [
+      "presentation",
+      "taste",
+      "sauce quality",
+      "authenticity",
+      "comparison to Korean toast",
+      "texture",
+      "ingredients"
+    ],
+    "strengths": [],
+    "weaknesses": [],
+    "key_insights": "The dish is visually appealing and features good sauces, but it fails to authentically represent traditional Korean toast due to its lack of heavily buttered and fried bread and American cheese, making it more of a decent egg sandwich than a true Korean experience."
+  },
+  {
+    "review_id": "ChZDSUhNMG9nS0VJQ0FnSURmM0xxOGJREAE",
+    "sentiment": "Neutral",
+    "sentiment_score": 0.0,
+    "topics": [
+      "location",
+      "seating",
+      "menu variety",
+      "sandwiches",
+      "food quality",
+      "portion sizes",
+      "coffee",
+      "shaved ice",
+      "pricing",
+      "recommendation",
+      "operating hours"
+    ],
+    "strengths": [
+      "Delightful find in a convenient location near Safeway",
+      "Cozy atmosphere",
+      "Variety of menu options including unique Asian-style sandwiches",
+      "Excellent and fresh flavors in food",
+      "Recommended for quick breakfast or brunch",
+      "Open early at 8 AM"
+    ],
+    "weaknesses": [
+      "Limited seating, may be better suited for takeout during busy times",
+      "Small portion sizes for the price",
+      "Decent coffee but not extraordinary"
+    ],
+    "key_insights": "Semicolon Cafe in Bellevue offers a cozy atmosphere with a focus on Asian-style sandwiches and quality food, making it a great spot for a quick breakfast or brunch, though the portion sizes may be small for the price. Its convenient location near downtown and decent coffee complement the overall experience, despite limited seating."
+  },
+  {
+    "review_id": "ChZDSUhNMG9nS0VJQ0FnSURmM0xxOGJREAE",
+    "sentiment": "Neutral",
+    "sentiment_score": 0.0,
+    "topics": [
+      "location",
+      "seating",
+      "menu variety",
+      "sandwiches",
+      "food quality",
+      "portion size",
+      "coffee",
+      "shaved ice",
+      "pricing",
+      "breakfast and brunch",
+      "operating hours"
+    ],
+    "strengths": [
+      "Delightful find in a convenient location near Safeway",
+      "Cozy atmosphere",
+      "Variety of menu options including unique Asian-style sandwiches",
+      "Excellent and fresh flavors in food",
+      "Recommended sandwiches (Avocado and BELT) are well-received",
+      "Good for quick breakfast or brunch",
+      "Open early at 8 AM"
+    ],
+    "weaknesses": [
+      "Limited seating, may be better suited for takeout during busy times",
+      "Small portion sizes for the price",
+      "Decent but not extraordinary coffee"
+    ],
+    "key_insights": "Semicolon Cafe in Bellevue offers a cozy atmosphere with a focus on Asian-style sandwiches and quality food, making it a great spot for a quick breakfast or brunch, though its limited seating and higher prices may require takeout during busy times."
+  },
+  {
+    "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNUemJfWVdREAE",
+    "sentiment": "Neutral",
+    "sentiment_score": 0.0,
+    "topics": [],
+    "strengths": [
+      "Exceptional quality of food, specifically the breakfast sandwich.",
+      "Customer-centric approach with a welcoming atmosphere.",
+      "Well-decorated space with clear menu options and pricing.",
+      "Offers wifi and parking recommendations.",
+      "Efficient handling of queues and seating arrangements.",
+      "Variety of drink options with customizable sweetness and caffeine levels.",
+      "User-friendly ordering system with high customization.",
+      "Minimal wait time for orders.",
+      "Satisfying portion sizes for the price.",
+      "Well-constructed sandwich that is not messy.",
+      "Charming presentation of to-go orders."
+    ],
+    "weaknesses": [],
+    "key_insights": "Semicolon excels in creating a customer-centric experience with a well-designed space, customizable menu options, and high-quality food, exemplified by their standout breakfast sandwich that combines excellent flavors and presentation. The minimal wait time and thoughtful amenities further enhance the overall dining experience, making it a desirable spot for both casual visits and takeout."
+  },
+  {
+    "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNUemJfWVdREAE",
+    "sentiment": "Neutral",
+    "sentiment_score": 0.0,
+    "topics": [],
+    "strengths": [
+      "Exceptional quality of the breakfast sandwich, surpassing sit-down restaurants.",
+      "Customer-focused environment with a welcoming and well-decorated space.",
+      "Clear menu with pictures and pricing, enhancing customer experience.",
+      "Offers wifi and parking recommendations with promo codes.",
+      "Well-organized space for handling queues and providing seating.",
+      "Variety of food and drink options, including customizable lattes and espresso drinks.",
+      "User-friendly ordering system with a high level of customization.",
+      "Minimal wait time for orders, enhancing convenience.",
+      "High-quality ingredients and well-balanced flavors in the food.",
+      "Attractive and practical presentation of to-go orders."
+    ],
+    "weaknesses": [],
+    "key_insights": "Semicolon excels in creating a customer-focused experience with a well-decorated space, efficient ordering system, and customizable menu options, highlighted by an exceptional breakfast sandwich that balances flavor and presentation without being messy. The welcoming atmosphere and additional amenities like wifi and parking recommendations enhance the overall appeal, making it a desirable spot for both dining in and takeout."
+  },
+  {
+    "review_id": "ChdDSUhNMG9nS0VJQ0FnSUN6b1lhWGtRRRAB",
+    "sentiment": "Neutral",
+    "sentiment_score": 0.0,
+    "topics": [
+      "atmosphere",
+      "location",
+      "food quality",
+      "sandwich structure",
+      "sauce quantity",
+      "smoothies",
+      "pricing",
+      "employee interaction",
+      "customer experience"
+    ],
+    "strengths": [
+      "Cute sandwich shop with a hip and modern atmosphere",
+      "Perfect location on a popular street in Bellevue",
+      "Good and refreshing smoothies",
+      "Nice employees"
+    ],
+    "weaknesses": [
+      "Sandwiches fall apart easily",
+      "Too much sauce making the bread soggy",
+      "High pricing not justified by sandwich quality",
+      "Less personal interaction due to self-checkout"
+    ],
+    "key_insights": "The sandwich shop offers a charming atmosphere and convenient location, but the quality of the food, particularly the sandwiches, does not justify the high prices, leading to a mixed overall experience."
+  },
+  {
+    "review_id": "ChdDSUhNMG9nS0VJQ0FnSUN6b1lhWGtRRRAB",
+    "sentiment": "Mixed",
+    "sentiment_score": 2.5,
+    "topics": [
+      "atmosphere",
+      "location",
+      "food quality",
+      "sandwich structure",
+      "sauce quantity",
+      "pricing",
+      "employee interaction",
+      "customer experience"
+    ],
+    "strengths": [
+      "Cute sandwich shop with a hip and modern atmosphere",
+      "Perfect location on a popular street in Bellevue",
+      "Good and refreshing smoothies",
+      "Nice employees"
+    ],
+    "weaknesses": [
+      "Sandwiches fall apart easily",
+      "Too much sauce making the bread soggy",
+      "High pricing compared to quality of sandwiches",
+      "Less personal interaction due to self-checkout trend"
+    ],
+    "key_insights": "The sandwich shop offers a trendy atmosphere and convenient location, but the quality of the food, particularly the sandwiches, does not justify the high prices, leading to a mixed overall experience."
+  },
+  {
+    "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNGcS0tRXNnRRAB",
+    "sentiment": "Neutral",
+    "sentiment_score": 0.0,
+    "topics": [
+      "return visit",
+      "interior design",
+      "customer service",
+      "ordering process",
+      "food quality",
+      "taste preferences",
+      "overall experience"
+    ],
+    "strengths": [
+      "Comfortable atmosphere created by simple and natural interior design with many plants.",
+      "Quick service for food preparation."
+    ],
+    "weaknesses": [
+      "Unpleasant interaction with staff, indicated by the employee's frowning expression.",
+      "Food flavor profile (sauce and bread being slightly sweet) did not meet expectations.",
+      "Overall experience did not justify a special trip to the shop."
+    ],
+    "key_insights": "The review highlights a disappointing experience at a sandwich shop, noting a lack of friendly service and a flavor profile that didn't meet expectations, ultimately concluding that the visit wasn't worth the effort."
+  },
+  {
+    "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNGcS0tRXNnRRAB",
+    "sentiment": "Neutral",
+    "sentiment_score": 0.0,
+    "topics": [
+      "return visit",
+      "interior design",
+      "employee interaction",
+      "ordering process",
+      "food quality",
+      "taste preferences",
+      "overall experience"
+    ],
+    "strengths": [
+      "Comfortable atmosphere created by simple and natural interior design with many plants",
+      "Quick service for food preparation"
+    ],
+    "weaknesses": [
+      "Unpleasant interaction with an employee who had a frowning expression",
+      "Food had a slightly sweet taste that was not appealing to the reviewer",
+      "Overall experience did not meet expectations, leading to a low rating"
+    ],
+    "key_insights": "The review highlights a disappointing experience due to the unfriendly service and a lack of appealing flavors in the food, ultimately concluding that the shop is not worth a special visit despite its pleasant atmosphere."
+  },
+  {
+    "review_id": "ChZDSUhNMG9nS0VJQ0FnTURnaXZLMlR3EAE",
+    "sentiment": "Neutral",
+    "sentiment_score": 0.0,
+    "topics": [
+      "pricing",
+      "food quality",
+      "menu items",
+      "beverage quality",
+      "customer experience",
+      "cafe hopping"
+    ],
+    "strengths": [
+      "Delicious and fresh sandwiches",
+      "Tasty Bulgogi and Shroom sandwiches",
+      "Great iced Tiramisu Latte",
+      "Positive overall experience",
+      "Good for cafe hopping"
+    ],
+    "weaknesses": [
+      "Small portion size for the price",
+      "Did not fill the customer"
+    ],
+    "key_insights": "The reviewer enjoyed the delicious and fresh sandwiches, particularly the Bulgogi and Shroom varieties, along with a tasty iced Tiramisu Latte, but noted that the portion sizes were small, suggesting a need for additional food afterward."
+  },
+  {
+    "review_id": "ChZDSUhNMG9nS0VJQ0FnTURnaXZLMlR3EAE",
+    "sentiment": "Neutral",
+    "sentiment_score": 0.0,
+    "topics": [
+      "pricing",
+      "food quality",
+      "menu variety",
+      "beverage quality",
+      "customer experience",
+      "recommendation"
+    ],
+    "strengths": [
+      "Delicious and fresh food",
+      "Tasty Bulgogi and Shroom sandwiches",
+      "Great iced Tiramisu Latte",
+      "Positive overall experience",
+      "Suitable for cafe hopping"
+    ],
+    "weaknesses": [
+      "Small portion size for the price"
+    ],
+    "key_insights": "The reviewer enjoyed the delicious and fresh sandwiches, particularly the Bulgogi and Shroom varieties, along with a tasty iced Tiramisu Latte, but noted that the portion sizes were small, suggesting a need for additional food afterward."
+  },
+  {
+    "review_id": "ChdDSUhNMG9nS0VJQ0FnTUR3dnZ6aDhnRRAB",
+    "sentiment": "Mixed",
+    "sentiment_score": 3.5,
+    "topics": [
+      "Korean style sandwich",
+      "Chinese operation",
+      "taste",
+      "matcha strawberry ice",
+      "menu presentation"
+    ],
+    "strengths": [
+      "Good place for Korean style sandwich",
+      "Sandwich is very tasty"
+    ],
+    "weaknesses": [
+      "Matcha strawberry ice does not match the picture shown in the menu"
+    ],
+    "key_insights": "The restaurant offers delicious Korean-style sandwiches, but the matcha strawberry ice does not meet expectations based on its menu presentation."
+  },
+  {
+    "review_id": "ChdDSUhNMG9nS0VJQ0FnTUR3dnZ6aDhnRRAB",
+    "sentiment": "Neutral",
+    "sentiment_score": 0.0,
+    "topics": [
+      "Korean style sandwich",
+      "taste",
+      "matcha strawberry ice",
+      "menu presentation"
+    ],
+    "strengths": [
+      "Tasty Korean style sandwiches",
+      "Good overall experience"
+    ],
+    "weaknesses": [
+      "Matcha strawberry ice does not match the menu picture"
+    ],
+    "key_insights": "The Korean-style sandwiches are highly praised for their taste, but the matcha strawberry ice does not meet expectations based on its menu presentation."
+  },
+  {
+    "review_id": "ChdDSUhNMG9nS0VJQ0FnSUMta0xXOXRRRRAB",
+    "sentiment": "Neutral",
+    "sentiment_score": 0.0,
+    "topics": [
+      "food quality",
+      "pricing",
+      "dining experience",
+      "staff friendliness",
+      "restaurant ambiance",
+      "pet-friendly policy"
+    ],
+    "strengths": [
+      "Flavorful spicy sauce",
+      "Super soft and perfect egg",
+      "Friendly staff",
+      "Cozy and clean environment",
+      "Instagrammable space",
+      "Dog-friendly policy",
+      "Positive dining experience"
+    ],
+    "weaknesses": [
+      "High price for the sandwich relative to fulfillment"
+    ],
+    "key_insights": "The customer appreciates the flavorful spicy chicken sandwich and the cozy, dog-friendly atmosphere of the restaurant, highlighting that dining in enhances the overall experience despite the sandwich's high price."
+  },
+  {
+    "review_id": "ChdDSUhNMG9nS0VJQ0FnSUMta0xXOXRRRRAB",
+    "sentiment": "Neutral",
+    "sentiment_score": 0.0,
+    "topics": [
+      "food quality",
+      "pricing",
+      "dining experience",
+      "staff friendliness",
+      "restaurant ambiance",
+      "pet-friendly policy"
+    ],
+    "strengths": [
+      "Flavorful spicy sauce",
+      "Super soft and perfect egg",
+      "Friendly staff",
+      "Cozy and clean environment",
+      "Instagrammable space",
+      "Pet-friendly policy",
+      "Positive dining experience"
+    ],
+    "weaknesses": [
+      "Sandwich may not be fulfilling for the price"
+    ],
+    "key_insights": "The customer appreciates the flavorful spicy chicken sandwich and the cozy, dog-friendly dining atmosphere, recommending an in-person experience for the best enjoyment."
+  },
+  {
+    "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xScFZTMU1iMVpaVVdaS1NWTldjMFZzUW5oMk1FRRAB",
+    "sentiment": "Neutral",
+    "sentiment_score": 0.0,
+    "topics": [
+      "comfort",
+      "design",
+      "drinks",
+      "matcha latte",
+      "milk flavor",
+      "portion size",
+      "ice amount",
+      "mascarpone cheese",
+      "staff service",
+      "mix-ups",
+      "LOX sandwich",
+      "food presentation",
+      "Google reviews",
+      "return visit",
+      "photo opportunity"
+    ],
+    "strengths": [
+      "Stylish and bright design creating a nice atmosphere",
+      "Tasty matcha latte",
+      "Quick resolution of the issue with the missing mascarpone cheese",
+      "Appetizing appearance and enjoyment of the LOX sandwich"
+    ],
+    "weaknesses": [
+      "Strong milk flavor in the matcha latte overshadowing the matcha taste",
+      "Portion size of the matcha latte felt excessive with too much ice",
+      "Mix-ups with the order (missing mascarpone cheese) during a non-busy time",
+      "Customer uncertainty about returning despite positive aspects"
+    ],
+    "key_insights": "The review highlights a stylish and comfortable atmosphere but notes issues with drink preparation and service, leading to a mixed experience that may deter future visits despite positive feedback on food quality."
+  },
+  {
+    "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xScFZTMU1iMVpaVVdaS1NWTldjMFZzUW5oMk1FRRAB",
+    "sentiment": "Neutral",
+    "sentiment_score": 0.0,
+    "topics": [
+      "comfort",
+      "design",
+      "drinks",
+      "matcha latte",
+      "milk flavor",
+      "portion size",
+      "ice",
+      "mascarpone cheese",
+      "staff responsiveness",
+      "mix-ups",
+      "sandwich quality",
+      "Google reviews",
+      "return intention",
+      "photo opportunity"
+    ],
+    "strengths": [
+      "Comfortable atmosphere",
+      "Stylish and bright design",
+      "Tasty matcha latte",
+      "Quick resolution of staff mistakes",
+      "Appetizing LOX sandwich"
+    ],
+    "weaknesses": [
+      "Strong milk flavor in matcha latte",
+      "Large amount of ice despite request for less",
+      "Mix-ups with order (missing mascarpone cheese)",
+      "Concerns about consistency in service",
+      "Uncertainty about returning based on experience"
+    ],
+    "key_insights": "The review highlights a stylish and comfortable atmosphere but notes issues with drink preparation and service accuracy, leading to a mixed experience that diminishes the likelihood of a return visit despite some positive aspects like the food."
+  },
+  {
+    "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQ3dV9lMEVBEAE",
+    "sentiment": "Neutral",
+    "sentiment_score": 0.0,
+    "topics": [
+      "sandwiches",
+      "vegetarian options",
+      "healthy meals",
+      "tiramisu latte",
+      "presentation"
+    ],
+    "strengths": [
+      "Interesting and great-tasting sandwiches",
+      "Availability of vegetarian options",
+      "Healthy meal options for tourists",
+      "Tiramisu latte met expectations",
+      "Ability to make drinks with decaf espresso",
+      "Cute presentation of food and drinks"
+    ],
+    "weaknesses": [],
+    "key_insights": "The review highlights the appeal of the diverse sandwich options, including vegetarian choices, and praises the delicious tiramisu latte, particularly its customizable decaf option and attractive presentation."
+  },
+  {
+    "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQ3dV9lMEVBEAE",
+    "sentiment": "Neutral",
+    "sentiment_score": 0.0,
+    "topics": [
+      "sandwiches",
+      "vegetarian options",
+      "healthy meals",
+      "tiramisu latte",
+      "presentation"
+    ],
+    "strengths": [
+      "Interesting and great-tasting sandwiches",
+      "Availability of vegetarian options",
+      "Healthy meal options for tourists",
+      "Highly rated tiramisu latte",
+      "Ability to make drinks with decaf espresso",
+      "Cute presentation of food and drinks"
+    ],
+    "weaknesses": [],
+    "key_insights": "The review highlights the appeal of the diverse and tasty sandwich options, including vegetarian choices, as well as the highly praised tiramisu latte, which can be made with decaf espresso and features an attractive presentation."
+  },
+  {
+    "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tGRlJtTnFTR2c1YjNWSlZrdGtjVzVKVTJOQlgyYxAB",
+    "sentiment": "Mixed",
+    "sentiment_score": 2.5,
+    "topics": [
+      "coffee quality",
+      "sandwich quality",
+      "cleanliness of touch screens",
+      "customer experience"
+    ],
+    "strengths": [
+      "High-quality coffee",
+      "Tasty sandwiches"
+    ],
+    "weaknesses": [
+      "Dirty touch screens for ordering and payment",
+      "Unpleasant cleanliness issue"
+    ],
+    "key_insights": "The coffee and sandwiches are well-regarded, but the consistently dirty touch screens for ordering and payment detract from the overall experience."
+  },
+  {
+    "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tGRlJtTnFTR2c1YjNWSlZrdGtjVzVKVTJOQlgyYxAB",
+    "sentiment": "Neutral",
+    "sentiment_score": 0.0,
+    "topics": [
+      "coffee quality",
+      "sandwich quality",
+      "cleanliness of ordering system",
+      "customer experience"
+    ],
+    "strengths": [
+      "High-quality coffee",
+      "Tasty sandwiches"
+    ],
+    "weaknesses": [
+      "Dirty touch screens for ordering and payment",
+      "Unpleasant cleanliness issues"
+    ],
+    "key_insights": "The coffee and sandwiches are highly praised, but the consistently dirty touch screens for ordering and payment detract significantly from the overall experience."
+  },
+  {
+    "review_id": "ChdDSUhNMG9nS0VJQ0FnSUMybWF6RDFRRRAB",
+    "sentiment": "Positive",
+    "sentiment_score": 4.0,
+    "topics": [
+      "cafe experience",
+      "food quality",
+      "latte flavor",
+      "bulgogi sandwich",
+      "ambience",
+      "crowd management",
+      "service speed"
+    ],
+    "strengths": [
+      "Cute Korean cafe aesthetic",
+      "Flavorful specialty tiramisu latte",
+      "Tasty and filling bulgogi sandwich",
+      "Nice ambience with beautiful decor and plants"
+    ],
+    "weaknesses": [
+      "Latte may be too sweet for some",
+      "Bulgogi sandwich could use more flavor",
+      "Small size of the cafe leading to potential crowding",
+      "Long wait times during busy hours"
+    ],
+    "key_insights": "The cafe offers a charming Korean aesthetic and delicious menu items like the sweet tiramisu latte and filling bulgogi sandwich, but it can get crowded and service may be slow during peak hours."
+  },
+  {
+    "review_id": "ChdDSUhNMG9nS0VJQ0FnSUMybWF6RDFRRRAB",
+    "sentiment": "Positive",
+    "sentiment_score": 4.2,
+    "topics": [
+      "cafe ambiance",
+      "food quality",
+      "service speed",
+      "menu items",
+      "crowd management"
+    ],
+    "strengths": [
+      "Cute Korean cafe aesthetic with beautiful decor",
+      "Specialty tiramisu latte is sweet and flavorful",
+      "Bulgogi sandwich is tasty and filling",
+      "Mayo topping enhances the sandwich"
+    ],
+    "weaknesses": [
+      "Latte may be too sweet for some customers",
+      "Bulgogi sandwich could use more flavor",
+      "Small size of the cafe leads to long wait times during busy hours"
+    ],
+    "key_insights": "The cafe offers a charming Korean aesthetic and delicious food, particularly the sweet tiramisu latte and satisfying bulgogi sandwich, but it can get crowded and service may be slow during peak hours."
+  },
+  {
+    "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNGN3ZPS3p3RRAB",
+    "sentiment": "Neutral",
+    "sentiment_score": 0.0,
+    "topics": [
+      "ambiance",
+      "food quality",
+      "menu items",
+      "temperature of food",
+      "flavor",
+      "portion size"
+    ],
+    "strengths": [
+      "Cute and inviting atmosphere",
+      "Abundance of plants",
+      "Flavorful food",
+      "Creamy and savory truffle sauce",
+      "Filling sandwich"
+    ],
+    "weaknesses": [
+      "Mushrooms and scrambled eggs were not hot",
+      "Disappointment with temperature of main ingredients"
+    ],
+    "key_insights": "The review highlights a charming atmosphere and flavorful food, but notes disappointment with the temperature of the main ingredients in the mushroom sandwich, leading to a moderate 3-star rating."
+  },
+  {
+    "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNGN3ZPS3p3RRAB",
+    "sentiment": "Neutral",
+    "sentiment_score": 0.0,
+    "topics": [
+      "ambiance",
+      "food quality",
+      "menu items",
+      "temperature of food",
+      "flavor",
+      "portion size"
+    ],
+    "strengths": [
+      "Cute and inviting atmosphere",
+      "Pleasant decor with a lot of plants",
+      "Flavorful food",
+      "Creamy and savory truffle sauce",
+      "Filling portions"
+    ],
+    "weaknesses": [
+      "Mushrooms and scrambled eggs were not hot",
+      "Disappointment with temperature of the main ingredients"
+    ],
+    "key_insights": "The review highlights a charming atmosphere and flavorful dishes, but notes disappointment with the temperature of the main ingredients in the mushroom sandwich, leading to a moderate 3-star rating."
+  },
+  {
+    "review_id": "ChdDSUhNMG9nS0VJQ0FnSURlb2NMXzBnRRAB",
+    "sentiment": "Neutral",
+    "sentiment_score": 0.0,
+    "topics": [
+      "food quality",
+      "bread texture",
+      "sauce flavor",
+      "egg texture",
+      "bulgogi quality",
+      "cafe ambiance",
+      "parking validation"
+    ],
+    "strengths": [
+      "Delicious Korean egg sandos",
+      "Buttery and soft bread",
+      "Subtle truffle flavor",
+      "Flavorful bulgogi",
+      "Aesthetic cafe",
+      "Parking validation for two hours"
+    ],
+    "weaknesses": [
+      "Egg could be more custard-like",
+      "Bulgogi was a little chewy",
+      "Bulgogi was a bit cold"
+    ],
+    "key_insights": "The review highlights a tasty Korean egg sando with a buttery bread and a unique truffle sauce, though it notes the egg could be creamier and the bulgogi was somewhat chewy and cold. Overall, the experience is positive, enhanced by the cafe's aesthetic and parking validation."
+  },
+  {
+    "review_id": "ChdDSUhNMG9nS0VJQ0FnSURlb2NMXzBnRRAB",
+    "sentiment": "Neutral",
+    "sentiment_score": 0.0,
+    "topics": [
+      "food quality",
+      "sauce substitution",
+      "texture",
+      "cafe ambiance",
+      "parking validation"
+    ],
+    "strengths": [
+      "Delicious Korean egg sandos",
+      "Buttery and soft bread",
+      "Subtle truffle flavor",
+      "Flavorful bulgogi",
+      "Aesthetic cafe",
+      "Parking validation for two hours"
+    ],
+    "weaknesses": [
+      "Egg could be more custard-like",
+      "Bulgogi was a little chewy",
+      "Bulgogi was a bit cold"
+    ],
+    "key_insights": "The review highlights a delicious Korean egg sando with buttery bread and a unique truffle sauce, though it notes that the egg could be creamier and the bulgogi was somewhat chewy and cold. Overall, the experience is positive, enhanced by the cafe's aesthetics and convenient parking validation."
+  },
+  {
+    "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2t0VFIyaGlYMFJGTFRselpVdHlZMDFMV0Y5WmFFRRAB",
+    "sentiment": "Neutral",
+    "sentiment_score": 0.0,
+    "topics": [
+      "location",
+      "cafe ambiance",
+      "menu items",
+      "pricing",
+      "staff service",
+      "drink sweetness",
+      "food quality",
+      "parking convenience"
+    ],
+    "strengths": [
+      "Minimalist and aesthetic ambiance",
+      "Reasonable prices for portion sizes",
+      "Friendly and helpful staff",
+      "Good quality drinks and food",
+      "Convenient location with easy parking"
+    ],
+    "weaknesses": [
+      "Confusion regarding the pistachio bomb latte order",
+      "Drinks may be too sweet for some customers"
+    ],
+    "key_insights": "Semicolon Cafe offers a minimalist aesthetic and reasonable prices, with friendly staff who are attentive to customer needs, making it a pleasant spot for enjoyable, albeit sweet, drinks and delicious food."
+  },
+  {
+    "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2t0VFIyaGlYMFJGTFRselpVdHlZMDFMV0Y5WmFFRRAB",
+    "sentiment": "Neutral",
+    "sentiment_score": 0.0,
+    "topics": [
+      "location",
+      "cafe ambiance",
+      "ordering process",
+      "menu items",
+      "pricing",
+      "staff service",
+      "drink sweetness",
+      "food quality",
+      "parking convenience"
+    ],
+    "strengths": [
+      "Minimalist and aesthetic cafe ambiance",
+      "Reasonable prices for the size of the items",
+      "Friendly and helpful staff",
+      "Good quality drinks and food",
+      "Convenient location with easy parking"
+    ],
+    "weaknesses": [
+      "Confusion regarding the order of the pistachio bomb latte",
+      "Drinks were on the sweeter side"
+    ],
+    "key_insights": "Semicolon Cafe offers a minimalist aesthetic and reasonable prices, with friendly staff who provide excellent customer service, although the sweetness of the drinks may not appeal to everyone."
+  },
+  {
+    "review_id": "ChZDSUhNMG9nS0VJQ0FnSURtOFAyUFFREAE",
+    "sentiment": "Neutral",
+    "sentiment_score": 0.0,
+    "topics": [],
+    "strengths": [
+      "Aesthetically pleasing environment",
+      "Friendly and nice staff",
+      "Delicious food quality",
+      "Variety in menu options",
+      "Positive first experience with bingsoo"
+    ],
+    "weaknesses": [],
+    "key_insights": "The review highlights a positive dining experience at a visually appealing cafe in Bellevue, emphasizing the deliciousness of the breakfast sandwich and the pleasantly balanced sweetness of the bingsoo dessert, making it a must-visit for food enthusiasts."
+  },
+  {
+    "review_id": "ChZDSUhNMG9nS0VJQ0FnSURtOFAyUFFREAE",
+    "sentiment": "Neutral",
+    "sentiment_score": 0.0,
+    "topics": [],
+    "strengths": [
+      "Aesthetically pleasing environment",
+      "Friendly and nice staff",
+      "Delicious food quality",
+      "Variety in menu options",
+      "Positive first experience with bingsoo",
+      "Balanced sweetness in desserts"
+    ],
+    "weaknesses": [
+      "Location may not be convenient for all customers"
+    ],
+    "key_insights": "The review highlights a positive dining experience at a visually appealing cafe in Bellevue, emphasizing the deliciousness of the breakfast sandwich and the enjoyable, not overly sweet bingsoo dessert, making it a recommended stop for food enthusiasts."
+  },
+  {
+    "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNoaWE3ODdBRRAB",
+    "sentiment": "Neutral",
+    "sentiment_score": 0.0,
+    "topics": [],
+    "strengths": [
+      "Food quality is better than the drinks."
+    ],
+    "weaknesses": [
+      "Poor service and negative staff attitude.",
+      "Extra charges for less ice or no ice.",
+      "Limited seating availability.",
+      "Cold environment.",
+      "Inconvenient ordering process for sandwiches."
+    ],
+    "key_insights": "The review highlights poor service and a negative atmosphere, along with dissatisfaction regarding pricing practices and limited seating, ultimately leading to a low rating despite the food being better than the drinks."
+  },
+  {
+    "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNoaWE3ODdBRRAB",
+    "sentiment": "Neutral",
+    "sentiment_score": 0.0,
+    "topics": [],
+    "strengths": [
+      "Food was better than the drink"
+    ],
+    "weaknesses": [
+      "Bad service",
+      "Negative attitude from staff",
+      "Nickel and diming customers",
+      "Charges more for less ice and no ice",
+      "Limited seating",
+      "Cold environment",
+      "Inconvenient ordering process for sandwiches"
+    ],
+    "key_insights": "The review highlights poor customer service and a frustrating ordering process, along with dissatisfaction regarding pricing and seating conditions, ultimately leading to a low rating despite the food being somewhat better than the drinks."
+  },
+  {
+    "review_id": "ChZDSUhNMG9nS0VJQ0FnSURKNHJUM0Z3EAE",
+    "sentiment": "Neutral",
+    "sentiment_score": 0.0,
+    "topics": [],
+    "strengths": [
+      "Tasty Korean Egg Drop sandwiches",
+      "Variety of refreshing drinks, macarons, pudding, and bingsoo",
+      "Aesthetic feel of the cafe",
+      "Good service",
+      "Positive experience for picky eaters"
+    ],
+    "weaknesses": [
+      "Menu and website lack clear labeling of 'Egg Drop Sandwich'",
+      "Parking requires downloading an app and using a promo code"
+    ],
+    "key_insights": "Semicolon Cafe in Bellevue offers a delightful introduction to Korean Egg Drop sandwiches, which are well-received even by picky eaters, alongside a variety of refreshing drinks and desserts, all in a pleasant atmosphere. The efficient electronic ordering system and good service further enhance the dining experience, making it a highly recommended spot."
+  },
+  {
+    "review_id": "ChZDSUhNMG9nS0VJQ0FnSURKNHJUM0Z3EAE",
+    "sentiment": "Neutral",
+    "sentiment_score": 0.0,
+    "topics": [],
+    "strengths": [
+      "Tasty Korean Egg Drop sandwiches",
+      "Variety of refreshing drinks, macarons, pudding, and bingsoo",
+      "Aesthetic feel of the cafe",
+      "Good service",
+      "Positive experience for picky eaters",
+      "Convenient electronic ordering system"
+    ],
+    "weaknesses": [
+      "Menu and website do not clearly list 'Egg Drop Sandwich' terminology",
+      "Limited parking information provided"
+    ],
+    "key_insights": "Semicolon Cafe in Bellevue offers a delightful introduction to Korean Egg Drop sandwiches, which are well-received even by picky eaters, alongside a variety of refreshing drinks and desserts in an aesthetically pleasing environment. The cafe provides convenient electronic ordering and good service, making it a highly recommended spot for a quick meal."
+  },
+  {
+    "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNwakxXQmZBEAE",
+    "sentiment": "Positive",
+    "sentiment_score": 4.0,
+    "topics": [
+      "cafe ambiance",
+      "menu offerings",
+      "food quality",
+      "pricing",
+      "seating availability"
+    ],
+    "strengths": [
+      "Cute and nicely decorated interior with lush greenery",
+      "Offers a unique menu featuring Korean egg sandwiches, drinks, and pastries",
+      "Allows customization of orders via kiosk",
+      "Food quality is high, with well-cooked eggs and tasty brioche bread"
+    ],
+    "weaknesses": [
+      "Limited seating leading to potential wait times",
+      "Perceived high cost of menu items, specifically $10 for a simple sandwich"
+    ],
+    "key_insights": "Semicolon offers delicious, customizable Korean egg sandwiches in a charming but small setting, though the $10 price point for a sandwich may deter some customers."
+  },
+  {
+    "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNwakxXQmZBEAE",
+    "sentiment": "Neutral",
+    "sentiment_score": 0.0,
+    "topics": [
+      "cafe ambiance",
+      "menu offerings",
+      "food quality",
+      "seating availability",
+      "ordering process",
+      "pricing"
+    ],
+    "strengths": [
+      "Cute and nicely decorated interior with lush greenery",
+      "Offers a unique menu featuring Korean egg sandwiches",
+      "Customization options available for orders",
+      "Food quality is high, with positive remarks on taste and ingredients"
+    ],
+    "weaknesses": [
+      "Limited seating capacity leading to potential wait times",
+      "Perceived high cost of menu items, particularly sandwiches"
+    ],
+    "key_insights": "Semicolon offers a charming atmosphere and delicious Korean egg sandwiches with customizable options, but the pricing may be considered high for some customers."
+  },
+  {
+    "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNqZ19iSFRBEAE",
+    "sentiment": "Neutral",
+    "sentiment_score": 0.0,
+    "topics": [
+      "bulgogi sandwich",
+      "tiramisu latte",
+      "texture",
+      "price"
+    ],
+    "strengths": [
+      "Delicious bulgogi sandwich with a variety of ingredients that appeal to texture lovers",
+      "Refreshing tiramisu latte for a nice lunch"
+    ],
+    "weaknesses": [
+      "Tiramisu latte is not considered special",
+      "High price point"
+    ],
+    "key_insights": "The bulgogi sandwich is highly praised for its diverse textures and flavors, while the tiramisu latte is considered refreshing but not exceptional; however, the overall experience is perceived as expensive."
+  },
+  {
+    "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNqZ19iSFRBEAE",
+    "sentiment": "Neutral",
+    "sentiment_score": 0.0,
+    "topics": [
+      "bulgogi sandwich",
+      "tiramisu latte",
+      "texture",
+      "price"
+    ],
+    "strengths": [
+      "Bulgogi sandwich is highly praised for its variety of ingredients and texture appeal.",
+      "Tiramisu latte is refreshing and enjoyable for lunch."
+    ],
+    "weaknesses": [
+      "Tiramisu latte is considered good but not special.",
+      "The overall pricing is perceived as expensive."
+    ],
+    "key_insights": "The reviewer highly enjoys the bulgogi sandwich for its diverse textures, while finding the tiramisu latte refreshing but not exceptional; however, they note that the overall experience is quite expensive."
+  },
+  {
+    "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xveFIxUmxUM3BqZGtjMVVXOHhVaTFrUTA5dlgwRRAB",
+    "sentiment": "Neutral",
+    "sentiment_score": 0.0,
+    "topics": [
+      "location",
+      "service",
+      "food quality",
+      "desserts",
+      "sandwiches"
+    ],
+    "strengths": [
+      "cute ambiance",
+      "friendly servers",
+      "good bingsoo"
+    ],
+    "weaknesses": [
+      "sandwiches lack flavor",
+      "sandwiches lack punch"
+    ],
+    "key_insights": "The review highlights a charming atmosphere and friendly service, but notes that the sandwiches lack flavor, resulting in a mediocre overall experience reflected in the 3-star rating."
+  },
+  {
+    "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xveFIxUmxUM3BqZGtjMVVXOHhVaTFrUTA5dlgwRRAB",
+    "sentiment": "Neutral",
+    "sentiment_score": 0.0,
+    "topics": [
+      "location",
+      "service",
+      "food quality",
+      "menu variety",
+      "flavor"
+    ],
+    "strengths": [
+      "Super cute little spot in downtown Bellevue",
+      "Super nice servers",
+      "Really good bingsoo"
+    ],
+    "weaknesses": [
+      "Sandwiches lacked flavor",
+      "Sandwiches needed more punch"
+    ],
+    "key_insights": "The review highlights a charming atmosphere and friendly service, but notes that the sandwiches lack flavor, resulting in a mediocre overall experience reflected in the 3-star rating."
+  },
+  {
+    "review_id": "ChdDSUhNMG9nS0VJQ0FnSURlNU9qTXBRRRAB",
+    "sentiment": "Neutral",
+    "sentiment_score": 0.0,
+    "topics": [
+      "ambiance",
+      "food quality",
+      "menu variety",
+      "service experience",
+      "wait times"
+    ],
+    "strengths": [
+      "Cute atmosphere with lots of plants",
+      "Unique and good sandwiches",
+      "Quick service and food preparation",
+      "Positive overall experience that encourages return visits"
+    ],
+    "weaknesses": [
+      "Lack of greeting or order-taking at the counter",
+      "Service experience could be improved"
+    ],
+    "key_insights": "The review highlights a charming atmosphere and unique food offerings, but notes a lack of initial customer service despite quick food preparation, leading to an overall positive experience."
+  },
+  {
+    "review_id": "ChdDSUhNMG9nS0VJQ0FnSURlNU9qTXBRRRAB",
+    "sentiment": "Mixed",
+    "sentiment_score": 3.5,
+    "topics": [
+      "ambiance",
+      "food quality",
+      "menu variety",
+      "service experience",
+      "crowd timing",
+      "return intention"
+    ],
+    "strengths": [
+      "Cute ambiance with lots of plants",
+      "Unique and good sandwiches",
+      "Quick service",
+      "Positive experience with food and drinks"
+    ],
+    "weaknesses": [
+      "Lack of greeting and order-taking service",
+      "Initial emptiness of the place before it gets busy"
+    ],
+    "key_insights": "The reviewer enjoyed the unique food offerings and ambiance of the place but expressed disappointment with the initial service experience, despite appreciating the quick food preparation. They recommend visiting early to avoid crowds and suggest others try the venue."
+  },
+  {
+    "review_id": "ChdDSUhNMG9nS0VMYkd2ZHFmMHR2Mmd3RRAB",
+    "sentiment": "Neutral",
+    "sentiment_score": 0.0,
+    "topics": [
+      "bingsoo",
+      "toppings",
+      "cookie bits",
+      "chocolate",
+      "recommendation"
+    ],
+    "strengths": [
+      "AMAZING bingsoo",
+      "Generous amount of toppings",
+      "Well worth stopping by"
+    ],
+    "weaknesses": [
+      "Initial intimidation from the amount of toppings"
+    ],
+    "key_insights": "The review highlights the exceptional quality and generous portion of toppings in the chocolate bingsoo, making it a highly recommended treat worth trying."
+  },
+  {
+    "review_id": "ChdDSUhNMG9nS0VMYkd2ZHFmMHR2Mmd3RRAB",
+    "sentiment": "Neutral",
+    "sentiment_score": 0.0,
+    "topics": [],
+    "strengths": [
+      "AMAZING bingsoo",
+      "Generous amount of toppings",
+      "High customer satisfaction"
+    ],
+    "weaknesses": [
+      "Initial intimidation due to the amount of toppings"
+    ],
+    "key_insights": "The review highlights the exceptional quality and generous toppings of the bingsoo, particularly the chocolate variety, making it a highly recommended treat worth trying."
+  },
+  {
+    "review_id": "ChZDSUhNMG9nS0VJM29sc2Y0NGN6X05REAE",
+    "sentiment": "Positive",
+    "sentiment_score": 4.8,
+    "topics": [
+      "korean cafe",
+      "sandwiches",
+      "matcha",
+      "spicy chicken sandwich"
+    ],
+    "strengths": [
+      "Beautiful ambiance",
+      "Delicious sandwiches",
+      "Quality matcha",
+      "Spicy chicken sandwich praised"
+    ],
+    "weaknesses": [],
+    "key_insights": "The review highlights a beautiful Korean cafe that excels in serving delicious sandwiches, particularly praising the matcha and spicy chicken sandwich, leading to a perfect 5-star rating."
+  },
+  {
+    "review_id": "ChZDSUhNMG9nS0VJM29sc2Y0NGN6X05REAE",
+    "sentiment": "Neutral",
+    "sentiment_score": 0.0,
+    "topics": [],
+    "strengths": [
+      "Beautiful ambiance",
+      "Delicious sandwiches",
+      "High-quality matcha",
+      "Positive customer experience"
+    ],
+    "weaknesses": [],
+    "key_insights": "The cafe offers a delightful atmosphere with delicious food, particularly noted for its matcha and spicy chicken sandwich, earning a perfect 5-star rating."
+  },
+  {
+    "review_id": "ChdDSUhNMG9nS0VJQ0FnSURoaW9ycDlBRRAB",
+    "sentiment": "Neutral",
+    "sentiment_score": 0.0,
+    "topics": [],
+    "strengths": [
+      "Loved the mushroom sandwich",
+      "Lots of cheese in dishes",
+      "Well-prepared egg toast",
+      "Nice bingsoos",
+      "Good cake and ice shaved cream with nice toppings",
+      "Nice coffee"
+    ],
+    "weaknesses": [],
+    "key_insights": "The reviewer highly enjoys the food, particularly the mushroom sandwich and bingsoos, praising the generous use of cheese and the quality of the coffee, leading to a perfect 5-star rating."
+  },
+  {
+    "review_id": "ChdDSUhNMG9nS0VJQ0FnSURoaW9ycDlBRRAB",
+    "sentiment": "Positive",
+    "sentiment_score": 4.8,
+    "topics": [],
+    "strengths": [
+      "Loved the mushroom sandwich",
+      "Lots of cheese in dishes",
+      "Well-prepared egg toast",
+      "Nice bingsoos",
+      "Nice toppings on cake and shaved ice cream",
+      "Good coffee"
+    ],
+    "weaknesses": [],
+    "key_insights": "The reviewer highly appreciates the mushroom sandwich and the bingsoos, praising their generous cheese content and enjoyable toppings, along with positive remarks about the cake and coffee, leading to a 5-star rating."
+  },
+  {
+    "review_id": "ChZDSUhNMG9nS0VJQ0FnSUR4M2NURVh3EAE",
+    "sentiment": "Neutral",
+    "sentiment_score": 0.0,
+    "topics": [
+      "coffee shop",
+      "location",
+      "menu",
+      "ordering process",
+      "food quality",
+      "cleanliness",
+      "atmosphere",
+      "workspace"
+    ],
+    "strengths": [
+      "Cute ambiance and decor",
+      "Fresh and flavorful food",
+      "Clean environment",
+      "Private and quiet seating for work",
+      "Effective use of social media for promotion"
+    ],
+    "weaknesses": [],
+    "key_insights": "The coffee shop in Bellevue offers a charming atmosphere, fresh and flavorful food, and a quiet space ideal for working, making it a delightful find for visitors."
+  },
+  {
+    "review_id": "ChZDSUhNMG9nS0VJQ0FnSUR4M2NURVh3EAE",
+    "sentiment": "Positive",
+    "sentiment_score": 4.8,
+    "topics": [
+      "coffee shop",
+      "location",
+      "menu",
+      "ordering process",
+      "food quality",
+      "cleanliness",
+      "ambiance",
+      "work-friendly environment"
+    ],
+    "strengths": [
+      "Cute and appealing atmosphere",
+      "Fresh and flavorful food",
+      "Clean environment",
+      "Private and quiet seating for work",
+      "Effective use of social media for promotion"
+    ],
+    "weaknesses": [
+      "Limited menu visibility due to kiosk ordering",
+      "Potential for confusion with ordering process at kiosk"
+    ],
+    "key_insights": "The coffee shop in Bellevue offers a charming atmosphere, fresh and flavorful food, and a quiet space ideal for working, making it a delightful find for visitors."
+  },
+  {
+    "review_id": "ChdDSUhNMG9nS0VJQ0FnSUMzdXFyeHJnRRAB",
+    "sentiment": "Positive",
+    "sentiment_score": 4.8,
+    "topics": [
+      "food quality",
+      "menu items",
+      "customer experience",
+      "parking information"
+    ],
+    "strengths": [
+      "Incredible taste of food",
+      "Great combination of ingredients",
+      "Fantastic sauce",
+      "Positive customer experience",
+      "High likelihood of repeat visits"
+    ],
+    "weaknesses": [
+      "Lack of clear communication about parking options"
+    ],
+    "key_insights": "The cafe offers exceptional food, particularly the Lox and bulgogi sandwiches, paired with a delicious pistachio latte, leading to a highly positive dining experience. Additionally, customers should be aware of the free parking coupon available."
+  },
+  {
+    "review_id": "ChdDSUhNMG9nS0VJQ0FnSUMzdXFyeHJnRRAB",
+    "sentiment": "Neutral",
+    "sentiment_score": 0.0,
+    "topics": [
+      "food quality",
+      "menu items",
+      "customer experience",
+      "parking information",
+      "return visit"
+    ],
+    "strengths": [
+      "Incredible taste of food",
+      "Great combination of ingredients",
+      "Fantastic sauce",
+      "Positive customer experience",
+      "High likelihood of repeat visits"
+    ],
+    "weaknesses": [
+      "Lack of clear communication about parking options"
+    ],
+    "key_insights": "The cafe offers exceptional food, particularly the Lox and bulgogi sandwiches and pistachio latte, leading to a strong likelihood of repeat visits. Additionally, customers should be aware of the free parking coupon to avoid unnecessary expenses."
+  },
+  {
+    "review_id": "ChZDSUhNMG9nS0VJQ0FnSURybU5MNE9nEAE",
+    "sentiment": "Neutral",
+    "sentiment_score": 0.0,
+    "topics": [
+      "Bingsoo flavors",
+      "Sweetness level",
+      "Mango ripeness",
+      "Parking availability",
+      "Promo code for parking",
+      "LAZ parking app"
+    ],
+    "strengths": [
+      "Bingsoo flavors are not too sweet, appealing to those who prefer less sugary desserts.",
+      "Convenient parking option available with a promo code for free parking."
+    ],
+    "weaknesses": [
+      "Mango flavor was not as ripe as expected, indicating potential quality issues with ingredients."
+    ],
+    "key_insights": "The Mango and Matcha bingsoo are decent but could benefit from riper mango, and customers can enjoy two hours of free parking with a promo code from the store."
+  },
+  {
+    "review_id": "ChZDSUhNMG9nS0VJQ0FnSURybU5MNE9nEAE",
+    "sentiment": "Neutral",
+    "sentiment_score": 0.0,
+    "topics": [
+      "food quality",
+      "parking information",
+      "promo code usage"
+    ],
+    "strengths": [
+      "Not too sweet, appealing to those who prefer less sugary desserts.",
+      "Convenient parking option with a promo code for free parking."
+    ],
+    "weaknesses": [
+      "Mango flavor was not as ripe as expected."
+    ],
+    "key_insights": "The Mango and Matcha bingsoo are enjoyable but could benefit from riper mango, and customers can access two hours of free parking with a promo code from the store."
+  },
+  {
+    "review_id": "ChdDSUhNMG9nS0VJQ0FnSURSNlBiYzBBRRAB",
+    "sentiment": "Positive",
+    "sentiment_score": 4.2,
+    "topics": [],
+    "strengths": [
+      "Very tiny and cute sandwich and coffee shop",
+      "Quick service",
+      "Exciting sandwich options",
+      "Good fruit drink choices",
+      "Avocado Sandwich is highly praised",
+      "Very Berry drink is good",
+      "Reasonable prices",
+      "Parking validation available"
+    ],
+    "weaknesses": [
+      "Limited seating capacity",
+      "Seating is uncomfortable due to wooden chairs",
+      "Limited menu"
+    ],
+    "key_insights": "The shop offers a charming atmosphere with quick service and exciting sandwich and drink options at reasonable prices, though seating may be uncomfortable due to wooden chairs."
+  },
+  {
+    "review_id": "ChdDSUhNMG9nS0VJQ0FnSURSNlBiYzBBRRAB",
+    "sentiment": "Positive",
+    "sentiment_score": 4.2,
+    "topics": [],
+    "strengths": [
+      "Very tiny and cute sandwich and coffee shop",
+      "Quick service",
+      "Exciting sandwich options",
+      "Good fruit drink choices",
+      "Avocado sandwich is highly praised",
+      "Very berry drink is good",
+      "Reasonable prices",
+      "Parking validation available"
+    ],
+    "weaknesses": [
+      "Limited seating capacity",
+      "Self-service model may not appeal to everyone",
+      "Limited menu",
+      "Uncomfortable wooden chairs"
+    ],
+    "key_insights": "The sandwich and coffee shop offers a limited but exciting menu with quick service and reasonable prices, though seating may be uncomfortable. Highlights include the avocado sandwich and very berry drink."
+  },
+  {
+    "review_id": "Ci9DQUlRQUNvZENodHljRjlvT20wMFNHaG9lR0owTUY5aU9GcGZOMnAzYm5oZmRHYxAB",
+    "sentiment": "Neutral",
+    "sentiment_score": 0.0,
+    "topics": [
+      "food",
+      "atmosphere"
+    ],
+    "strengths": [
+      "delicious food",
+      "good music",
+      "chill vibes"
+    ],
+    "weaknesses": [],
+    "key_insights": "The review highlights the exceptional taste of the belt sandwich, complemented by a pleasant atmosphere with good music and relaxed vibes, leading to a perfect five-star rating."
+  },
+  {
+    "review_id": "Ci9DQUlRQUNvZENodHljRjlvT20wMFNHaG9lR0owTUY5aU9GcGZOMnAzYm5oZmRHYxAB",
+    "sentiment": "Neutral",
+    "sentiment_score": 0.0,
+    "topics": [
+      "food",
+      "atmosphere"
+    ],
+    "strengths": [
+      "delicious food",
+      "good music",
+      "chill vibes"
+    ],
+    "weaknesses": [],
+    "key_insights": "The review highlights the exceptional taste of the Belt sandwich, complemented by a pleasant atmosphere with good music and relaxed vibes, leading to a perfect five-star rating."
+  },
+  {
+    "review_id": "ChdDSUhNMG9nS0VJQ0FnSURta1pQcV9BRRAB",
+    "sentiment": "Mixed",
+    "sentiment_score": 3.5,
+    "topics": [
+      "cafe ambiance",
+      "food quality",
+      "breakfast sandwich",
+      "latte experience",
+      "customer expectations",
+      "crowd dynamics",
+      "service experience"
+    ],
+    "strengths": [
+      "Bright and modern atmosphere",
+      "Stylish decor with wall windows and lively houseplants",
+      "High-quality breakfast sandwich with well-marinated bulgogi beef",
+      "Good latte",
+      "Positive initial experience with barista Adam"
+    ],
+    "weaknesses": [
+      "Inconsistent quality of drinks and food on subsequent visits",
+      "Tiramisu Latte did not stand out",
+      "Breakfast sandwich presentation was not as impressive on the second visit",
+      "Crowded atmosphere on weekends detracted from the experience"
+    ],
+    "key_insights": "Semicolon offers a standout breakfast sandwich that leaves a lasting impression, but the experience can vary significantly depending on the time of visit, with peak hours attracting a bustling crowd that detracts from the cafe's charm."
+  },
+  {
+    "review_id": "ChdDSUhNMG9nS0VJQ0FnSURta1pQcV9BRRAB",
+    "sentiment": "Neutral",
+    "sentiment_score": 0.0,
+    "topics": [
+      "cafe ambiance",
+      "food quality",
+      "breakfast sandwich",
+      "latte experience",
+      "customer expectations",
+      "crowd dynamics",
+      "service experience"
+    ],
+    "strengths": [
+      "Bright and modern atmosphere",
+      "Stylish decor with wall windows and lively houseplants",
+      "High-quality breakfast sandwich with flavorful ingredients",
+      "Good latte",
+      "Positive initial experience with barista Adam"
+    ],
+    "weaknesses": [
+      "Inconsistent quality of menu items (e.g., Tiramisu Latte and bacon breakfast sandwich)",
+      "Crowded atmosphere on weekends detracts from experience",
+      "Potential for disappointment due to high expectations after initial visit"
+    ],
+    "key_insights": "Semicolon offers a standout breakfast sandwich that leaves a lasting impression, but the experience can vary significantly depending on the time of visit and crowd, leading to mixed feelings about subsequent visits."
+  },
+  {
+    "review_id": "ChZDSUhNMG9nS0VJQ0FnSURKOXAyaWVREAE",
+    "sentiment": "Positive",
+    "sentiment_score": 4.5,
+    "topics": [
+      "food quality",
+      "crowd level",
+      "beverage quality"
+    ],
+    "strengths": [
+      "Amazing avocado sandwich",
+      "Not crowded initially",
+      "Good cold brew despite bitterness"
+    ],
+    "weaknesses": [
+      "Cold brew was a bit on the bitter side"
+    ],
+    "key_insights": "The Avocado sandwich received high praise, indicating strong customer satisfaction, while the cold brew, though slightly bitter, was still enjoyable."
+  },
+  {
+    "review_id": "ChZDSUhNMG9nS0VJQ0FnSURKOXAyaWVREAE",
+    "sentiment": "Positive",
+    "sentiment_score": 4.5,
+    "topics": [
+      "food quality",
+      "crowd level",
+      "beverage taste"
+    ],
+    "strengths": [
+      "Amazing avocado sandwich",
+      "Not crowded initially",
+      "Good cold brew"
+    ],
+    "weaknesses": [
+      "Cold brew was a bit bitter"
+    ],
+    "key_insights": "The customer highly enjoyed the avocado sandwich and found the atmosphere pleasant, although they noted the cold brew was slightly bitter."
+  },
+  {
+    "review_id": "ChdDSUhNMG9nS0VJQ0FnSUR1LXRlODlBRRAB",
+    "sentiment": "Neutral",
+    "sentiment_score": 0.0,
+    "topics": [
+      "coffee shop",
+      "sandwich",
+      "dine-in",
+      "pricing",
+      "customer experience"
+    ],
+    "strengths": [
+      "Cute ambiance",
+      "Delicious food (sandwich and swoosh)",
+      "Reasonable pricing"
+    ],
+    "weaknesses": [
+      "Cute little box only available for dine-in customers"
+    ],
+    "key_insights": "The coffee shop offers delicious food at reasonable prices, with a charming atmosphere that encourages repeat visits, although the cute packaging is limited to dine-in customers."
+  },
+  {
+    "review_id": "ChdDSUhNMG9nS0VJQ0FnSUR1LXRlODlBRRAB",
+    "sentiment": "Neutral",
+    "sentiment_score": 0.0,
+    "topics": [
+      "coffee shop",
+      "sandwich",
+      "dine-in experience",
+      "pricing",
+      "food quality",
+      "customer experience"
+    ],
+    "strengths": [
+      "Cute ambiance",
+      "Delicious food (sandwich and swoosh)",
+      "Reasonable pricing"
+    ],
+    "weaknesses": [
+      "Cute little box only available for dine-in customers"
+    ],
+    "key_insights": "The coffee shop offers delicious food at reasonable prices, with a charming atmosphere that encourages repeat visits, although the cute packaging is limited to dine-in customers."
+  },
+  {
+    "review_id": "ChZDSUhNMG9nS0VJQ0FnSUR0b01iQklBEAE",
+    "sentiment": "Positive",
+    "sentiment_score": 4.5,
+    "topics": [],
+    "strengths": [
+      "super fun place",
+      "good quality bread for the sandwich",
+      "creative iced tiramisu latte",
+      "quick food service",
+      "recommended to others in the area"
+    ],
+    "weaknesses": [
+      "service was just a touch pad"
+    ],
+    "key_insights": "The reviewer enjoyed the creative food and quick service, highlighting the quality of the sandwich and latte, but noted the service could be improved slightly; they would recommend the place while considering other options for their next visit."
+  },
+  {
+    "review_id": "ChZDSUhNMG9nS0VJQ0FnSUR0b01iQklBEAE",
+    "sentiment": "Positive",
+    "sentiment_score": 4.5,
+    "topics": [],
+    "strengths": [
+      "super fun place",
+      "good quality bread for the sandwich",
+      "creative iced tiramisu latte",
+      "quick food service"
+    ],
+    "weaknesses": [
+      "service was just a touch pad"
+    ],
+    "key_insights": "The reviewer enjoyed the creative food and quick service at the establishment, highlighting the quality of the sandwich and latte, but noted that the service could be improved slightly. They would consider trying other places first but still recommend it to others."
+  },
+  {
+    "review_id": "ChZDSUhNMG9nS0VJQ0FnSURoeWVmZURBEAE",
+    "sentiment": "Neutral",
+    "sentiment_score": 0.0,
+    "topics": [
+      "parking issues",
+      "customer service",
+      "tipping policy",
+      "food quality",
+      "value for money",
+      "food presentation"
+    ],
+    "strengths": [
+      "Great presentation of the food"
+    ],
+    "weaknesses": [
+      "Difficult parking situation",
+      "Poor customer service",
+      "Lack of interaction with staff",
+      "Inconsistent food quality",
+      "High prices for the value received"
+    ],
+    "key_insights": "The reviewer expresses frustration with poor customer service and difficulty finding parking, ultimately feeling that the quality and value of the food did not meet expectations, leading to a decision not to return."
+  },
+  {
+    "review_id": "ChZDSUhNMG9nS0VJQ0FnSURoeWVmZURBEAE",
+    "sentiment": "Negative",
+    "sentiment_score": -2.5,
+    "topics": [
+      "parking issues",
+      "customer service",
+      "tipping policy",
+      "food quality",
+      "pricing",
+      "food presentation"
+    ],
+    "strengths": [
+      "Great presentation of the food"
+    ],
+    "weaknesses": [
+      "Difficult parking situation",
+      "Poor customer service",
+      "Lack of interaction from staff",
+      "Inconsistent food quality",
+      "High prices for the value received"
+    ],
+    "key_insights": "The reviewer expresses frustration with poor customer service and difficulty finding parking, ultimately feeling that the quality and value of the food did not justify the expense, leading to a decision not to return."
+  },
+  {
+    "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xka1MzSjFiMmRRUTNWcVgydGtVa1JCU21wb1JrRRAB",
+    "sentiment": "Neutral",
+    "sentiment_score": 0.0,
+    "topics": [
+      "Mango-Banana smoothie",
+      "taste",
+      "delicious"
+    ],
+    "strengths": [
+      "delicious taste"
+    ],
+    "weaknesses": [],
+    "key_insights": "The reviewer found the Mango-Banana smoothie to be delicious, resulting in a positive rating of 4 stars."
+  },
+  {
+    "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xka1MzSjFiMmRRUTNWcVgydGtVa1JCU21wb1JrRRAB",
+    "sentiment": "Neutral",
+    "sentiment_score": 0.0,
+    "topics": [
+      "Mango-Banana smoothie",
+      "taste",
+      "deliciousness"
+    ],
+    "strengths": [
+      "Delicious taste of the Mango-Banana smoothie"
+    ],
+    "weaknesses": [],
+    "key_insights": "The Mango-Banana smoothie received a positive review, highlighting its delicious taste, which contributed to a strong 4-star rating."
+  },
+  {
+    "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNwc3FmRlJ3EAE",
+    "sentiment": "Mixed",
+    "sentiment_score": 3.5,
+    "topics": [],
+    "strengths": [
+      "Fantastic brioche bread",
+      "Great sauce in the sandwich",
+      "Nicely done eggs",
+      "Cute interior",
+      "Decent service speed"
+    ],
+    "weaknesses": [
+      "Chicken was a bit dry",
+      "Chicken was bland"
+    ],
+    "key_insights": "The brioche bread and sauce enhance the sandwich's flavor, while the chicken is perceived as dry and bland, suggesting a need for improved seasoning. Overall, the experience is positive, reflected in the 4-star rating."
+  },
+  {
+    "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNwc3FmRlJ3EAE",
+    "sentiment": "Mixed",
+    "sentiment_score": 3.5,
+    "topics": [
+      "brioche bread",
+      "sandwich sauce",
+      "eggs",
+      "chicken",
+      "interior ambiance",
+      "service speed"
+    ],
+    "strengths": [
+      "Fantastic brioche bread",
+      "Great sauce in the sandwich",
+      "Nicely done eggs",
+      "Cute interior",
+      "Decent service speed"
+    ],
+    "weaknesses": [
+      "Chicken was a bit dry",
+      "Chicken was bland"
+    ],
+    "key_insights": "The brioche bread and sauce enhance the sandwich's flavor, while the chicken lacks moisture and seasoning, suggesting a need for improvement in that area. Overall, the experience is positive, reflected in the 4-star rating."
+  }
+]

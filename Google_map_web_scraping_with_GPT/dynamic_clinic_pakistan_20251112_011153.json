@@ -1,0 +1,31 @@
+{
+  "business_data": {
+    "company_name": "Dynamic Clinic Pakistan",
+    "company_main_url": "https://www.dynamiclinic.com.pk/",
+    "emails": [
+      "info@dynamiclinic.com.pk",
+      "info@dynamicaesthetic.com.pk",
+      "info@skncosmetics.com",
+      "info@aestheticclinicriyadh.com"
+    ],
+    "contact_numbers": [
+      "+92-3325488777",
+      "+923006142585",
+      "+971 43888504",
+      "+971 542992160",
+      "+966591087287"
+    ],
+    "social_media_links": [
+      "https://www.facebook.com/dynamiclinicpk",
+      "https://www.instagram.com/dynamiclinicpk"
+    ],
+    "summary": "Dynamic Clinic Pakistan is a leading cosmetic clinic specializing in a wide range of aesthetic treatments aimed at enhancing beauty and restoring confidence. The clinic offers both surgical and non-surgical services, including cosmetic surgery, hair transplants, dental services, and advanced skincare treatments. With a team of highly qualified professionals, Dynamic Clinic focuses on personalized care and utilizes state-of-the-art technology to ensure optimal results for its clients. The target audience includes individuals seeking cosmetic enhancements and those looking to improve their overall appearance."
+  },
+  "extraction_metadata": {
+    "total_pages_discovered": 0,
+    "pages_analyzed": 7,
+    "extraction_method": "LLM-powered intelligent page selection",
+    "timestamp": "2025-11-12 01:11:53",
+    "model_used": "gpt-4o-mini"
+  }
+}

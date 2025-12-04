@@ -1,0 +1,198 @@
+{
+  "total_reviews": 100,
+  "sentiment_distribution": {
+    "Neutral": 69,
+    "Positive": 18,
+    "Mixed": 11,
+    "Negative": 2
+  },
+  "avg_sentiment_score": 0.1725,
+  "top_topics": [
+    [
+      "food quality",
+      59
+    ],
+    [
+      "ambiance",
+      27
+    ],
+    [
+      "pricing",
+      27
+    ],
+    [
+      "coffee quality",
+      17
+    ],
+    [
+      "service speed",
+      17
+    ],
+    [
+      "atmosphere",
+      11
+    ],
+    [
+      "menu variety",
+      11
+    ],
+    [
+      "portion size",
+      9
+    ],
+    [
+      "customer service",
+      8
+    ],
+    [
+      "beverage quality",
+      8
+    ],
+    [
+      "product quality",
+      8
+    ],
+    [
+      "seating availability",
+      7
+    ],
+    [
+      "food presentation",
+      6
+    ],
+    [
+      "sandwich quality",
+      6
+    ],
+    [
+      "cafe ambiance",
+      6
+    ]
+  ],
+  "common_strengths": [
+    [
+      "cozy atmosphere",
+      3
+    ],
+    [
+      "nice vibe",
+      2
+    ],
+    [
+      "cozy ambiance",
+      2
+    ],
+    [
+      "aesthetically pleasing setup",
+      2
+    ],
+    [
+      "great presentation",
+      2
+    ],
+    [
+      "appetizing appearance",
+      2
+    ],
+    [
+      "The avocado sandwich was loved by the customer.",
+      2
+    ],
+    [
+      "The bread was described as light and fluffy.",
+      2
+    ],
+    [
+      "All of the ingredients inside the sandwich worked together just right.",
+      2
+    ],
+    [
+      "The ambience is clean and calming.",
+      2
+    ],
+    [
+      "Ordering is done through a kiosk and the food comes generally quickly.",
+      2
+    ],
+    [
+      "Fluffy sandwich",
+      2
+    ],
+    [
+      "Good flavor",
+      2
+    ],
+    [
+      "The concept seems promising",
+      2
+    ],
+    [
+      "amazing taste",
+      2
+    ]
+  ],
+  "common_weaknesses": [
+    [
+      "taste didn\u2019t quite match the visual appeal",
+      2
+    ],
+    [
+      "sandwiches were decent but could\u2019ve used more flavor",
+      2
+    ],
+    [
+      "The customer wished there was a little more sauce.",
+      2
+    ],
+    [
+      "The sandwich was a little on the pricey side.",
+      2
+    ],
+    [
+      "The sandwich was kind of small for a full meal.",
+      2
+    ],
+    [
+      "There are limited seats as the cafe is quite small.",
+      2
+    ],
+    [
+      "Parking options are limited next to the cafe.",
+      2
+    ],
+    [
+      "Long wait time",
+      2
+    ],
+    [
+      "Small space",
+      2
+    ],
+    [
+      "Cramped during peak hours",
+      2
+    ],
+    [
+      "Coffee was just okay and not memorable",
+      2
+    ],
+    [
+      "The bulgogi sandwich was quite disappointing.",
+      2
+    ],
+    [
+      "It didn't have much flavour.",
+      2
+    ],
+    [
+      "The bread isn't like the typical fluffy bread you find in these Korean sandwiches.",
+      2
+    ],
+    [
+      "The lettuce felt out of place.",
+      2
+    ]
+  ],
+  "critical_pain_points": [],
+  "competitive_advantages": []
+}

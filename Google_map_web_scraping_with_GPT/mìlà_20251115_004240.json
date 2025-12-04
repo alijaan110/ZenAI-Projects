@@ -1,0 +1,22 @@
+{
+  "business_data": {
+    "company_name": "MìLà",
+    "company_main_url": "https://eatmila.com/",
+    "emails": [
+      "press@eatmila.com"
+    ],
+    "contact_numbers": [],
+    "social_media_links": [
+      "https://www.instagram.com/eat.mila",
+      "https://www.facebook.com/eat.MiLa"
+    ],
+    "summary": "MìLà is a frozen food company specializing in authentic Chinese dumplings, noodles, and sauces, founded by Jen Liao and Caleb Wang in 2018. The company aims to bring restaurant-quality Chinese cuisine to homes across the United States, offering a variety of products including soup dumplings, potstickers, and vegan options. MìLà prides itself on using high-quality, locally sourced ingredients and provides a melt-free guarantee for its frozen products. Customers can shop online with free shipping on orders over $99 and explore various bundles and subscription options for regular deliveries."
+  },
+  "extraction_metadata": {
+    "total_pages_discovered": 30,
+    "pages_analyzed": 10,
+    "extraction_method": "LLM-powered intelligent page selection",
+    "timestamp": "2025-11-15 00:42:40",
+    "model_used": "gpt-4o-mini"
+  }
+}

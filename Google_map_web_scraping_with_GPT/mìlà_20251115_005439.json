@@ -1,0 +1,24 @@
+{
+  "business_data": {
+    "company_name": "MìLà",
+    "company_main_url": "https://eatmila.com/",
+    "emails": [
+      "press@eatmila.com"
+    ],
+    "contact_numbers": [
+      "+1-206-495-6244"
+    ],
+    "social_media_links": [
+      "https://www.instagram.com/eat.mila",
+      "https://www.facebook.com/eat.MiLa"
+    ],
+    "summary": "MìLà is a frozen food company specializing in authentic Chinese cuisine, particularly known for its soup dumplings, potstickers, and noodles. Founded in 2018 by Jen Liao and Caleb Wang, the company aims to reimagine Chinese food in America by offering high-quality, restaurant-style products that can be enjoyed at home. Their product range includes various flavors of soup dumplings, including classic pork and vegan options, as well as potstickers and a selection of noodles like Spicy Dan Dan Noodles. MìLà emphasizes the use of fresh, locally sourced ingredients, with all products made in their facilities in Washington and California. They offer free shipping on orders over $99 and a subscription service that provides customers with regular deliveries of their favorite items at a discount. The company values authenticity and quality, ensuring that each product is crafted with care and tested for excellence. MìLà has garnered a loyal customer base, with over a million satisfied customers, and is available in select grocery stores nationwide, including Target and Whole Foods. Their mission is to share the warmth and flavor of Chinese cuisine while empowering their community and celebrating their heritage as Asian American entrepreneurs."
+  },
+  "extraction_metadata": {
+    "total_pages_discovered": 30,
+    "pages_analyzed": 10,
+    "extraction_method": "LLM-powered intelligent extraction",
+    "timestamp": "2025-11-15 00:54:39",
+    "model_used": "gpt-4o-mini"
+  }
+}

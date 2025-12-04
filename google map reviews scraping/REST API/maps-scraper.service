@@ -1,0 +1,23 @@
+[Unit]
+Description=Google Maps Review Scraper API
+After=network.target
+
+[Service]
+Type=simple
+User=www-data
+WorkingDirectory=/opt/maps-scraper-api
+Environment="PATH=/opt/maps-scraper-api/venv/bin"
+Environment="CHROMEDRIVER_PATH=/usr/local/bin/chromedriver"
+ExecStart=/opt/maps-scraper-api/venv/bin/uvicorn app.main:app --host 0.0.0.0 --port 8000 --workers 4
+Restart=always
+RestartSec=10
+
+# Security
+NoNewPrivileges=true
+PrivateTmp=true
+ProtectSystem=strict
+ProtectHome=true
+ReadWritePaths=/opt/maps-scraper-api/output
+
+[Install]
+WantedBy=multi-user.target

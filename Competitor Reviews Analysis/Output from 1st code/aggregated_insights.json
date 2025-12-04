@@ -1,0 +1,198 @@
+{
+  "total_reviews": 100,
+  "sentiment_distribution": {
+    "Neutral": 74,
+    "Mixed": 9,
+    "Positive": 16,
+    "Negative": 1
+  },
+  "avg_sentiment_score": 0.978,
+  "top_topics": [
+    [
+      "food quality",
+      46
+    ],
+    [
+      "pricing",
+      19
+    ],
+    [
+      "customer experience",
+      11
+    ],
+    [
+      "taste",
+      10
+    ],
+    [
+      "location",
+      10
+    ],
+    [
+      "portion size",
+      9
+    ],
+    [
+      "cafe ambiance",
+      9
+    ],
+    [
+      "ordering process",
+      8
+    ],
+    [
+      "sandwiches",
+      8
+    ],
+    [
+      "menu items",
+      8
+    ],
+    [
+      "ambiance",
+      7
+    ],
+    [
+      "menu variety",
+      7
+    ],
+    [
+      "atmosphere",
+      7
+    ],
+    [
+      "coffee quality",
+      6
+    ],
+    [
+      "customer service",
+      6
+    ]
+  ],
+  "common_strengths": [
+    [
+      "Friendly and helpful staff",
+      4
+    ],
+    [
+      "Positive overall experience",
+      3
+    ],
+    [
+      "Quick service",
+      3
+    ],
+    [
+      "Positive customer experience",
+      3
+    ],
+    [
+      "cozy ambiance",
+      2
+    ],
+    [
+      "aesthetically pleasing setup",
+      2
+    ],
+    [
+      "appetizing appearance",
+      2
+    ],
+    [
+      "Light and fluffy bread",
+      2
+    ],
+    [
+      "Clean and calming ambience",
+      2
+    ],
+    [
+      "Quick food service through kiosk ordering",
+      2
+    ],
+    [
+      "Cute space from afar",
+      2
+    ],
+    [
+      "Promising concept",
+      2
+    ],
+    [
+      "unique sandwiches",
+      2
+    ],
+    [
+      "amazing taste",
+      2
+    ],
+    [
+      "cozy atmosphere",
+      2
+    ]
+  ],
+  "common_weaknesses": [
+    [
+      "taste did not match visual appeal",
+      2
+    ],
+    [
+      "sandwiches lacked flavor",
+      2
+    ],
+    [
+      "Sandwich is a bit pricey",
+      2
+    ],
+    [
+      "Limited parking options nearby",
+      2
+    ],
+    [
+      "Slow service despite ordering via tablet",
+      2
+    ],
+    [
+      "Lack of cleanliness",
+      2
+    ],
+    [
+      "Chipped and dirty furniture",
+      2
+    ],
+    [
+      "Lack of flavor in food items",
+      2
+    ],
+    [
+      "Self-service model may not meet customer expectations",
+      2
+    ],
+    [
+      "Staff inattentiveness",
+      2
+    ],
+    [
+      "Limited seating, may be better suited for takeout during busy times",
+      2
+    ],
+    [
+      "Small portion sizes for the price",
+      2
+    ],
+    [
+      "Sandwiches fall apart easily",
+      2
+    ],
+    [
+      "Too much sauce making the bread soggy",
+      2
+    ],
+    [
+      "Small portion size for the price",
+      2
+    ]
+  ],
+  "critical_pain_points": [],
+  "competitive_advantages": []
+}

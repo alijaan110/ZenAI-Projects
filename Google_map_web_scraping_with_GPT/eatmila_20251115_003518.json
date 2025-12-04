@@ -1,0 +1,22 @@
+{
+  "business_data": {
+    "company_name": "Eatmila",
+    "company_main_url": "https://eatmila.com/",
+    "emails": [],
+    "contact_numbers": [],
+    "social_media_links": [
+      "https://www.facebook.com/eat.MiLa",
+      "https://www.instagram.com/eat.mila"
+    ],
+    "summary": "Business information extracted using automated method. Unable to generate detailed summary. Please visit the website for more information.",
+    "extraction_method": "enhanced_regex_fallback_with_llm_summary"
+  },
+  "extraction_metadata": {
+    "total_pages_discovered": 30,
+
+    "pages_analyzed": 10,
+    "extraction_method": "LLM-powered intelligent page selection",
+    "timestamp": "2025-11-15 00:35:18",
+    "model_used": "gpt-4o-mini"
+  }
+}

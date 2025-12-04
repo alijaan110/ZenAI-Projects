@@ -1,0 +1,19 @@
+{
+  "business_data": {
+    "company_name": "Via Carota",
+    "company_main_url": "http://viacarota.com/",
+    "emails": [
+      "ciao@viacarota.com"
+    ],
+    "contact_numbers": [],
+    "social_media_links": [],
+    "summary": "Via Carota is a celebrated Italian osteria located in New York City's West Village, founded by renowned chefs Rita Sodi and Jody Williams. The restaurant is known for its simple, seasonal menu that reflects traditional Italian cooking, offering dishes such as grilled octopus and fried rabbit. In addition to the dining experience, Via Carota has expanded its offerings with Via Carota Craft Cocktails, providing ready-to-serve cocktails inspired by their culinary creations. The target audience includes locals and visitors seeking authentic Italian cuisine in a warm and inviting atmosphere."
+  },
+  "extraction_metadata": {
+    "total_pages_discovered": 0,
+    "pages_analyzed": 6,
+    "extraction_method": "LLM-powered intelligent page selection",
+    "timestamp": "2025-11-12 01:26:42",
+    "model_used": "gpt-4o-mini"
+  }
+}
