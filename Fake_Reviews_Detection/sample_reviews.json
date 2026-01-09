@@ -1,0 +1,402 @@
+[
+  {
+    "review_text": "I bought this coffee maker last month and it's been great. The timer function works well and the carafe keeps coffee hot for about 2 hours. One minor issue - the water reservoir is a bit small for my needs.",
+    "rating": 4
+  },
+  {
+    "review_text": "This is the best product ever! Amazing quality! Everyone should buy this! 5 stars all the way! Highly recommend to everyone! Best purchase of my life!",
+    "rating": 5
+  },
+  {
+    "review_text": "The hotel room was clean and the location was convenient for downtown. Check-in took about 15 minutes. The air conditioning was loud but effective. Overall decent value for the price.",
+    "rating": 3
+  },
+  {
+    "review_text": "Absolutely perfect in every way! No flaws whatsoever! This exceeded all my expectations! Best service ever! Will definitely come back again and again!",
+    "rating": 5
+  },
+  {
+    "review_text": "The laptop arrived on time. Battery life is around 6-7 hours with normal use. The keyboard feels good but the trackpad is a bit sensitive. Good for work tasks.",
+    "rating": 4
+  },
+  {
+    "review_text": "Wonderful experience! Everything was fantastic! Loved every moment! Highly recommended! Perfect! Amazing! Excellent!",
+    "rating": 5
+  },
+  {
+    "review_text": "I had the pasta carbonara. It was okay but a bit salty for my taste. Service was friendly. The restaurant was busy so we waited about 30 minutes for our food.",
+    "rating": 3
+  },
+  {
+    "review_text": "This product changed my life! I can't believe how amazing it is! Everyone needs this! Trust me you won't regret it!",
+    "rating": 5
+  },
+  {
+    "review_text": "The phone case fits well but the buttons are slightly harder to press. Material feels durable. After two weeks, no signs of wear.",
+    "rating": 4
+  },
+  {
+    "review_text": "Great quality and fast shipping! Very satisfied with my purchase! Would buy again! Seller is very professional!",
+    "rating": 5
+  },
+  {
+    "review_text": "The vacuum cleaner works fine on hardwood but struggles with thick carpet. The attachments are useful. It's quite loud but that's expected. Emptying the dustbin is straightforward.",
+    "rating": 3
+  },
+  {
+    "review_text": "Perfect! Amazing! Excellent! Best ever! Highly recommend! Five stars!",
+    "rating": 5
+  },
+  {
+    "review_text": "I stayed here for a business trip. The wifi was reliable which I needed for video calls. The bed was comfortable. Parking was $25 per night which felt steep.",
+    "rating": 4
+  },
+  {
+    "review_text": "This is the most incredible thing I've ever used! Changed everything! Don't hesitate! Buy now!",
+    "rating": 5
+  },
+  {
+    "review_text": "The book took a while to get into but the second half was engaging. Some characters felt underdeveloped. Writing style was clear. Would probably not read the sequel.",
+    "rating": 3
+  },
+  {
+    "review_text": "Outstanding service! Exceptional quality! Highly professional! Absolutely worth it! Exceeded expectations!",
+    "rating": 5
+  },
+  {
+    "review_text": "The headphones have good sound quality. Noise cancellation is decent but not perfect. They're comfortable for about 2 hours before I need a break. Battery lasts a full day.",
+    "rating": 4
+  },
+  {
+    "review_text": "Very good product! Fast delivery! Nice packaging! Recommend to everyone! Great seller!",
+    "rating": 5
+  },
+  {
+    "review_text": "The dress fits as expected based on the size chart. Fabric is a bit thinner than I hoped. Color matches the photo. Haven't washed it yet so can't comment on durability.",
+    "rating": 3
+  },
+  {
+    "review_text": "This is absolutely the best! No complaints! Perfect in every single way! Must buy!",
+    "rating": 5
+  },
+  {
+    "review_text": "We ordered the lunch special. The soup was lukewarm and the sandwich bread was slightly stale. My colleague's meal looked better than mine. Might try again for dinner.",
+    "rating": 2
+  },
+  {
+    "review_text": "Amazing quality and service! Very happy with this! Definitely recommend! Great value!",
+    "rating": 5
+  },
+  {
+    "review_text": "The software has a learning curve. After a week I'm more comfortable with the interface. Some features are hidden in submenus. Customer support responded in two days.",
+    "rating": 3
+  },
+  {
+    "review_text": "Fantastic product! Everyone loves it! Best decision! Highly satisfied! Will purchase again!",
+    "rating": 5
+  },
+  {
+    "review_text": "The desk is sturdy and assembly took about an hour. Instructions were clear. One of the screws was missing but customer service sent a replacement quickly. Happy with it overall.",
+    "rating": 4
+  },
+  {
+    "review_text": "Excellent! Superior quality! Fast shipping! Great communication! Perfect transaction!",
+    "rating": 5
+  },
+  {
+    "review_text": "I tried the new menu items. The appetizer was interesting but small for the price. Main course was adequate. Dessert was the highlight. Would come back for the dessert alone.",
+    "rating": 3
+  },
+  {
+    "review_text": "This product is life-changing! Absolutely amazing! Everyone should get this! Incredible value!",
+    "rating": 5
+  },
+  {
+    "review_text": "The backpack has plenty of pockets. The laptop compartment fits my 15-inch laptop with some room to spare. After a month of daily use, the zippers still work smoothly. Comfortable straps.",
+    "rating": 4
+  },
+  {
+    "review_text": "Great product! Very satisfied! Highly recommend! Excellent quality! Fast delivery!",
+    "rating": 5
+  },
+  {
+    "review_text": "The movie started slowly. The middle dragged. The ending was predictable. Some good cinematography. Not sure I'd recommend it unless you like that genre.",
+    "rating": 2
+  },
+  {
+    "review_text": "Perfect! Just perfect! Love everything about it! Best purchase! Five stars!",
+    "rating": 5
+  },
+  {
+    "review_text": "The gym has decent equipment but gets crowded after 5pm. Locker rooms are clean. Staff is friendly. Monthly fee is reasonable. I wish they had more squat racks.",
+    "rating": 3
+  },
+  {
+    "review_text": "Wonderful experience! Everything perfect! Highly professional! Great service! Recommend!",
+    "rating": 5
+  },
+  {
+    "review_text": "The shoes are comfortable right out of the box. No break-in period needed. Arch support is good. After wearing them for three weeks, they still look new. True to size.",
+    "rating": 4
+  },
+  {
+    "review_text": "Amazing! Best ever! Love it! Everyone needs this! Don't wait!",
+    "rating": 5
+  },
+  {
+    "review_text": "The haircut was fine. I showed a picture and the result was close but not exact. The stylist was friendly. Price was average for the area. Would go back if my regular place is booked.",
+    "rating": 3
+  },
+  {
+    "review_text": "Outstanding quality! Exceeded expectations! Very happy! Great value! Highly recommend!",
+    "rating": 5
+  },
+  {
+    "review_text": "We booked a king room. Got a room with two queens instead. Front desk apologized and gave us a discount. Room was clean otherwise. Continental breakfast was standard.",
+    "rating": 3
+  },
+  {
+    "review_text": "This is incredible! Changed my life! Best thing ever! Must have! Perfect!",
+    "rating": 5
+  },
+  {
+    "review_text": "The mouse has a good grip. The scroll wheel is precise. Bluetooth connection is stable. Battery indicator would be nice to have. Works well with my laptop.",
+    "rating": 4
+  },
+  {
+    "review_text": "Excellent product! Fast shipping! Very professional! Highly satisfied! Recommend to all!",
+    "rating": 5
+  },
+  {
+    "review_text": "The concert venue was smaller than expected. Sound quality was good. Seating was cramped. Parking was difficult. The band played well but the opening act was forgettable.",
+    "rating": 3
+  },
+  {
+    "review_text": "Amazing quality! Best purchase! Everyone should buy! Perfect product! Five stars!",
+    "rating": 5
+  },
+  {
+    "review_text": "Ordered a medium and it fits well. The material is soft. After washing once, no shrinkage. Color stayed vibrant. Stitching looks solid.",
+    "rating": 4
+  },
+  {
+    "review_text": "Wonderful! Perfect! Excellent! Great! Amazing! Highly recommend!",
+    "rating": 5
+  },
+  {
+    "review_text": "The pizza was decent. Crust was a bit thick for my preference. Toppings were fresh. Delivery took 45 minutes which is what they estimated. Would order again if I want something simple.",
+    "rating": 3
+  },
+  {
+    "review_text": "This is the best! Changed everything! Incredible! Don't miss out! Must buy!",
+    "rating": 5
+  },
+  {
+    "review_text": "The blanket is warm and the size is good for a queen bed. It sheds a little at first but that's stopped after a few washes. Nice weight to it.",
+    "rating": 4
+  },
+  {
+    "review_text": "Great service! Very professional! Highly satisfied! Excellent! Recommend!",
+    "rating": 5
+  },
+  {
+    "review_text": "The apartment complex is okay. Neighbors are quiet. Maintenance requests take a few days. Parking is limited. Rent is slightly high for what you get but location is convenient.",
+    "rating": 3
+  },
+  {
+    "review_text": "Perfect experience! Everything amazing! Best ever! Five stars! Highly recommend!",
+    "rating": 5
+  },
+  {
+    "review_text": "I've been using this blender for smoothies every morning. It handles frozen fruit well. A bit loud but expected. Easy to clean. The lid seal is tight which is good.",
+    "rating": 4
+  },
+  {
+    "review_text": "Excellent! Outstanding! Amazing quality! Great seller! Fast shipping!",
+    "rating": 5
+  },
+  {
+    "review_text": "The class was informative but the instructor spoke quickly. Handouts were helpful. Room was cold. Content was relevant to my work. Might take the advanced version.",
+    "rating": 3
+  },
+  {
+    "review_text": "This is incredible! Best thing ever! Everyone needs this! Perfect! Amazing!",
+    "rating": 5
+  },
+  {
+    "review_text": "The lamp provides good light. The dimmer switch works smoothly. Assembly was straightforward. It's not as tall as I thought from the pictures but it still works for my space.",
+    "rating": 4
+  },
+  {
+    "review_text": "Fantastic! Highly recommend! Great quality! Very satisfied! Excellent product!",
+    "rating": 5
+  },
+  {
+    "review_text": "The museum had interesting exhibits. Some rooms were under renovation. Audio guide was helpful but some recordings were hard to hear. Gift shop prices were high.",
+    "rating": 3
+  },
+  {
+    "review_text": "Amazing product! Best purchase! Everyone should buy! Perfect! Great!",
+    "rating": 5
+  },
+  {
+    "review_text": "The chair is comfortable for working. Lumbar support is adjustable. The armrests feel a bit flimsy. After two months of daily use, no issues. Easy to assemble alone.",
+    "rating": 4
+  },
+  {
+    "review_text": "Wonderful! Exceeded expectations! Highly professional! Great service! Recommend!",
+    "rating": 5
+  },
+  {
+    "review_text": "Tried the breakfast buffet. Selection was standard. Eggs were lukewarm. Coffee was fresh. Fruit was ripe. Value was okay for a hotel breakfast.",
+    "rating": 3
+  },
+  {
+    "review_text": "This is the best! Love it! Amazing! Perfect! Everyone needs this!",
+    "rating": 5
+  },
+  {
+    "review_text": "The plant arrived healthy. Packaging protected it well. It's been three weeks and it seems to be adapting to my apartment. Instructions were helpful.",
+    "rating": 4
+  },
+  {
+    "review_text": "Great! Excellent! Perfect! Amazing! Highly recommend!",
+    "rating": 5
+  },
+  {
+    "review_text": "The mechanic fixed the issue but it took longer than quoted. Price was fair. Shop was clean. They didn't pressure me into additional services which I appreciated.",
+    "rating": 3
+  },
+  {
+    "review_text": "Incredible quality! Best ever! Everyone should try! Perfect! Outstanding!",
+    "rating": 5
+  },
+  {
+    "review_text": "The jacket is windproof as advertised. The pockets are deep. The hood fits over a hat. After a few rainy days, still waterproof. Zippers work smoothly.",
+    "rating": 4
+  },
+  {
+    "review_text": "Wonderful! Amazing! Great! Perfect! Highly satisfied!",
+    "rating": 5
+  },
+  {
+    "review_text": "The barber was experienced. I asked for a trim and that's what I got. No conversation which was fine. Standard price. Clean shop. Would go back.",
+    "rating": 3
+  },
+  {
+    "review_text": "This is absolutely perfect! Best purchase ever! Everyone needs this! Amazing!",
+    "rating": 5
+  },
+  {
+    "review_text": "The monitor has good color accuracy. Response time is fast. The stand is adjustable. One dead pixel in the corner but barely noticeable. Cable management could be better.",
+    "rating": 4
+  },
+  {
+    "review_text": "Excellent! Outstanding! Very satisfied! Great quality! Highly recommend!",
+    "rating": 5
+  },
+  {
+    "review_text": "The course content was useful. Videos were clear. Some quizzes were too easy. Certificate arrived in two weeks. Would have liked more practical exercises.",
+    "rating": 3
+  },
+  {
+    "review_text": "Perfect in every way! Best experience! Highly recommend! Amazing! Great!",
+    "rating": 5
+  },
+  {
+    "review_text": "The watch keeps accurate time. The band is adjustable. Water resistance works as stated. After a month, the face has no scratches. Simple design.",
+    "rating": 4
+  },
+  {
+    "review_text": "Great product! Very happy! Excellent! Amazing quality! Recommend!",
+    "rating": 5
+  },
+  {
+    "review_text": "The flight was on time. Legroom was tight. Snack was just pretzels. Crew was efficient but not particularly friendly. Standard budget airline experience.",
+    "rating": 3
+  },
+  {
+    "review_text": "This is incredible! Best thing! Everyone should get! Perfect! Outstanding!",
+    "rating": 5
+  },
+  {
+    "review_text": "The speaker has clear sound at medium volume. Bass is decent for the size. Battery lasts about 8 hours. Bluetooth range is good throughout my apartment.",
+    "rating": 4
+  },
+  {
+    "review_text": "Wonderful! Amazing! Excellent! Great! Highly satisfied!",
+    "rating": 5
+  },
+  {
+    "review_text": "The dentist was gentle. The wait was minimal. Cleaning was thorough. Staff was professional. Parking was convenient. Would come back for my next checkup.",
+    "rating": 4
+  },
+  {
+    "review_text": "Perfect! Best ever! Amazing! Great quality! Highly recommend!",
+    "rating": 5
+  },
+  {
+    "review_text": "The towels are absorbent. They're softer after the first wash. Size is standard. No color fading so far. Decent quality for the price.",
+    "rating": 4
+  },
+  {
+    "review_text": "Excellent product! Very satisfied! Great service! Amazing! Recommend!",
+    "rating": 5
+  },
+  {
+    "review_text": "The park was nice but crowded. Trails were well-marked. Restrooms were clean. Parking filled up by 10am. Would visit again on a weekday.",
+    "rating": 3
+  },
+  {
+    "review_text": "This is wonderful! Best purchase! Everyone needs! Perfect! Great!",
+    "rating": 5
+  },
+  {
+    "review_text": "The camera takes good photos in daylight. Low light performance is okay. Menu system takes some getting used to. Battery life is about 300 shots. Happy with it so far.",
+    "rating": 4
+  },
+  {
+    "review_text": "Amazing! Excellent! Perfect! Great! Highly recommend!",
+    "rating": 5
+  },
+  {
+    "review_text": "The play was well-acted. The theater was older but clean. Seats were slightly uncomfortable. Intermission was long. Ending was satisfying. Worth the ticket price.",
+    "rating": 4
+  },
+  {
+    "review_text": "Fantastic! Best ever! Amazing quality! Perfect! Highly satisfied!",
+    "rating": 5
+  },
+  {
+    "review_text": "The pen writes smoothly. Ink lasts a long time. Comfortable grip. Cap stays on securely. Good for everyday use.",
+    "rating": 4
+  },
+  {
+    "review_text": "Wonderful experience! Great! Perfect! Amazing! Excellent!",
+    "rating": 5
+  },
+  {
+    "review_text": "The mechanic explained the problem clearly. Showed me the worn parts. Repair was done when promised. Price matched the estimate. Professional service.",
+    "rating": 4
+  },
+  {
+    "review_text": "Outstanding! Perfect! Best! Great quality! Highly recommend!",
+    "rating": 5
+  },
+  {
+    "review_text": "The coffee shop has good espresso. Seating is limited. Music is a bit loud for working. Pastries are fresh. Staff is quick. Gets busy around 9am.",
+    "rating": 3
+  },
+  {
+    "review_text": "This is amazing! Everyone should buy! Perfect product! Best ever! Great!",
+    "rating": 5
+  },
+  {
+    "review_text": "The yoga class was challenging but accessible. Instructor gave modifications. Studio was clean. Small class size allowed for personal attention. Will join again.",
+    "rating": 4
+  },
+  {
+    "review_text": "Excellent! Amazing! Perfect! Great! Highly recommend!",
+    "rating": 5
+  }
+]
