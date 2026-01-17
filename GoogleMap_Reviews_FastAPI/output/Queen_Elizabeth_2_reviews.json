@@ -1,0 +1,607 @@
+{
+    "company_name": "Queen Elizabeth 2",
+    "phone_number": "+97145268888",
+    "total_reviews": 100,
+    "reviews": [
+        {
+            "rating": "5",
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2paeWJrWXhia0l3UkZCbFZqVklhV2hYTkZSV1MyYxAB",
+            "review_text": "It’s a great experience and an interesting hotel. I love the fact that it’s an old CRUISE SHIP with so much of history and today this has been repurposed and it’s an amazing opportunity to enjoy the cruise life without the craziness of the …",
+            "reviewer": "TheGlobalMuse"
+        },
+        {
+            "rating": "3",
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21GTVQxcE1lREZ5TjFGdlVEVTFiM0JrWTNaclJXYxAB",
+            "review_text": "The ship is beautiful despite it needing some work to improve the outside and inside. Starting with the external, the top deck and the hull of the ship need some work. It’s clear that overtime since the refurbishment the ship has started to …",
+            "reviewer": "amie merry"
+        },
+        {
+            "rating": "4",
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tNMk1XTm5XR3BOUjBKUWIwdGtWazk1ZHpJM01sRRAB",
+            "review_text": "Overall, it was a very good experience. The food was good, room service was excellent, and the stay on the cruise was enjoyable. The only disappointment was that the reception did not accommodate our room change request on Day 2, even …",
+            "reviewer": "Raja R"
+        },
+        {
+            "rating": "4",
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25OTk0yZElOVXh0VDBaWWIweDRZMEZWTFhOcFdFRRAB",
+            "review_text": "We stayed over the New Years period as the QE2 offered affordable rates even given the time of the year.  We booked a Captains Room which appeared to be newly renovated and was large and well appointed - we were very comfortable for our …",
+            "reviewer": "Lauren Ruxton"
+        },
+        {
+            "rating": "5",
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21KUlEyTlpSME51WVhCNE1XUkliamRqVDJSaFpFRRAB",
+            "review_text": "QE2 is truly a 5-star experience in every way. From the moment you arrive, the service, cleanliness, and attention to detail are outstanding. The rooms are luxurious,  the restaurants are top quality, and the entire hotel  feels vibrant and …",
+            "reviewer": "Azenea Zoe Liseth"
+        },
+        {
+            "rating": "5",
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xWblpsTXpORlJrUVc5bFVtMVBVa1ppY1hOdE0zYxAB",
+            "review_text": "Great stay at QE2 Hotel!\nI had a wonderful experience at the QE2 Hotel. The hotel itself is very good, clean, and comfortable. I would especially like to thank the employees Riad and …",
+            "reviewer": "Md Abdul"
+        },
+        {
+            "rating": "5",
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xCWVdEVjFlWE4yVEZaclNXaENNblJzWjFVMlRYYxAB",
+            "review_text": "Very clean, topnotch customer service, staffs were very helpful and accommodating especially Reda. Housekeeping staffs were very nice; always smiling. This is a great place to stay if you're into quiet, clean, cozy, and history lover. Such …",
+            "reviewer": "Kim Alar"
+        },
+        {
+            "rating": "5",
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21Fd1VFVkxXVTlFYzNSR2JUTnJNR1J3TTNjNVgwRRAB",
+            "review_text": "The front desk team was excellent.  We arrived at 2AM in the morning and they took care of us immediately.   Also, the breakfast was absolutely delicious and amazing.   The service and the quality and variety of the food was excellent.   I …",
+            "reviewer": "Elsy Alvarado"
+        },
+        {
+            "rating": "5",
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pZMWFUUndZbWhTYVdZNFZrMVBWMGswV1d0dGQzYxAB",
+            "review_text": "Wonderful service from the very first day – the staff were always friendly, attentive, and ready to help. The room was cleaned daily and kept spotless, which made our stay very comfortable. The food was excellent, fresh, and varied, with …",
+            "reviewer": "Tomas"
+        },
+        {
+            "rating": "2",
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2sxT1prTjZWRU5yY3paVlRIRnFZVWx6VjBKYVdsRRAB",
+            "review_text": "The good. Entertainment was great: The Candlelight Christmas concert was superb, and the Quiz & Bingo night at the Golden Lion was a lot of fun! The room was spacious and comfortable. The history of the vessel is obviously also really …",
+            "reviewer": "Ricki Sorrell"
+        },
+        {
+            "rating": "4",
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tkUGMzaEZlVXhPYUZOaFIxTkNNbk4yVjI1dkxVRRAB",
+            "review_text": "The booking was made in August 2025 with the clear expectation of full access to the hotel and its facilities as paying guests. However, on our first day the Golden Lion Pub was closed due to filming. This was not communicated at any stage …",
+            "reviewer": "John Hogan"
+        },
+        {
+            "rating": "5",
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xoUGJqRjJOakJZYVROT0xXZG5WSFJ0TlhKQlRsRRAB",
+            "review_text": "## Outstanding Experience\nI recently had the pleasure of staying at this exceptional hotel, and I must say it exceeded all my expectations! From the warm welcome to the impeccable …",
+            "reviewer": "Pooni"
+        },
+        {
+            "rating": "5",
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xsUlFqRXdPVzlrTFVWd0xUVlVNSEIyVFRNdGFFRRAB",
+            "review_text": "Excellent afternoon tea at the Queen's Grill - we had an afternoon tea here during the festive season with my wife and two children.  The service was AMAZING!  The food was GREAT!  Overall a really good experience and I would do it again!  Thank you to the team on the afternoon of Saturday 13 December!!",
+            "reviewer": "Martyn Webb"
+        },
+        {
+            "rating": "5",
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xReWVIRXlURWR6UTFGRVl5MHlRV0kwVUc1dFMyYxAB",
+            "review_text": "I recently visited the Queen Elizabeth 2 in Dubai, and it was an unforgettable experience. The food was absolutely amazing, full of flavor and beautifully presented. The vibe onboard was equally impressive—a perfect mix of elegance, …",
+            "reviewer": "Yasitha Dilshan"
+        },
+        {
+            "rating": "4.6",
+            "review_id": "ChZDSUhNMG9nS0VJYkUtTWYzeXVUSUxnEAE",
+            "review_text": "Truly an amazing experience to have stayed onboard. .. ... Though the surrounding locations had too many constructions going on along the way,  the hotel is truly impressive. Checking in was a half hour wait due to the glitch on their …",
+            "reviewer": "Trip.com Member"
+        },
+        {
+            "rating": "5",
+            "review_id": "ChZDSUhNMG9nS0VKS2UxNnE5dnRyckF3EAE",
+            "review_text": "Exceeded all expectations during our recent stay! From the moment we arrived, the staff made us feel incredibly welcome. The accommodations were superb – our room was spacious and clean. We had buffet dinner and buffet bfast  the foods were …",
+            "reviewer": "Trip.com Member"
+        },
+        {
+            "rating": "5",
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25oRGRWVk1XVlEzVTFKZk1uQklURVJDTjJ0U01XYxAB",
+            "review_text": "Yesterday we went to Lido resturant to celebrate my daughter in law's birthday. It was a surprise for me from my son and daughter in law, because it was my first. I was so excited as we drove towards the ship. I had goosebumps. The service …",
+            "reviewer": "Elvira Mascarenhas"
+        },
+        {
+            "rating": "4",
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tOeVEzbHJRV0pJT1daS1dDMWFaM0JaT1VoRU5tYxAB",
+            "review_text": "Before coming, we were little bit concern about the location but finally, close to DXB airport and the old Dubai. The area is still under construction but it was ok and finally, calm area. …",
+            "reviewer": "Romu Daligaux"
+        },
+        {
+            "rating": "5",
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tsS1FqSlVlVkk1Y1VsVVdHNHhiRkZpZVhWblIwRRAB",
+            "review_text": "I recently had the privilege of spending a relaxing and memorable week aboard the Queen Elizabeth 2 (QE2) Hotel at Mina Rashid, Dubai, from November 26th to December 3rd. My wife Diana and I stayed aboard for two nights back in April, and …",
+            "reviewer": "Robert Labrenz"
+        },
+        {
+            "rating": "3",
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21KM2FVMTJNekZ0YVhjNFUzZGFPRm8yWW1kNlJFRRAB",
+            "review_text": "Particpated in a PR event.\nThe lobby was impressive just before we accessed the Queen Elizabeth 2. However, the insides of the ship, the corridors, the carpets etc looked rundown. Could …",
+            "reviewer": "Mathew Kurian"
+        },
+        {
+            "rating": "5",
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pFMk1WSlhZV3BXZFhsU1FYVjRSVkkyVTFoeVQyYxAB",
+            "review_text": "We stayed at QE2 as a family and had a wonderful experience. The hotel was very family-friendly, uniquely historical, and the staff was extremely helpful, especially with our child. A great choice for families visiting Dubai. We would like …",
+            "reviewer": "Dilhan Silva"
+        },
+        {
+            "rating": "4",
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tjMU1WazRla2d3Tm1acmJUWnFXV05qYjBJd1NYYxAB",
+            "review_text": "We had a really pleasant stay at QE2 hotel. The staff made all the difference. At reception, Putri was warm and welcoming, and she even gave us an upgrade which was such a nice surprise. She was genuinely friendly and made check-in feel …",
+            "reviewer": "Mona rejb"
+        },
+        {
+            "rating": "5",
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xsclRqaDVkM0pvVVRsUlZESllkVFY1YUc5UU5YYxAB",
+            "review_text": "I had the best time in the QE2. I had the royal suite which really made me feel royal. I even had a walk in closet. Concerns were always resolved promptly. The staff was very friendly. For example Mohsin welcomed me after the check in and …",
+            "reviewer": "Muna Lisa"
+        },
+        {
+            "rating": "5",
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT213ek4weGlkM1k0TlhkWVVYaHNRV2hxVW01RVVFRRAB",
+            "review_text": "It was an amazing experience,  living on a legendary ship like this is a surreal feeling. The ship is massive both inside and outside. The rooms are clean and spacious. We had booked the Signature room. There is strong WiFi, breakfast and …",
+            "reviewer": "Mohnisha Pillai"
+        },
+        {
+            "rating": "5",
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25kMFYwSnRZMlZRT1dSMFNHdFBlVGx3YkVoM1QxRRAB",
+            "review_text": "⭐️⭐️⭐️⭐️⭐️ Amazing Service at QE2 – Thank You Bilal!\n\nHad a wonderful stay at the Queen Elizabeth 2 Hotel. The ship is beautiful, but …",
+            "reviewer": "Rashmin Babariya"
+        },
+        {
+            "rating": "5",
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pnek1rOUhPRWhEY1hCbU9HVk5aVUZJUmt0bmFGRRAB",
+            "review_text": "Mostafa (night duty manager) seems great hospitality professional, whose guest service is commendable. Ahmad & Putri at the front desk are very good in providing guest services, house keeping is great, Lido service staff are excellent, …",
+            "reviewer": "JORDAN JOSEPH BINOY"
+        },
+        {
+            "rating": "5",
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xndFRVbDRSazVPVEVWNVZFcEVlUzFGUm5oMVgzYxAB",
+            "review_text": "I stayed at the Queen Elizabeth 2 Hotel for almost two weeks till now ,, im writing this review while im still there, and it is truly an unforgettable experience. …",
+            "reviewer": "Noura"
+        },
+        {
+            "rating": "4",
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xOTFl6aHFWSEp4TjNGWk1XdGphV2xrYVhoR1VHYxAB",
+            "review_text": "Staying at the Queen Elizabeth 2 Hotel (QE2) was a truly unique and memorable experience. It’s not every day you get to stay inside a floating hotel that was once a legendary ocean liner! The moment you step aboard, you can feel the sense …",
+            "reviewer": "Sahal Naz"
+        },
+        {
+            "rating": "5",
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25OV2RWaHZSMkphVTBkdVVEZG1kSHBoTmpWT1JuYxAB",
+            "review_text": "We stayed for 4 nights half board, Nov 2025. A bit of a wait at reception but we weren't in a rush. We were upgraded to a captains room. Very spacious with a bathtub. Half board included a buffet evening meal at the Lido restaurant which …",
+            "reviewer": "Steve Kenny"
+        },
+        {
+            "rating": "5",
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tWclYxcGFXalpMUkdFelUyTTJjbWxzYWs1cVNXYxAB",
+            "review_text": "Staying aboard the legendary cruise liner Queen Elizabeth 2 was a truly unique experience for me! It's more than just a hotel — it's history, moored to the shore. The ship's atmosphere has been lovingly preserved: vintage style, a nautical …",
+            "reviewer": "Alena Guru"
+        },
+        {
+            "rating": "5",
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2poYU5HaEhjMUJDV0ZKb05YZHFiRWhFTUdsWWJWRRAB",
+            "review_text": "I had a very pleasant stay at this hotel. The location is good, not far from principal tourist areas, although you definitely need a car o taxi to move around. Also, the room were clean and comfortable, although a bit small, but it’s …",
+            "reviewer": "Oscar de la Rocha"
+        },
+        {
+            "rating": "7251585",
+            "review_id": "ChdDSUhNMG9nS0VMckIyZEhGX3QyRThBRRAB",
+            "review_text": "I have been a loyal customer of the Queen Elizabeth 2 Hotel for a long time, and every visit reminds me why I keep coming back. This time, however, the experience felt even more special thanks to the outstanding service provided by the …",
+            "reviewer": "Relax725158"
+        },
+        {
+            "rating": "4",
+            "review_id": "ChZDSUhNMG9nS0VJMmlnTmIweXRETENnEAE",
+            "review_text": "This is a difficult review to write as the QE2 is a very famous passenger liner (not a cruise ship) converted into a hotel, which means that it is nothing like a normal hotel and cannot be judged as one. By necessity it is moored in the …",
+            "reviewer": "Trip.com Member"
+        },
+        {
+            "rating": "3",
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT210dE1qSXpaRFpGWlhWMlpGSm1NMGRxYkZwdlZtYxAB",
+            "review_text": "Well maintained and has high novelty value. The ship is very clean, however the service is quite poor. No one picks up the call for either room service or reception. The morning buffet was good, but there's hardly any eatery nearby. Moreover, the entire area is under construction, which makes it difficult to move around.",
+            "reviewer": "Abishek Surendran"
+        },
+        {
+            "rating": "4",
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21kVFowSmhOa00xYjJ4b1VtVklNbG94VlVRemRVRRAB",
+            "review_text": "Went there to enjoy their high tea on a weekend. Tried to book it through the usual channels but was not easy. Hence booked it through Groupon. It’s a one time experience to enjoy high tea within a real anchored ship. They need to improve a bit on the service and communication",
+            "reviewer": "Manju Ansari"
+        },
+        {
+            "rating": "5",
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25CVU5WWlhNMTl0YjBkUk5YZE9WVm93Wm5SelFsRRAB",
+            "review_text": "The hotel is beautiful and offers many places worth visiting and exploring. The reception staff were extremely helpful and friendly, especially Ms. Shouq. And Ms Pouri …",
+            "reviewer": "Abdallah M Ongoiba"
+        },
+        {
+            "rating": "5",
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21kcFgwWTVWVVE1WmpSWlZVNVlUbU13VUd0VVFuYxAB",
+            "review_text": "We had a relaxing Royal afternoon tea in the Chart Room. We were looked after wonderfully by Sijal, she was helpful friendly and professional. The selection of delicately decorated sandwiches and cakes were so tasty and surprisingly …",
+            "reviewer": "Andrew O'Brien"
+        },
+        {
+            "rating": "4",
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pRMmVXWlRSWFZaWlZGTFVsbEhSM1JNYUdwWU5XYxAB",
+            "review_text": "Well located, stay is okay, room is small. Deck View is awesome.\n\nMy suggestion is that there's not any staff to explain the all facilities …",
+            "reviewer": "Ameen Plackadan"
+        },
+        {
+            "rating": "2",
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25Ob1FsbEpiMnR4WWt4bmVtWkhkVVpFTWpSeGRGRRAB",
+            "review_text": "We stayed for few nights over the new year, unfortunately we was disappointed with the boat. It is located in the middle of a building site. We found it to be not unique but dated and not the usual Dubai standard. The decor was boring and …",
+            "reviewer": "Mark Neale"
+        },
+        {
+            "rating": "5",
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21FeE4zSlBYelZJWTBabWFuSm9WbU5GV1V4bVRVRRAB",
+            "review_text": "We had a wonderful stay at the Queen Elizabeth 2 to celebrate my husband's birthday! …",
+            "reviewer": "Naveen Del Rio"
+        },
+        {
+            "rating": "1",
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2toRU1sUnlRbEJHU2w5RWJYSXlRa0ZpUWkxaWVYYxAB",
+            "review_text": "This place is more like a museum, than a hotel. It is known that this ship has an old history, but you would expect the place to be better renovated and maintained. Also too many areas are restricted to the guests, feel soulless and have a …",
+            "reviewer": "Tristan HELSMOORTEL"
+        },
+        {
+            "rating": "3",
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tNNGQyUndPVmw0WVRkTWEwNUJSMGN0YlhaRlpFRRAB",
+            "review_text": "I had selected this floating hotel for a night stay with my family in Dubai. Enjoyed the space, and the historic experience it offers.  The main reason to select this hotel was to experience the vibes of 50+ year old structure, as it dates …",
+            "reviewer": "Ravi Gawas"
+        },
+        {
+            "rating": "4",
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s5ZlkzWlZkMko0YmpVd1ZrZEtYMjkxYkVWU1kxRRAB",
+            "review_text": "We didn’t stay on the boat so this review is only for the Lido restaurant. Pleased we visited, slow service but tbh they were in between service. Still lovely food, good service, drinks are pricey, esp for bottled water but it was nice …",
+            "reviewer": "K S"
+        },
+        {
+            "rating": "5",
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT210eVpqWTRWVnBZZWpSTE1YRjRlRWRRVm5WWFYwRRAB",
+            "review_text": "Not only stay, this place has its own history and maintained very well. from rooms to restaurants all are great. Staff is friendly. …",
+            "reviewer": "Rohit W"
+        },
+        {
+            "rating": "5",
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xOSlMwWnJRalZJTUZKZlMybFdTRWs1TlU1NGJFRRAB",
+            "review_text": "Big up to Bijaya what a humble man.\nDedicated to his work\nVery humbled and respectful. …",
+            "reviewer": "Vusi Ngcamane"
+        },
+        {
+            "rating": "5",
+            "review_id": "ChZDSUhNMG9nS0VPdllqcmU5bDlmOUtBEAE",
+            "review_text": "Queen Elizabeth 2 is a historical maritime masterpiece. The rooms are nicely done up and relatively large. It offers you a great value for the money spent.||The breakfast spread is nice and The Lions Bar, The Pavallion restraunt are very …",
+            "reviewer": "Blazingsword"
+        },
+        {
+            "rating": "4.1",
+            "review_id": "ChZDSUhNMG9nS0VPT1RyLXVUckpyVkVBEAE",
+            "review_text": "Pros: Enjoyed my stay on board. Unique & interesting history & exhibits. Eceptional entrance lobby - great place to sit & relax.Great buffet breakfast. Cons: Room was cold . Unable to adjust. Shower was always lukewarm.Staff were generally …",
+            "reviewer": "Trip.com Member"
+        },
+        {
+            "rating": "4",
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25CeWIxUnhiMTltUmtSSFZtRmZXWEpaUTNkWVNVRRAB",
+            "review_text": "The place was good and somewhat amazing, since it’s a real ship being transformed into a  hotel. The experience was great too. The rooms are clean.  The employees are friendly and accommodating. Thanks to Putri who assisted us and arranged …",
+            "reviewer": "Rafunjil R. Bantug"
+        },
+        {
+            "rating": "5",
+            "review_id": "ChZDSUhNMG9nS0VMV1I3OHJTN01PQU5REAE",
+            "review_text": "The tour of the ship was a very interesting experience – it was great to learn about the ship’s history and see everything live. We especially appreciated being the only guests during the morning tour, which made it feel very unique and …",
+            "reviewer": "216julitam"
+        },
+        {
+            "rating": "5",
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pSeWJXdDBNREpHVFZObFFqSjRSRGd0ZG5aRFJHYxAB",
+            "review_text": "Great to stay on board such an iconic ship. Enjoyed the experience and would recommend for a night or two. Didn't get the opportunity to visit the theatre, other than a quick look through the door, but it looked very good. Hard to believe that the ship was turned around in 8 days, to take British troops to the Flaklands in 1982.",
+            "reviewer": "Mark Bembrick"
+        },
+        {
+            "rating": "5",
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25SUWVWWmFSbnBJTVdGNlVtczJOVFkyYm5kSmNFRRAB",
+            "review_text": "I stayed on the Queen Elizabeth 2 for one night and it was a unique experience. The ship itself is full of history, beautifully preserved with a touch of modern comfort. My cabin was cozy, clean, and had everything I needed. …",
+            "reviewer": "travis olivier"
+        },
+        {
+            "rating": "5",
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s5WU0xQklaek0yYlVGcWNqaEVTSGR2UWpWR1ZVRRAB",
+            "review_text": "We had a wonderful staycation, thanks to Aizade, who made our stay especially comfortable. She is very attentive and knows how to accommodate guests well. We would definitely recommend this place for a new and enjoyable experience.",
+            "reviewer": "JHUNNIE CHARMAINE DUMPIT"
+        },
+        {
+            "rating": "5",
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s1MmFXRnRSMUZPU1hkR056Uk9ZM0p2Y0U5NU9XYxAB",
+            "review_text": "I recently had the pleasure of staying at the iconic Queen Elizabeth 2, the legendary ship-turned-hotel docked at Mina Rashid in Dubai. It’s not just a hotel; it’s a journey through maritime history, blending timeless elegance with stunning …",
+            "reviewer": "kozda 78"
+        },
+        {
+            "rating": "5",
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s5RFVUSk5iMVpqWW14SVRITjFWMlIyZEU5amNVRRAB",
+            "review_text": "We had an amazing time great rooms , breakfast was nice and friendly staff. Just want to say thanks to Bijaya house keeping he was amazing, friendly always had a smile thank you so much for your hospitality 🙌🙌🙌🙌keep up the good work. …",
+            "reviewer": "Dineo Maseko"
+        },
+        {
+            "rating": "5",
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pCYVVtZFlTR055YzBwclZXbFhaMVJpTFRSUVNtYxAB",
+            "review_text": "The Queen Elizabeth 2 offers a unique setting with its historic charm and the novelty of dining on a famous ship. The atmosphere is interesting for anyone who appreciates maritime history, and the venue itself has a nostalgic feel. However, …",
+            "reviewer": "Marwan Hawa"
+        },
+        {
+            "rating": "3.7",
+            "review_id": "ChdDSUhNMG9nS0VLZnBtTTJaLTlhbGlnRRAB",
+            "review_text": "My Stay was fine in general, but I strongly believe that there is a considerable room for improvement for such an Iconic ship. The get-in and out is confusing and terrible due to construction and has to be addressed and resolved soon. I …",
+            "reviewer": "Trip.com Member"
+        },
+        {
+            "rating": "2",
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2w5M1VVSnRlSE4yWTNaRVlsUTBXbmd6VTJkblMwRRAB",
+            "review_text": "Deeply Disappointed: A Sad Decline of a Historic Ship\n\nI came to stay at the Queen Elizabeth 2 with high hopes — this has been …",
+            "reviewer": "Honest reviews"
+        },
+        {
+            "rating": "2",
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tVeE9VbEdZalpoTUc5RWQwWk5RbGRyTWxjMmMzYxAB",
+            "review_text": "Initially I was overwhelmed and awestruck as I grew up with the QE2 and was aware how iconic it was. However, you quickly see the ships faults, and it's a bit tatty. There is CCTV everywhere which is off-putting and unnecessary. There are …",
+            "reviewer": "Ian Handley"
+        },
+        {
+            "rating": "5",
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pkSGIzSkhWR0poWkVaMU5VcGlhVTVQZERkcWIxRRAB",
+            "review_text": "We had a fantastic experience during our visit to QE2 during our October holidays.\nShip is undergoing renovation and thrill to wait for new looks and features …",
+            "reviewer": "Savio Dsouza"
+        },
+        {
+            "rating": "5",
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25oUFFtMXZhelJqYTBWSWVFaEJRa0l3ZGtWSVUxRRAB",
+            "review_text": "I appreciate the opportunity to share my thoughts. The service was generally quite pleasant and attentive throughout the meal. The staff worked diligently to ensure everyone was well taken care of. Overall, it created a very welcoming and …",
+            "reviewer": "Ali Asgar"
+        },
+        {
+            "rating": "4",
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xWSllsVkNaVVEzTVZkNFVrZEZaRmRuTjFBdFpXYxAB",
+            "review_text": "Enjoyed our 3 night stay on the QE2, Had to be done to stay on such an iconic ship.\nAll staff were very helpful and our room was very big compared to what you get …",
+            "reviewer": "M Harrison"
+        },
+        {
+            "rating": "4",
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2t0RmFuTnpkbVZuTFRFdFNXMVpNRmxOT0daV1lXYxAB",
+            "review_text": "Landmark  place for a visit whilst you are in Dubai.\nFor a 1970s cruise this is more of a museum. …",
+            "reviewer": "EP"
+        },
+        {
+            "rating": "4",
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xWWVNDMXVlVEZtUzB0V1NXNDBlRzlqY1ZFNWNGRRAB",
+            "review_text": "Had a wonderful stay at the Queen Elizabeth 2 Hotel. Aizada at the reception was great to talk to, very polite, professional, and extremely accommodating, which made the experience even more pleasant. The hotel itself is a grear place for a short getaway, offering a relaxing atmosphere. Would definitely recommend it.",
+            "reviewer": "ritu salian"
+        },
+        {
+            "rating": "5",
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2kxdVQwNDBiM1l6T1VadFltWkNTek5OU2s1aUxXYxAB",
+            "review_text": "Let me to express my gratitude to hotel’s staff (Ailada and Ahmed).\nThe room number was good.\nViews were amazing. …",
+            "reviewer": "Александр Сапрыгин"
+        },
+        {
+            "rating": "4",
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2poUmEwcDVSV3hmTm5WSllsbG9ZWGhGYVZCUE1tYxAB",
+            "review_text": "Beautiful idea to turn this ship into a hotel and trying to keep it authentic as possible.\nEven the rooms had that authentic antique feel to it. Your imagination can just …",
+            "reviewer": "Gordon Miller"
+        },
+        {
+            "rating": "3",
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25WRVIwNWlNbFYyWVVGTUxXRTVjMVYzUW0xRGVrRRAB",
+            "review_text": "We loved the idea of staying at the QE2 soaked in all it history but it lacked in entertainment and facilities that the guests could do within the ship. This meant most guests would only use it for somewhere to sleep and go elsewhere during …",
+            "reviewer": "Ian stebbing"
+        },
+        {
+            "rating": "4",
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tsNVp6TXdhSEpqYTFWQ2MxVnpSMXBVZUMxRGIzYxAB",
+            "review_text": "Excellent experience. Very different too. Visitors can be assured of quality food and beverages, comfortable rooms, and an opportunity to see various parts of a Trans-Atlantic ocean liner. The old ship is beautifully maintained and skillfully converted into a hotel.",
+            "reviewer": "Dr P J George"
+        },
+        {
+            "rating": "3",
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25SWmIxTjRhM1p6Wmt4YWJHSjFXVzFIZFVKZlVsRRAB",
+            "review_text": "I recently stayed at the Queen Elizabeth 2 Hotel and, my experience was not as expected. The room were fine but the service was a bit disappointing — especially the room service restaurant, which often didn’t answer calls at night. The …",
+            "reviewer": "Mira Na"
+        },
+        {
+            "rating": "5",
+            "review_id": "ChdDSUhNMG9nS0VPMjdoXzJRXzktVzF3RRAB",
+            "review_text": "Just wrapped up an unforgettable 2-night staycation on the QE2, and it was nothing short of amazing! From the moment we arrived, the staff were incredibly hospitable and friendly, making us feel right at home. The food was absolutely …",
+            "reviewer": "Trip.com Member"
+        },
+        {
+            "rating": "5",
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tKdFNHRm9SVU5EVjNJMlJVcFRVR1pmUVRCUVFuYxAB",
+            "review_text": "We had a nice experience, loved the hotel. Staff was very nice and helpful. I would highly recommend it. The location of the hotel is a little bit problematic at the moment because of all the constructions around, needed to ask for an Uber to arrive and leave it daily.",
+            "reviewer": "Oğuzhan Öztürk"
+        },
+        {
+            "rating": "5",
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21OR2VIZGZkSFpFTFRndFlVWlVja2x5Ym1aaVdXYxAB",
+            "review_text": "New Feature Achievement in Oracle APEX\n\nExcited to share that I’ve successfully implemented a Drag & Drop Task Board …",
+            "reviewer": "Doctor Robot"
+        },
+        {
+            "rating": "5",
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xKTU1FeDBhekZEUkc5amJrMTRjalpaYmxoS1luYxAB",
+            "review_text": "An amazing place for a staycation or to celebrate any special occasion! The staff is incredibly friendly and accommodating. Special thanks to Mary Jean at the reception—she was exceptionally kind, helpful, and professional throughout our …",
+            "reviewer": "Yogesh Kumar"
+        },
+        {
+            "rating": "1",
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21WVVJrcHFXR2hwT0RCRlFqQTBUR0o0T0RkM2FXYxAB",
+            "review_text": "This hotel management was highly disappointing,Specially if you have a family with kids or old age I don't recommend this hotel. …",
+            "reviewer": "Gracia Paul"
+        },
+        {
+            "rating": "1",
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21FeE1rMTNiV3hFZDNaUlQwTjVPVVF4YWtGTFVFRRAB",
+            "review_text": "Extremely Disappointing Stay at QE2 Hotel\nWe were a group of 7 adults and 1 child, checking in at 3:00 PM. Despite arriving on time, 3 out of our 4 rooms were not ready and the hotel made us wait in one …",
+            "reviewer": "Lougesh Kumar"
+        },
+        {
+            "rating": "4.6",
+            "review_id": "ChZDSUhNMG9nS0VKRzctdlhPN09XLVVREAE",
+            "review_text": "Overall location was really good, next to the port and the hotel itself is certainly majestic. For those who are staying and want to explore the historic aspects of Dubai, this is a great place to be based, with the staff very polite and …",
+            "reviewer": "Trip.com Member"
+        },
+        {
+            "rating": "4",
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tkMldYTmlSa2hEZURoSk4zWmZkMEpQYzJOSk5FRRAB",
+            "review_text": "All well... just Room was small. One suggestion. I booked room for family. we were four. before our check-in. Sofa must have been converted with bed. one bed was already there. water bottles slippers towels blankets etc. should place in sufficient quantity as per number of guests. heating pan and oven must have been provided.",
+            "reviewer": "Hitendra Rankhambe"
+        },
+        {
+            "rating": "5",
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2t0dFMzaE5iM2RPVXpaQ1VpMTNjVzltWlY5emQxRRAB",
+            "review_text": "Huge shoutout to Meghan for her amazing customer service throughout. Positive person with helping vibe.\nFrom rooms to breakfast to ambience our stay was 10/10 …",
+            "reviewer": "Fatima Saleem"
+        },
+        {
+            "rating": "3",
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21WSU1qZHplRGwxT0Y4dGVHOVRhMUoyUmxod1JFRRAB",
+            "review_text": "I had a ok stay at this hotel, located too much out of reach to all popular landmarks, the room was pleasant but carpet in room was a bit grubby looking, the rest of room was very clean, the bed was super comfortable and room was spacious, …",
+            "reviewer": "Jill reilly"
+        },
+        {
+            "rating": "5",
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT20wd01XUlZURUZVZGxwV1lrSnFUR1pxWldGa1EzYxAB",
+            "review_text": "A unique stay on a famous ocean liner, which has been thoughtfully converted to a hotel!  The room was nice, good facilities; the restaurants each had a different vibe; and the service was great!  Located at the edge of Bur Dubai, and with …",
+            "reviewer": "Tony Menzies"
+        },
+        {
+            "rating": "5",
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xGVlVYQkhUVzlxTVdnMUxXWTFVbk0zZFVSRVpFRRAB",
+            "review_text": "An impressive stay, feeling differently inside a ship which recreates the royal life of the 19th century. QE2, is a museum of famous luxury liners now turned into an iconic floating hotel. A must see property at least once in a lifetime. …",
+            "reviewer": "Hashim Shakeeb"
+        },
+        {
+            "rating": "5",
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xGb1JWZHFUVFZpVGxNMlVFUnhjbXQzTmt4VlMyYxAB",
+            "review_text": "Good day, and thank you for your kind response.\n\nWe truly appreciate your prompt attention to our concerns. I would like to …",
+            "reviewer": "khaja iftequar uddin"
+        },
+        {
+            "rating": "5",
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xCd1FXVldVMmR6V0hObmVYUmtNMHg1ZG00M2MwRRAB",
+            "review_text": "We are frequent travelers for business and holidays, lucky and blessed enough to have traveled to many destinations and stayed at many hotels, from Asia to the Caribbean and this region, our experience at the QE2 is now in the top 5, all …",
+            "reviewer": "Ala Ghanem"
+        },
+        {
+            "rating": "5",
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xveVYzRklWelJOZGpCbFQwSkxkbU5HYTFWdmNtYxAB",
+            "review_text": "We celebrated our wedding anniversary yesterday at the Queen Elizabeth 2 hotel, and it was an unforgettable experience. The dinner was delicious, the staff were very friendly, and the atmosphere on the ship made the evening extra special. Highly recommended! ⭐⭐⭐⭐⭐",
+            "reviewer": "Kasun Ramesh"
+        },
+        {
+            "rating": "5",
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2taamVuSnVkbll4YlcxaVdsUkpTVzFXZUdkUmFtYxAB",
+            "review_text": "This was one of a kind experience living on a big boat with huge piece of history and excellent experience in services and local food. Spend some time on the excursion on this ⛵ 🚢, it's worth time and it's incredible experience to find out the history of Queen Elizabeth II. …",
+            "reviewer": "Hanna Kozakova"
+        },
+        {
+            "rating": "5",
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xaaGVWTnRhbWh4WTNOb1FrRTVPSGxCVkV3M2NVRRAB",
+            "review_text": "I had a wonderful stay at the Queen Elizabeth 2 Hotel. The room was clean and comfortable, and the service was excellent. I want to thank Mary at the reception, she was very kind and helped me a lot during my stay. I really appreciate her support. I would definitely come back again!",
+            "reviewer": "A A"
+        },
+        {
+            "rating": "5",
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xaQ0xYQXpTV2RMVWtaUE1HOW9hSGMwZVV4SE1IYxAB",
+            "review_text": "Had an incredible stay at Queen Elizabeth 2 Hotel in Dubai! The rooms were luxurious, and the views of the sea were simply breathtaking.\nThe staff were attentive, friendly, and went above and beyond to make our stay …",
+            "reviewer": "Zuhaib Aarif"
+        },
+        {
+            "rating": "2",
+            "review_id": "ChdDSUhNMG9nS0VPSEhodHoydXRLSW9RRRAB",
+            "review_text": "I cruised on the QE2 to NY in 2002. This was my first time back in 23 years.||Today the QE2 is a very mediocre hotel.  The external appended of the ship is degrading fast. My 'superior' room 2066, was for from superior. The furniture (not …",
+            "reviewer": "CentreOfUniverse"
+        },
+        {
+            "rating": "5",
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT214NFlWOTVOekkyUTB0S1RVTjNObFZKUm1aUlowRRAB",
+            "review_text": "Gangmei and the team were very attentive, efficient, and professional. They were friendly and did a wonderful job of making a group of 15 feel welcome to celebrate a birthday. The chef did a wonderful job with the wide variety of Sunday roasts which were all delicious and catered to various palettes.",
+            "reviewer": "Tanya Abdalla"
+        },
+        {
+            "rating": "5",
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT201SGFtSTNZVnBXWlZVNFFqZFFhVlZoYmpCcE1uYxAB",
+            "review_text": "I truly says, I never had such type of experience in my life with Queen Elizabeth2. Everything is really good especially food, staff members as well as crews and moreover thankful to Bijesh. He always look after us. …",
+            "reviewer": "Saman Raina"
+        },
+        {
+            "rating": "5",
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xZeVYyaGpZVWhsYzFrM1ZrWktXR0ZmTFhGMWQxRRAB",
+            "review_text": "We really enjoyed our stay at QE2, there’s something surprisingly calming about being on a historic ship while still having all the modern comforts. The staff were genuinely warm, and the whole experience felt refreshingly different from a typical hotel stay.",
+            "reviewer": "Udith Ishara"
+        },
+        {
+            "rating": "5",
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21keE1UaGpNMUE1YWxOcVJVRkJiRGMzV25NdGNtYxAB",
+            "review_text": "We dined at The Queen’s Grill to experience the culinary journey of QE2’s - Around The World in 80 days. We love the menu, the ambiance and the staff. Mr Shahid, Myo and Yui are the best. Food was made fresh and delicious . QE2 tells a lot of history, luxury and heritage. I can’t wait to be back for a staycation.",
+            "reviewer": "Stephanne Mamolo"
+        },
+        {
+            "rating": "2",
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pOMFpHaFdTR3hqY1U5UFVFNHdTM05qWjJkNVkzYxAB",
+            "review_text": "We recently stayed at your property to celebrate our baby’s 1st birthday on 29th Sep (Room 1046). During check-in, the front office kindly offered a complimentary cake for the celebration, which we had not requested but truly appreciated. …",
+            "reviewer": "Vincy V"
+        },
+        {
+            "rating": "4",
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25NdFZEWjFaV00zYm1OSWQxOVliMHRoU2xCR1JVRRAB",
+            "review_text": "Been here a lot, I’m here for the history, hotel is not at the level, room and bathroom amenities is at 3 stars hotel this isn’t okay, I’m paying more, rooms should be checked my a manger not a cleaning person, some staff should be reminded …",
+            "reviewer": "Shady Ghiath"
+        },
+        {
+            "rating": "5",
+            "review_id": "ChdDSUhNMG9nS0VLTGVqSS1GMklLYXJ3RRAB",
+            "review_text": "A fantastic experience, remember the launch as a kid back in 1969 on the Clyde in Glasgow, was always on my bucket list to visit when in Dubai, a brilliant tour guide as well with his arm in a sling, so pleased to have stepped on the QE2",
+            "reviewer": "X8243VRjohnm"
+        },
+        {
+            "rating": "4",
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25seWEyaHBialZsWVRrM1RqVnNhRUY2ZFhaU1RFRRAB",
+            "review_text": "Staff were always attentive and friendly.  It is good value for money but the whole vessel is a bit tired and it is the middle of a construction wasteland and therefore you spend up getting to anywhere …",
+            "reviewer": "k m"
+        },
+        {
+            "rating": "5",
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25aamRGWmtaVEJ6ZEZCdWJEUTVTMng1WVdGM04xRRAB",
+            "review_text": "Came for a memorable  CONVOCATION EVENT OF EIU PARIS . Once in Life time experience.\nHighly overwhelmed with the facilities in the Queen Elizabeth 2. …",
+            "reviewer": "Parameswaran R"
+        },
+        {
+            "rating": "5",
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2twUWMyTjBabWw1VEcxdFZUUjJVelpHWjNCa2EzYxAB",
+            "review_text": "Just had a fantastic experience at the QE2 teather watching Sinbad the Sailor! It was super fun, cute and interactive! Can’t wait to go back to another play! The entire boat is decorated for Christmas!",
+            "reviewer": "Paula Scalco"
+        },
+        {
+            "rating": "1",
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xoa1JreFVVVnBJZUhsa2VsOWZRMlZPYldnNE0xRRAB",
+            "review_text": "My experience at this hotel was unfortunately very disappointing. I had a confirmed reservation via email as well as a phone confirmation, yet upon arrival I was informed that no room was available. I had to wait in the lobby until the next …",
+            "reviewer": "Salem Alholy"
+        },
+        {
+            "rating": "5",
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2taSU5XaHpOVlYzWTBWaWJUVmxRa0l0YVVOa1JGRRAB",
+            "review_text": "Excellent service from start to finish! Meagan made my afternoon tea truly memorable, and Joan guided me to the Grills restaurant and even took souvenir photos. The staff were warm and welcoming, and the concierge went the extra mile. Just …",
+            "reviewer": "Nelia Valenzuela"
+        },
+        {
+            "rating": "4",
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tGNWQwUTFlR1EzTkhBNFNYTjRVbEp0YUdOS1RsRRAB",
+            "review_text": "Inexpensive option, if you want to just stay in Dubai and go around site-seeing, but not necessarily in a luxury hotel setting. Plus, it’s a historic one — being a famous old cruise liner — and in some ways fun place to stay. …",
+            "reviewer": "Otar Sarishvili"
+        }
+    ]
+}
