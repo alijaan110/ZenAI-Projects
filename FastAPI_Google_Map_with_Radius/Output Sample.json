@@ -1,0 +1,199 @@
+{
+  "input_url": "https://maps.app.goo.gl/Az8worANF9oSE3Do8",
+  "resolved_url": "https://www.google.com/maps/place/Bull+%26+Bear+DIFC/@25.2112147,55.2817085,17z/data=!3m1!4b1!4m6!3m5!1s0x3e5f434ad86a0c83:0x1e0ad30df0faa2f7!8m2!3d25.2112147!4d55.2817085!16s%2Fg%2F11hdvmr6t3?coh=277533&entry=tts&g_ep=EgoyMDI2MDExMy4wIPu8ASoKLDEwMDc5MjA2N0gBUAM%3D&skid=f5b98772-c0ea-481f-92b2-b4fde05b63cd",
+  "search_url": "https://www.google.com/maps/search/restaurant/@25.2112147,55.2817085,13z",
+  "radius_km": 5,
+  "coordinates": {
+    "lat": 25.2112147,
+    "lng": 55.2817085
+  },
+  "zoom_level": 13,
+  "timestamp": "2026-01-17T11:54:29.005454+00:00",
+  "desired_results": 3,
+  "total_processed": 4,
+  "within_radius": 3,
+  "excluded_outside_radius": 1,
+  "data": [
+    {
+      "business_name": "Ana Restaurant",
+      "address": "The Waterfall Area, The Dubai Mall - First Floor - opposite to Jashanmal - Burj Khalifa - Downtown Dubai - Dubai - United Arab Emirates",
+      "category": "Restaurant",
+      "rating": "4.7",
+      "reviews_count": "3295",
+      "google_maps_url": "https://www.google.com/maps/place/Ana+Restaurant/data=!4m7!3m6!1s0x3e5f6924f95c757b:0xc26c8fc8eef6789a!8m2!3d25.1955373!4d55.2785623!16s%2Fg%2F11h3ld2tg_!19sChIJe3Vc-SRpXz4Rmnj27siPbMI?authuser=0&hl=en&rclk=1",
+      "company_url": "https://www.anarestaurant.ae/menu-24",
+      "phone": "+971 4 261 1415",
+      "opening_hours": [
+        "link href=\"/maps/preview/place?authuser=0&amp;hl=en&amp;authuser=0&amp;q=Ana+Restaur",
+        "MSATEiEwoOaW5jaWRlbnRzX3RleHQSATESFwgCEgdjcmlzaXMy+o3FjAsGCAIoAUgBGhgSAmVuYhIIRBIOCgNzZXQ",
+        "sChIJe3Vc-SRpXz4Rmnj27siPbMI%3Fauthuser%3D0%26hl%3Den%26rclk%3D1\\u0026amp;service\\u003",
+        "bWAvc+RBHB/99ju/SLeMB0jzzYadvUMgThu8FJw3XygAg2h5vtt7FlEMJiCbKW8JHqHblPm69W8fsOX2I3MQ5",
+        "DIT1KFl/jQSwAbW+hslaFrID6PcQeXfTOPldI9aOH/0iCH37NdJPZUo9DSVrqRsPpFYQgTT6HTwPmaU0ztz",
+        "uGe0D7rzLKLxPi+GLIreKDZodCHY7CJUL8qLbhXgqKFnaMmFm2puKo97Ts5GYDtSMONPbx80CZL2oQ2U8eX",
+        "data-tooltip-offset=\"0,-4\" data-value=\"Saturday, 10 AM–1 AM\" jsaction=\"pane.openhour"
+      ],
+      "price_level": "N/A",
+      "attributes": [
+        "deliveroo.ae",
+        "anarestaurant.ae",
+        "Based on visits to this place.",
+        "Live",
+        "A little busy"
+      ],
+      "images": [
+        "https://www.google.com/maps/vt/pb=!1m4!1m3!1i17!2i85662!3i56051!2m3!1e0!2sm!3i762526346!2m2!1e2!2sspotlit!3m8!2sen!3s!5e1105!12m4!1e68!2m2!1sset!2sRoadmap!4e0!5m1!1e0!23i1368782!23i1368785!23i4861626!23i10211310!23i1381938!23i4897086!23i47054629!23i47029525!23i72272233!23i72272234!23i72272236!23i10212276!23i94278263!23i94270232!23i10212195!23i72458815!23i10211069!23i94243289!23i94255677!23i72860224!23i10211515!23i94260020!23i72549439!27m15!299174093m14!14m13!1m8!1m2!1y4494426560662369659!2y14009730634008131738!2s%2Fg%2F11h3ld2tg_!4m2!1x251955373!2x552785623!15sgcid%3Arestaurant!2b0!3b0!6b0!8b0",
+        "https://www.google.com/maps/vt/pb=!1m4!1m3!1i17!2i85662!3i56052!2m3!1e0!2sm!3i762526346!2m2!1e2!2sspotlit!3m8!2sen!3s!5e1105!12m4!1e68!2m2!1sset!2sRoadmap!4e0!5m1!1e0!23i1368782!23i1368785!23i4861626!23i10211310!23i1381938!23i4897086!23i47054629!23i47029525!23i72272233!23i72272234!23i72272236!23i10212276!23i94278263!23i94270232!23i10212195!23i72458815!23i10211069!23i94243289!23i94255677!23i72860224!23i10211515!23i94260020!23i72549439!27m15!299174093m14!14m13!1m8!1m2!1y4494426560662369659!2y14009730634008131738!2s%2Fg%2F11h3ld2tg_!4m2!1x251955373!2x552785623!15sgcid%3Arestaurant!2b0!3b0!6b0!8b0",
+        "https://www.google.com/maps/vt/pb=!1m4!1m3!1i17!2i85661!3i56051!2m3!1e0!2sm!3i762526346!2m2!1e2!2sspotlit!3m8!2sen!3s!5e1105!12m4!1e68!2m2!1sset!2sRoadmap!4e0!5m1!1e0!23i1368782!23i1368785!23i4861626!23i10211310!23i1381938!23i4897086!23i47054629!23i47029525!23i72272233!23i72272234!23i72272236!23i10212276!23i94278263!23i94270232!23i10212195!23i72458815!23i10211069!23i94243289!23i94255677!23i72860224!23i10211515!23i94260020!23i72549439!27m15!299174093m14!14m13!1m8!1m2!1y4494426560662369659!2y14009730634008131738!2s%2Fg%2F11h3ld2tg_!4m2!1x251955373!2x552785623!15sgcid%3Arestaurant!2b0!3b0!6b0!8b0",
+        "https://www.google.com/maps/vt/pb=!1m4!1m3!1i17!2i85661!3i56052!2m3!1e0!2sm!3i762526346!2m2!1e2!2sspotlit!3m8!2sen!3s!5e1105!12m4!1e68!2m2!1sset!2sRoadmap!4e0!5m1!1e0!23i1368782!23i1368785!23i4861626!23i10211310!23i1381938!23i4897086!23i47054629!23i47029525!23i72272233!23i72272234!23i72272236!23i10212276!23i94278263!23i94270232!23i10212195!23i72458815!23i10211069!23i94243289!23i94255677!23i72860224!23i10211515!23i94260020!23i72549439!27m15!299174093m14!14m13!1m8!1m2!1y4494426560662369659!2y14009730634008131738!2s%2Fg%2F11h3ld2tg_!4m2!1x251955373!2x552785623!15sgcid%3Arestaurant!2b0!3b0!6b0!8b0",
+        "//maps.gstatic.com/tactile/basepage/loader_beige_2x.gif",
+        "//www.google.com/images/branding/mapslogo/1x/GoogleMaps_Logo_WithLightOutline.png",
+        "//www.google.com/images/branding/mapslogo/1x/GoogleMaps_Logo_WithDarkOutline.png",
+        "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSyMAw4YjtEhCABYYu7uSKHV-OMol5t4jRN9LY4mrtdLx97NHi2a1qupEhDxOYGG3OGOOAFVOe27AcRa7V1wzfTLyp6yga_6oHtzwg6GSZ8uZRu2-OdJolSJoCVL50ou4t4yTgrYpSJh2Sc=w112-h112-p-k-no",
+        "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSxjxVEHGULndYY0DacZxh1ZRNemoKD9g87ZXnPH84XU-o_p-TbTdGR8AI2Pys_h7POjieF9smq9c0FDA61nymMf2FgkR9y4kTVWng8vYvCBrS298U0YVM8DKvcZnzGidgzHDwzrzA=w112-h112-p-k-no",
+        "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSxg5U7Y9I2KxRPL7rCJpuPBOEvQNM11O4c_t1apFVb71Csher_Dh6zphnTSg9Qr4vEXiEG4W9KolyTphslEaEqpsPNW5-dbW1CIu8IUe2hc6b-0p0EcK5-zjanMA2LUynpcHdroxw=w112-h112-p-k-no"
+      ],
+      "description": "Ana Restaurant مطعم آنا 4.7 (3,295) Restaurant · ",
+      "latitude": 25.1955373,
+      "longitude": 55.2785623,
+      "distance_km": 1.77,
+      "raw_page_text_snippet": "Ana Restaurant - Google Maps   Saved  Recents  Get app  See photos Ana Restaurant مطعم آنا 4.7 (3,295) Restaurant ·  Overview Menu Reviews About  Directions  Save  Nearby  Send to phone  Share ·  Dine-in ·  Takeout ·  No-contact delivery   The Waterfall Area, The Dubai Mall - First Floor - opposite to Jashanmal - Burj Khalifa - Downtown Dubai - Dubai - United Arab Emirates  Floor L1 · Dubai Mall  Open · Closes 1 AM  Saturday 10 AM–1 AM  Sunday 10 AM–12 AM  Monday 10 AM–12 AM  Tuesday 10 AM–12 AM  Wednesday 10 AM–12 AM  Thursday 10 AM–1 AM  Friday 10 AM–1 AM  Suggest new hours  Find a table  Place an order deliveroo.ae   Menu anarestaurant.ae    sevenrooms.com    +971 4 261 1415    57WH+6C Dubai - United Arab Emirates    Suggest an edit Updates from"
+    },
+    {
+      "business_name": "Maison De Curry | Restaurant with the best views of Burj Khalifa & Dubai Fountains",
+      "address": "Souk Al Bahar - Sheikh Mohammed bin Rashid Blvd - Burj Khalifa - Downtown Dubai - Dubai - United Arab Emirates",
+      "category": "Restaurant",
+      "rating": "4.8",
+      "reviews_count": "5288",
+      "google_maps_url": "https://www.google.com/maps/place/Maison+De+Curry+%7C+Restaurant+with+the+best+views+of+Burj+Khalifa+%26+Dubai+Fountains/data=!4m7!3m6!1s0x3e5f696989d96d1f:0xe1c1114ac795be0e!8m2!3d25.1950384!4d55.2761253!16s%2Fg%2F11sb6s5vz5!19sChIJH23ZiWlpXz4RDr6Vx0oRweE?authuser=0&hl=en&rclk=1",
+      "company_url": "https://maisondecurry.com/menu/",
+      "phone": "+971 52 406 6183",
+      "opening_hours": [
+        "link href=\"/maps/preview/place?authuser=0&amp;hl=en&amp;authuser=0&amp;q=Maison+De+C",
+        "MSATEiEwoOaW5jaWRlbnRzX3RleHQSATESFwgCEgdjcmlzaXMy+o3FjAsGCAIoAUgBGhgSAmVuYhIIRBIOCgNzZXQ",
+        "sChIJH23ZiWlpXz4RDr6Vx0oRweE%3Fauthuser%3D0%26hl%3Den%26rclk%3D1\\u0026amp;service\\u003",
+        "qjrNAR4teuVNDnjmnrsaT93JiokycsI5XBhAMhtpBqaQYuZLTmxhMmiH75kD22M30zZKZfSndGPHTzYsrQadSL",
+        "data-tooltip-offset=\"0,-4\" data-value=\"Saturday, 12 PM–1 AM\" jsaction=\"pane.openhour",
+        "tip\" data-tooltip=\"Copy open hours\" aria-label=\"Saturday, 12 PM to 1 AM, Copy open",
+        "data-tooltip-offset=\"0,-4\" data-value=\"Sunday, 12 PM–1 AM\" jsaction=\"pane.openhours."
+      ],
+      "price_level": "N/A",
+      "attributes": [
+        "maisondecurry.com",
+        "Based on visits to this place.",
+        "Live",
+        "Not too busy"
+      ],
+      "images": [
+        "https://www.google.com/maps/vt/pb=!1m4!1m3!1i17!2i85661!3i56051!2m3!1e0!2sm!3i762526346!2m2!1e2!2sspotlit!3m8!2sen!3s!5e1105!12m4!1e68!2m2!1sset!2sRoadmap!4e0!5m1!1e0!23i1368782!23i1368785!23i4861626!23i10211310!23i1381938!23i4897086!23i47054629!23i47029525!23i72272233!23i72272234!23i72272236!23i10212276!23i94278263!23i94270232!23i10212195!23i72458815!23i10211069!23i94243289!23i94255677!23i72860224!23i10211515!23i94260020!23i72549439!27m15!299174093m14!14m13!1m8!1m2!1y4494426855144254751!2y16267302341912673806!2s%2Fg%2F11sb6s5vz5!4m2!1x251950384!2x552761253!15sgcid%3Arestaurant!2b0!3b0!6b0!8b0",
+        "https://www.google.com/maps/vt/pb=!1m4!1m3!1i17!2i85661!3i56052!2m3!1e0!2sm!3i762526346!2m2!1e2!2sspotlit!3m8!2sen!3s!5e1105!12m4!1e68!2m2!1sset!2sRoadmap!4e0!5m1!1e0!23i1368782!23i1368785!23i4861626!23i10211310!23i1381938!23i4897086!23i47054629!23i47029525!23i72272233!23i72272234!23i72272236!23i10212276!23i94278263!23i94270232!23i10212195!23i72458815!23i10211069!23i94243289!23i94255677!23i72860224!23i10211515!23i94260020!23i72549439!27m15!299174093m14!14m13!1m8!1m2!1y4494426855144254751!2y16267302341912673806!2s%2Fg%2F11sb6s5vz5!4m2!1x251950384!2x552761253!15sgcid%3Arestaurant!2b0!3b0!6b0!8b0",
+        "https://www.google.com/maps/vt/pb=!1m4!1m3!1i17!2i85660!3i56051!2m3!1e0!2sm!3i762526346!2m2!1e2!2sspotlit!3m8!2sen!3s!5e1105!12m4!1e68!2m2!1sset!2sRoadmap!4e0!5m1!1e0!23i1368782!23i1368785!23i4861626!23i10211310!23i1381938!23i4897086!23i47054629!23i47029525!23i72272233!23i72272234!23i72272236!23i10212276!23i94278263!23i94270232!23i10212195!23i72458815!23i10211069!23i94243289!23i94255677!23i72860224!23i10211515!23i94260020!23i72549439!27m15!299174093m14!14m13!1m8!1m2!1y4494426855144254751!2y16267302341912673806!2s%2Fg%2F11sb6s5vz5!4m2!1x251950384!2x552761253!15sgcid%3Arestaurant!2b0!3b0!6b0!8b0",
+        "https://www.google.com/maps/vt/pb=!1m4!1m3!1i17!2i85660!3i56052!2m3!1e0!2sm!3i762526346!2m2!1e2!2sspotlit!3m8!2sen!3s!5e1105!12m4!1e68!2m2!1sset!2sRoadmap!4e0!5m1!1e0!23i1368782!23i1368785!23i4861626!23i10211310!23i1381938!23i4897086!23i47054629!23i47029525!23i72272233!23i72272234!23i72272236!23i10212276!23i94278263!23i94270232!23i10212195!23i72458815!23i10211069!23i94243289!23i94255677!23i72860224!23i10211515!23i94260020!23i72549439!27m15!299174093m14!14m13!1m8!1m2!1y4494426855144254751!2y16267302341912673806!2s%2Fg%2F11sb6s5vz5!4m2!1x251950384!2x552761253!15sgcid%3Arestaurant!2b0!3b0!6b0!8b0",
+        "https://www.google.com/maps/vt/pb=!1m4!1m3!1i17!2i85662!3i56052!2m3!1e0!2sm!3i762526346!2m2!1e2!2sspotlit!3m8!2sen!3s!5e1105!12m4!1e68!2m2!1sset!2sRoadmap!4e0!5m1!1e0!23i1368782!23i1368785!23i4861626!23i10211310!23i1381938!23i4897086!23i47054629!23i47029525!23i72272233!23i72272234!23i72272236!23i10212276!23i94278263!23i94270232!23i10212195!23i72458815!23i10211069!23i94243289!23i94255677!23i72860224!23i10211515!23i94260020!23i72549439!27m15!299174093m14!14m13!1m8!1m2!1y4494426855144254751!2y16267302341912673806!2s%2Fg%2F11sb6s5vz5!4m2!1x251950384!2x552761253!15sgcid%3Arestaurant!2b0!3b0!6b0!8b0",
+        "//maps.gstatic.com/tactile/basepage/loader_beige_2x.gif",
+        "//www.google.com/images/branding/mapslogo/1x/GoogleMaps_Logo_WithLightOutline.png",
+        "//www.google.com/images/branding/mapslogo/1x/GoogleMaps_Logo_WithDarkOutline.png",
+        "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSzMlbEoighvXD6vMxG0aIqIetYKFxMs_hXr6QPqIXE4iKDNBsqMhPkNkc3LtnQn-vSeXJzrje47qaIVLMnhIBDICnjBKKX6LXSFgJT74K6FSqRUt3Cq1ItZdGUivMrg8lDOOPHp=w112-h112-p-k-no",
+        "https://lh3.googleusercontent.com/p/AF1QipNd4reLpIjhrKhsb92c72XGAur1Vu_Y96wQAD7L=w112-h112-p-k-no"
+      ],
+      "description": "Maison De Curry | Restaurant with the best views of Burj Khalifa & Dubai Fountains 4.8 (5,288) Restaurant · ",
+      "latitude": 25.1950384,
+      "longitude": 55.2761253,
+      "distance_km": 1.88,
+      "raw_page_text_snippet": "Maison De Curry | Restaurant with the best views of Burj Khalifa & Dubai Fountains - Google Maps  Search  Close  Collapse side panel   Saved  Recents  Get app  See photos Maison De Curry | Restaurant with the best views of Burj Khalifa & Dubai Fountains 4.8 (5,288) Restaurant ·  Overview Menu Reviews About  Directions  Save  Nearby  Send to phone  Share ·  Dine-in ·  Takeout ·  No-contact delivery   Souk Al Bahar - Sheikh Mohammed bin Rashid Blvd - Burj Khalifa - Downtown Dubai - Dubai - United Arab Emirates  Located in: Souk Al Bahar  Open · Closes 1 AM  Saturday 12 PM–1 AM  Sunday 12 PM–1 AM  Monday 12 PM–12 AM  Tuesday 12 PM–12 AM  Wednesday 12 PM–12 AM  Thursday 12 PM–12 AM  Friday 12 PM–1 AM  Suggest new hours  Find a table  Menu maisondecurry.com    "
+    },
+    {
+      "business_name": "The MAINE Land Brasserie Restaurant, Business Bay Dubai",
+      "address": "The Opus by Omniyat - Ground Floor - Al A'amal St - Dubai - United Arab Emirates",
+      "category": "N/A",
+      "rating": "4.7",
+      "reviews_count": "1925",
+      "google_maps_url": "https://www.google.com/maps/place/The+MAINE+Land+Brasserie+Restaurant,+Business+Bay+Dubai/data=!4m7!3m6!1s0x3e5f69dad6dda6a5:0x9fb22372a58d038f!8m2!3d25.1884918!4d55.267011!16s%2Fg%2F11j0b3fgk7!19sChIJpabd1tppXz4RjwONpXIjsp8?authuser=0&hl=en&rclk=1",
+      "company_url": "https://www.themainelandbrasserie.com/a-la-carte-menu",
+      "phone": "+971 4 577 6680",
+      "opening_hours": [
+        "link href=\"/maps/preview/place?authuser=0&amp;hl=en&amp;authuser=0&amp;q=The+MAINE+L",
+        "MSATEiEwoOaW5jaWRlbnRzX3RleHQSATESFwgCEgdjcmlzaXMy+o3FjAsGCAIoAUgBGhgSAmVuYhIIRBIOCgNzZXQ",
+        "ChIJpabd1tppXz4RjwONpXIjsp8%3Fauthuser%3D0%26hl%3Den%26rclk%3D1\\u0026amp;service\\u003dlo",
+        "data-tooltip-offset=\"0,-4\" data-value=\"Saturday, 12 PM–2 AM\" jsaction=\"pane.openhour",
+        "tip\" data-tooltip=\"Copy open hours\" aria-label=\"Saturday, 12 PM to 2 AM, Copy open",
+        "data-tooltip-offset=\"0,-4\" data-value=\"Sunday, 12 PM–1 AM\" jsaction=\"pane.openhours.",
+        "tip\" data-tooltip=\"Copy open hours\" aria-label=\"Sunday, 12 PM to 1 AM, Copy open ho"
+      ],
+      "price_level": "$$$",
+      "attributes": [
+        "themainelandbrasserie.com",
+        "Based on visits to this place.",
+        "Live",
+        "Busier than usual"
+      ],
+      "images": [
+        "https://www.google.com/maps/vt/pb=!1m4!1m3!1i17!2i85658!3i56054!2m3!1e0!2sm!3i762526346!2m2!1e2!2sspotlit!3m8!2sen!3s!5e1105!12m4!1e68!2m2!1sset!2sRoadmap!4e0!5m1!1e0!23i1368782!23i1368785!23i4861626!23i10211310!23i1381938!23i4897086!23i47054629!23i47029525!23i72272233!23i72272234!23i72272236!23i10212276!23i94278263!23i94270232!23i10212195!23i72458815!23i10211069!23i94243289!23i94255677!23i72860224!23i10211515!23i94260020!23i72549439!27m15!299174093m14!14m13!1m8!1m2!1y4494427341767681701!2y11507298973195764623!2s%2Fg%2F11j0b3fgk7!4m2!1x251884918!2x552670110!15sgcid%3Arestaurant!2b0!3b0!6b0!8b0",
+        "https://www.google.com/maps/vt/pb=!1m4!1m3!1i17!2i85657!3i56054!2m3!1e0!2sm!3i762526346!2m2!1e2!2sspotlit!3m8!2sen!3s!5e1105!12m4!1e68!2m2!1sset!2sRoadmap!4e0!5m1!1e0!23i1368782!23i1368785!23i4861626!23i10211310!23i1381938!23i4897086!23i47054629!23i47029525!23i72272233!23i72272234!23i72272236!23i10212276!23i94278263!23i94270232!23i10212195!23i72458815!23i10211069!23i94243289!23i94255677!23i72860224!23i10211515!23i94260020!23i72549439!27m15!299174093m14!14m13!1m8!1m2!1y4494427341767681701!2y11507298973195764623!2s%2Fg%2F11j0b3fgk7!4m2!1x251884918!2x552670110!15sgcid%3Arestaurant!2b0!3b0!6b0!8b0",
+        "https://www.google.com/maps/vt/pb=!1m4!1m3!1i17!2i85658!3i56055!2m3!1e0!2sm!3i762526346!2m2!1e2!2sspotlit!3m8!2sen!3s!5e1105!12m4!1e68!2m2!1sset!2sRoadmap!4e0!5m1!1e0!23i1368782!23i1368785!23i4861626!23i10211310!23i1381938!23i4897086!23i47054629!23i47029525!23i72272233!23i72272234!23i72272236!23i10212276!23i94278263!23i94270232!23i10212195!23i72458815!23i10211069!23i94243289!23i94255677!23i72860224!23i10211515!23i94260020!23i72549439!27m15!299174093m14!14m13!1m8!1m2!1y4494427341767681701!2y11507298973195764623!2s%2Fg%2F11j0b3fgk7!4m2!1x251884918!2x552670110!15sgcid%3Arestaurant!2b0!3b0!6b0!8b0",
+        "https://www.google.com/maps/vt/pb=!1m4!1m3!1i17!2i85657!3i56055!2m3!1e0!2sm!3i762526346!2m2!1e2!2sspotlit!3m8!2sen!3s!5e1105!12m4!1e68!2m2!1sset!2sRoadmap!4e0!5m1!1e0!23i1368782!23i1368785!23i4861626!23i10211310!23i1381938!23i4897086!23i47054629!23i47029525!23i72272233!23i72272234!23i72272236!23i10212276!23i94278263!23i94270232!23i10212195!23i72458815!23i10211069!23i94243289!23i94255677!23i72860224!23i10211515!23i94260020!23i72549439!27m15!299174093m14!14m13!1m8!1m2!1y4494427341767681701!2y11507298973195764623!2s%2Fg%2F11j0b3fgk7!4m2!1x251884918!2x552670110!15sgcid%3Arestaurant!2b0!3b0!6b0!8b0",
+        "https://www.google.com/maps/vt/pb=!1m4!1m3!1i17!2i85658!3i56053!2m3!1e0!2sm!3i762526346!2m2!1e2!2sspotlit!3m8!2sen!3s!5e1105!12m4!1e68!2m2!1sset!2sRoadmap!4e0!5m1!1e0!23i1368782!23i1368785!23i4861626!23i10211310!23i1381938!23i4897086!23i47054629!23i47029525!23i72272233!23i72272234!23i72272236!23i10212276!23i94278263!23i94270232!23i10212195!23i72458815!23i10211069!23i94243289!23i94255677!23i72860224!23i10211515!23i94260020!23i72549439!27m15!299174093m14!14m13!1m8!1m2!1y4494427341767681701!2y11507298973195764623!2s%2Fg%2F11j0b3fgk7!4m2!1x251884918!2x552670110!15sgcid%3Arestaurant!2b0!3b0!6b0!8b0",
+        "//maps.gstatic.com/tactile/basepage/loader_beige_2x.gif",
+        "//www.google.com/images/branding/mapslogo/1x/GoogleMaps_Logo_WithLightOutline.png",
+        "//www.google.com/images/branding/mapslogo/1x/GoogleMaps_Logo_WithDarkOutline.png",
+        "https://lh3.googleusercontent.com/p/AF1QipNPTrk-soq58sCFIdTJkkZB8wdPf7Ub6sWhaP-L=w112-h112-p-k-no",
+        "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSypghih0OtZUm-E6oNMykjiZSHdOkdm5fPi8-MWov6ouMy_3Vpsff4HbqOG2aWSXexm6lHMxZhsJoBHrHED6gfLPHKEmPXqoQTgN_SPVDTq38uyWIwd1tL62If4Odoa92Y7H3o=w112-h112-p-k-no"
+      ],
+      "description": "The MAINE Land Brasserie Restaurant, Business Bay Dubai 4.7 (1,925) · $$$ Restaurant · ",
+      "latitude": 25.1884918,
+      "longitude": 55.267011,
+      "distance_km": 2.93,
+      "raw_page_text_snippet": "The MAINE Land Brasserie Restaurant, Business Bay Dubai - Google Maps  Search  Close  Collapse side panel   Saved  Recents  Get app  See photos The MAINE Land Brasserie Restaurant, Business Bay Dubai 4.7 (1,925) · $$$ Restaurant ·  Overview Menu Reviews About  Directions  Save  Nearby  Send to phone  Share Striking choice in the acclaimed Opus spotlighting steaks, oysters & seafood, plus cocktails & wine. ·  Dine-in ·  Takeout ·  Delivery   The Opus by Omniyat - Ground Floor - Al A'amal St - Dubai - United Arab Emirates  Located in: Excellency Center  Open · Closes 2 AM  Saturday 12 PM–2 AM  Sunday 12 PM–1 AM  Monday 12 PM–1 AM  Tuesday 12 PM–1 AM  Wednesday 12 PM–2 AM  Thursday 12 PM–2 AM  Friday 12 PM–2 AM  Suggest new hours  Find a table  Menu themaineland"
+    }
+  ],
+  "excluded_data": [
+    {
+      "business_name": "Creek City Restaurant",
+      "address": "Grand Souq - Bur Dubai - Al Souq Al Kabeer - Dubai - United Arab Emirates",
+      "category": "N/A",
+      "rating": "4.8",
+      "reviews_count": "1580",
+      "google_maps_url": "https://www.google.com/maps/place/Creek+City+Restaurant/data=!4m7!3m6!1s0x3e5f4370681260fd:0xdf92f9b180f79fca!8m2!3d25.2649634!4d55.2951408!16s%2Fg%2F11sysx8x52!19sChIJ_WASaHBDXz4Ryp_3gLH5kt8?authuser=0&hl=en&rclk=1",
+      "company_url": "https://forms.gle/YdiFSQGfdZCJzgQr5",
+      "phone": "+971 50 360 2599",
+      "opening_hours": [
+        "link href=\"/maps/preview/place?authuser=0&amp;hl=en&amp;authuser=0&amp;q=Creek+City+",
+        "MSATEiEwoOaW5jaWRlbnRzX3RleHQSATESFwgCEgdjcmlzaXMy+o3FjAsGCAIoAUgBGhgSAmVuYhIIRBIOCgNzZXQ",
+        "sysx8x52!19sChIJ_WASaHBDXz4Ryp_3gLH5kt8%3Fauthuser%3D0%26hl%3Den%26rclk%3D1\\u0026amp",
+        "imvTZlcF6Rw58lBPmqODN+b72UurMQG+TssaTnPmacpla5y7ryxQTj95DJUa4FnCKYOYvFmFFwV8vamFGWxzpEWi",
+        "cZJIwsVDBDTc22suNG6lCpWJcxOT5gDu1pJztItKx4MCvyLc4LeTLbHuITqn4BWHUsPvVcIghAMq9lQSVAkP1QRS8",
+        "data-tooltip-offset=\"0,-4\" data-value=\"Saturday, 10 AM–1 AM\" jsaction=\"pane.openhour",
+        "tip\" data-tooltip=\"Copy open hours\" aria-label=\"Saturday, 10 AM to 1 AM, Copy open"
+      ],
+      "price_level": "AED 50–100",
+      "attributes": [
+        "Drag to change Drag to change, click to remove",
+        "Drag to change",
+        "Drag to change, click to remove",
+        "Updated by this business 8 weeks ago",
+        "forms.gle",
+        "qaayima.com",
+        "app.qaayima.com",
+        "Based on visits to this place.",
+        "Live",
+        "Busier than usual"
+      ],
+      "images": [
+        "//www.google.com/images/branding/mapslogo/1x/GoogleMaps_Logo_WithLightOutline.png",
+        "//www.google.com/images/branding/mapslogo/1x/GoogleMaps_Logo_WithDarkOutline.png",
+        "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSxzKc8SNVamijhc7px_apmttql8IRyDZeb3oblD1FfBbVzEmT6zqEqka9BmlPQae8d9AHt5UWR0i3a8UlU0e2khclG3iP-KP5X8oJ1hkFclh6EBZfl6v3KuUWz8yPpyTSGFPNm_eIuk0tmf=w32-h32-p-k-no",
+        "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSxzKc8SNVamijhc7px_apmttql8IRyDZeb3oblD1FfBbVzEmT6zqEqka9BmlPQae8d9AHt5UWR0i3a8UlU0e2khclG3iP-KP5X8oJ1hkFclh6EBZfl6v3KuUWz8yPpyTSGFPNm_eIuk0tmf=w408-h306-k-no",
+        "https://lh3.googleusercontent.com/p/AF1QipOu2yT-mrCt6aJx40NBrN4RI4HCPmksee-xLBWe=w112-h112-p-k-no",
+        "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSwfDIiyL5oQRFJswgJ9_hi2OVFhIjkl676nih9waVjkhxjg1N1cCdbelhzIZGQWhFt233An94hhViWbzvA7zzyQfvuxy4KNkeHw84ezqupMYLz0Ne4_jfykRhO-njCLrPXaP8yD=w112-h112-p-k-no",
+        "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSwtOWsAWp5AUwbyAObnvYon0JLHNlBtpRhja0A9PvfxmJHua3KU2FvMHx75hC9I61FprmEA7PoB3aNZP14piJ86Uor1vPZVTaVCF3gNCGJ0PJGojQMdaXV0_UVenMMuwB9n_Z9u=w112-h112-p-k-no",
+        "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSxzKc8SNVamijhc7px_apmttql8IRyDZeb3oblD1FfBbVzEmT6zqEqka9BmlPQae8d9AHt5UWR0i3a8UlU0e2khclG3iP-KP5X8oJ1hkFclh6EBZfl6v3KuUWz8yPpyTSGFPNm_eIuk0tmf=w397-h298-k-no",
+        "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSwkQy02wpn39wMv70xJ_r2aCNjSeRzv6yvuc3wmoszG67nRInZJJU-G6pFTAbazLR4h5vR7d4I4ZtBinycBkAqqoAHm_IgJtlJPuBOSMn6YYZ5SLvgNe22x-1pPIHxg0iK8suDv-1KQYOtK=w397-h298-k-no",
+        "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSxpDB5n_iacS4IrUyW3sntuf0ISP09qLAgXAytK5uZx1lOy9ciikfQbYUvP1DEM9tJqcnn3H9Bmt4hX36CjeKfP3TNmEkdkN-BxiYwrILi4x0VEVVAe7xHemPwKhX_6FujK4HSQ6JlOMjQ=w224-h398-k-no"
+      ],
+      "description": "Drag to change Drag to change, click to remove",
+      "latitude": 25.2649634,
+      "longitude": 55.2951408,
+      "distance_km": 6.13,
+      "raw_page_text_snippet": "Creek City Restaurant - Google Maps Drag to change Drag to change, click to remove  Collapse side panel  Collapse side panel  Collapse side panel  Search  Close  Collapse side panel  Nearby restaurants  Hotels  Things to do  Bars  Coffee  Takeout  Groceries   Collapse side panel   Saved  Recents Creek City Restaurant  Get app  See photos Creek City Restaurant 4.8 (1,580) · AED 50–100 Restaurant ·  Overview Menu Reviews About  Directions  Save  Nearby  Send to phone  Share ·  Dine-in ·  Takeout ·  No-contact delivery   Grand Souq - Bur Dubai - Al Souq Al Kabeer - Dubai - United Arab Emirates   Open · Closes 1 AM  Updated by this business 8 weeks ago Saturday 10 AM–1 AM  Sunday 10 AM–1 AM  Monday 9 AM–1 AM  Tuesday 10 AM–1 AM  Wednesday 10 AM–1 AM  Thur"
+    }
+  ]
+}
