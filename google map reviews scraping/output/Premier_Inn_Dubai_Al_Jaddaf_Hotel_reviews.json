@@ -1,0 +1,707 @@
+{
+    "company_name": "Premier Inn Dubai Al Jaddaf Hotel",
+    "phone_number": "",
+    "total_reviews": 100,
+    "reviews": [
+        {
+            "date": "6 days ago",
+            "rating": "5",
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pacFVtZHVaMjlMYldWallWWTFWbmRPYm5WSE9FRRAB",
+            "review_text": "We stayed at the Premier Inn Al Jaddaf on January 03 for four nights. Our room was lovely and we had a view of the city that was spectacular. …",
+            "reviewer": "Raju Singh"
+        },
+        {
+            "date": "3 days ago",
+            "rating": "5",
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT205bVMzVnNNMWxDZHkwelpIZG5URmhwTm5sQ04xRRAB",
+            "review_text": "Wonderful hotel, very friendly staff. Especially we are so grateful to Hnin Moh. She met us with shining smile, arranged early check in and organised everything quick and in best way. Thank You very much, dear Hnin Moh. They say, the best …",
+            "reviewer": "Asel T"
+        },
+        {
+            "date": "a week ago",
+            "rating": "5",
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xsUlNrRTVjVTlvZFhGR1RHSlFabkprT0c1MGMzYxAB",
+            "review_text": "Premier Inn Al Jaddaf is a very comfortable, clean, and well-located hotel, made even better by the genuinely helpful and friendly staff. We checked in quite late last night and arrived at breakfast this morning with only about 15 minutes …",
+            "reviewer": "Joanne Katherine"
+        },
+        {
+            "date": "a month ago on Google",
+            "rating": "5",
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21kcE1FbEJialJvZDIxV00xTklZbXh5TUhab2RGRRAB",
+            "review_text": "I had a very pleasant stay at this hotel overall. The room was clean, comfortable, and well maintained, and the common areas were always tidy and welcoming. Everything I needed for a comfortable stay was provided, and the atmosphere of the …",
+            "reviewer": "Dias Akhmetbekov"
+        },
+        {
+            "date": "a week ago",
+            "rating": "5",
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tkb09YUnFlRWMzYzJwNGVHUTNNM0JVWjJrM1NGRRAB",
+            "review_text": "Had a really nice stay at Premier Inn Al Jadaf. Everything was smooth, no issues at all. Rooms were clean, staff was helpful, and the overall vibe was calm and comfortable. Biggest plus: it’s super close to the metro, which makes getting around Dubai crazy easy. Solid place, would definitely stay again.",
+            "reviewer": "Jaron saji"
+        },
+        {
+            "date": "6 days ago",
+            "rating": "3",
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21vd1UyRjBUVTFvYWtOdFNHZHNibU5LZVhVd09IYxAB",
+            "review_text": "Nice hotel , located very conveniently near the Al Jaddaf Metro station which is at a walkable distance. …",
+            "reviewer": "Aditya Walvekar"
+        },
+        {
+            "date": "a month ago",
+            "rating": "5",
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT201S09XRnlYMDVHWDBoYVpYZHlSMjVSYW10dmEyYxAB",
+            "review_text": "I had an excellent stay at Premier Inn Al Jaddaf!\nFrom the moment I arrived, everything felt smooth, clean, and welcoming. The staff is incredibly polite and always ready to help. …",
+            "reviewer": "Adam Bosso"
+        },
+        {
+            "date": "2 months ago",
+            "rating": "2",
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pkcVUzTlZVMjh3ZUVKYU1HRTVRM1pNYkdsU09HYxAB",
+            "review_text": "My stay was for 3 days. For me, the hotel’s location is very convenient — close to all services, with a salon and a supermarket right next to it, which was really helpful. …",
+            "reviewer": "Nawal"
+        },
+        {
+            "date": "3 months ago on Google",
+            "rating": "5",
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21KM1QyOTZNM0ZXWkcxamN5MVVNVXM0TTFaT1RHYxAB",
+            "review_text": "The hotel is wonderful — everything is clean and well-maintained, and it’s conveniently located not far from the metro. The rooftop pool is a great bonus, and the breakfast was quite tasty with a good selection. …",
+            "reviewer": "Daria Yakovenko"
+        },
+        {
+            "date": "2 months ago",
+            "rating": "5",
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2sxU0xXSkxWRVZoUW5kM1ltOXplbUprWDFCWVdHYxAB",
+            "review_text": "We stayed at this hotel for 2 nights. The rooms were clean, spacious, and very comfortable, making our stay truly relaxing. I had an excellent experience with the front of the house service provided during check-in till check-out by Mr. …",
+            "reviewer": "Vishal Bisht"
+        },
+        {
+            "date": "2 months ago",
+            "rating": "5",
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT201NlpUUlFWRlJmYlY5WVV6Qk1aMGRYZWpGSlpIYxAB",
+            "review_text": "Had a wonderful experience at Premier Inn Hotel Al Jaddaf! A special shoutout to Ashlesh for their exceptional hospitality and top-notch service. He truly go above and beyond to make guests feel comfortable and cared for. Their warmth, …",
+            "reviewer": "Basanta Kunwar"
+        },
+        {
+            "date": "2 months ago on Google",
+            "rating": "5",
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pWVWFUbE1iVzlWYzJ4M1RFWTRYM0ZLVTFsbVlVRRAB",
+            "review_text": "Had a stay at premier inn , service there was wonderful, staff was very nice.\nMy housekeeping service was provided by staff Sultan on most of the days. He provided excellent service to us ,was very friendly and cooperative and great with …",
+            "reviewer": "Sohaiba Hatim"
+        },
+        {
+            "date": "4 weeks ago on Tripadvisor",
+            "rating": "5",
+            "review_id": "ChZDSUhNMG9nS0VLdUJyZXFCa0xiR0hREAE",
+            "review_text": "I stayed at the Premier Inn Al Jaddaf for five nights, and it was an excellent stay. Everyone at the hotel was supportive, from the front office, especially Mr. Ahmed and housekeeping, to the restaurant staff, especially Gulsan. Also, …",
+            "reviewer": "AymanShokry"
+        },
+        {
+            "date": "Edited 3 weeks ago on Google",
+            "rating": "5",
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pScFVFcG5OM3AxZDJZeU5sWlhaMmg1VkVSdk1YYxAB",
+            "review_text": "I was very thrilled with the level of service provided to me during my stay at The Premium Inn in Jaddaf. Really friendly and professional staff. I would like to thank Abhishek and Jitendra in particular for thier  impeccable service and keeping my room tidy throughout my stay. Always helpful!!! Keep up the good job guys.",
+            "reviewer": "Dagm Mengisteab"
+        },
+        {
+            "date": "3 months ago",
+            "rating": "5",
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tac1JGQjZkbkZUUVZabE1uRm1iMEZGTlRKWFFuYxAB",
+            "review_text": "I really like the staff — they’re friendly and welcoming, especially the manager from reception who’s originally from Algeria. One night I lost my phone after having a few drinks, and he went above and beyond to help me, even providing the …",
+            "reviewer": "DubaiBuyRent dot com (Meki)"
+        },
+        {
+            "date": "a month ago",
+            "rating": "5",
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pCNVNVaDJWVEIxVFdwRWNFOTFjM0JmUnpobVgwRRAB",
+            "review_text": "I had a wonderful experience at Premier Inn Al Jaddaf-Dubai. From the moment I arrived, the staff were welcoming, professional, and attentive to every detail. Especially if I can Mention Mr. Ashlesh From Receptionist was amazing. The …",
+            "reviewer": "Premsagar Danthuka"
+        },
+        {
+            "date": "a week ago",
+            "rating": "5",
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pWR1dIUlBXSHBoWlZWa2RteDFUazlvUzBKUE4zYxAB",
+            "review_text": "My partner and I had a lovely stay at this hotel. The room was everyday clean thanks to Avishka who always made sure we had everything we need. We will definitely come back here.",
+            "reviewer": "Gabriela Balan"
+        },
+        {
+            "date": "2 months ago on Google",
+            "rating": "5",
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tWR05qTmxXV05SV0VWTVdUSlhaWFpMVWpaek1GRRAB",
+            "review_text": "My wife and I stayed in the hotel for 4 nights from Nov 11 to 15, 2025. We found everything awesome except the washroom. It is very hard for the senior people to enter the standing shower. The reason is not far to seek. Entry point is very …",
+            "reviewer": "Mahfooz Ansari"
+        },
+        {
+            "date": "3 months ago on Google",
+            "rating": "4",
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2psck1WWmtiVXcwYW1zeFZHUm1kbk00ZVZkd1pYYxAB",
+            "review_text": "Shout out to Khier (Reception/long stay bookings) and Lokendra (Swimming Pool guy) …",
+            "reviewer": "Alan Hong"
+        },
+        {
+            "date": "3 months ago",
+            "rating": "5",
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21WdVdGaFNOa2xHYkY5ZlUzbEhiMkZpZVhSSk9HYxAB",
+            "review_text": "We stayed at this hotel for 6 nights with our family. The rooms were clean, spacious, and very comfortable, making our stay truly relaxing. The staff were always polite, friendly, and ready to help with anything we needed. …",
+            "reviewer": "Mohamed Shoaib"
+        },
+        {
+            "date": "a month ago on Google",
+            "rating": "5",
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25OT09WZEtTMnQ0V0hZd1RHcEtOWEpxTlhGak9YYxAB",
+            "review_text": "Great stay! Special thanks to Aung, Thet and Denish who attended and cleaned my room on the spot when it was not done up on a particular day, fast and efficient service when called for housekeeping! …",
+            "reviewer": "Seema Limbachia"
+        },
+        {
+            "date": "3 months ago on Google",
+            "rating": "5",
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25SSlNXMVhObGh5YVdOU1pHRm9XVXgzWTJwNmFFRRAB",
+            "review_text": "Staying at Premier Inn Dubai Al Jaddaf was truly one of the best experiences for our entire family! As a family, we felt safe, comfortable, and very well looked after in a clean and peaceful environment. …",
+            "reviewer": "nethmini warnasinghe"
+        },
+        {
+            "date": "a month ago on Google",
+            "rating": "4",
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tScFdtUldSRVZaZW5SNlkwUjBjVE5RYVVGbFdtYxAB",
+            "review_text": "Terrific hotel, location is close to the metro, taxiis frequent the area and plenty of restaurants located close by the hotel …",
+            "reviewer": "Conor O'Sullivan"
+        },
+        {
+            "date": "2 months ago",
+            "rating": "5",
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xwTGMzWjFRMmxDZVhneVQzYzFSVWRLYkc5bWRFRRAB",
+            "review_text": "We were pushed to review our room by the house keepers which wasn’t very nice of them.\nBut overall a nice experience! The rooms were cleaned daily and the breakfast …",
+            "reviewer": "Belle Fial"
+        },
+        {
+            "date": "a month ago on Google",
+            "rating": "5",
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pWRFZXUlRZVXRPT0MxeWRVVnNTRTlQYzNVdE4xRRAB",
+            "review_text": "Thilina, Avishka and chathuka\n501\nFrom day 1 I was thrilled by the constant smile and the way my room is always …",
+            "reviewer": "Viviane Azemchap"
+        },
+        {
+            "date": "3 weeks ago",
+            "rating": "1",
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2sxc2FtUkRPQzEyYUZwVk9IaHFOSE5DVGpWalFWRRAB",
+            "review_text": "Im a frequent visitor at Premier Inn Jaddaf (i check in every 2 to 3 weeks).\nI had to cancel my last visit a day before the check in due to an emergency, so I called the hotel asking for refund and cancellation but they didnt accept (as …",
+            "reviewer": "andrew feghali"
+        },
+        {
+            "date": "2 months ago",
+            "rating": "5",
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tOM2RXUXpZWGRXYlVkdVkyWk1UbkpuZWs5c00yYxAB",
+            "review_text": "I've stayed at the Premier Inn Al Jaddaf for work and with the family and it's been excellent. The food, service, location, pool and gym are fantastic. …",
+            "reviewer": "Hari Thapa"
+        },
+        {
+            "date": "3 months ago",
+            "rating": "5",
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25wdlRHVm9jVWhIYVhKTk9IaE1iM2htY0c1ZmRuYxAB",
+            "review_text": "My stay here was wonderful! The atmosphere was welcoming, and I always felt comfortable. A big thank you to Sujan and Ranjit from the housekeeping team — they were so friendly and attentive, always making sure my room looked spotless. The …",
+            "reviewer": "Yuliya Bulyha"
+        },
+        {
+            "date": "3 weeks ago on Google",
+            "rating": "5",
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21KcWRrcDVWbEYzVkU0ME1IY3RURFJvZVVzMlEzYxAB",
+            "review_text": "Nice and clean hotel. Staff is friendly and are happy to accept small requests. Housekeeping service is also pretty good. Jitendra provided timely assistance as part of house keeping service. Will be planning to stay here again next time.",
+            "reviewer": "Tahmina Mukhtar"
+        },
+        {
+            "date": "2 weeks ago",
+            "rating": "2",
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25CUFVGTlBRMkV6YzNFeVRuTnRkSEl4U2poVlQxRRAB",
+            "review_text": "Dear Team,\nI checked in yesterday and would like to share some feedback about my stay so far. …",
+            "reviewer": "Mahesh Wable"
+        },
+        {
+            "date": "2 months ago",
+            "rating": "5",
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tWak5sQXRPVmRtYVRWUmFUaEtUVWRuVm10c2VWRRAB",
+            "review_text": "I came back to this place many times. I think it offers the best value in all of Dubai.\nThe Gym is well equipped. The pool is clean. The rooms are big enough with super …",
+            "reviewer": "Elias"
+        },
+        {
+            "date": "3 months ago",
+            "rating": "5",
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xsVFExQjRVRTl3ZEdnNVNFbzNlR1l6V0VWaVMzYxAB",
+            "review_text": "Excellent location with clean and soft bed sheets.  Breakfast buffet was also a pleasant experience.Everyone is friendly and polite. I'm very impressed with this hotel and will definitely be back in the future. Also my room is always left …",
+            "reviewer": "D & S"
+        },
+        {
+            "date": "a month ago on Google",
+            "rating": "5",
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pKRVkwNVlUbXhFWkVoRFpHMXBRbTV6Y0cxbk1HYxAB",
+            "review_text": "Our stay at Premier Inn Dubai Al Jadaf was a pleasant one. From excellent connectivity to Dubai's biggest attractions and ease of public transport nearby to the excellent breakfast and food options at Nuevo restaurant - we had a really good …",
+            "reviewer": "Suhith Kumar"
+        },
+        {
+            "date": "2 months ago",
+            "rating": "5",
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xsRFJtVk1VMGRLTW5SSllWWlRjM015YzNSRVRYYxAB",
+            "review_text": "Very beautiful hotel, the swimming is amazing and very relaxing. A special thank you to a Front of the House person called Ashlesh, very energetic and funny and laughing, always putting a smile on my face! He also knows how to make our experience extremely well. Highly Recommended Hotel will hope to Come back soon.",
+            "reviewer": "Nalin Priyantha"
+        },
+        {
+            "date": "2 months ago",
+            "rating": "5",
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2w5bk5scHpTa3AzVWpaU1JtMUpia1YzTTBKSFIyYxAB",
+            "review_text": "I would like to mention few of them, Ghazal were amazing during our check in, as we had 13 rooms in total she make sure that we have rooms as soon as possible.. Thank you to housekeeping for their hard work to make sure that we are able to …",
+            "reviewer": "Katarina Stanojkovic"
+        },
+        {
+            "date": "a month ago on Google",
+            "rating": "5",
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25wTk5WWjZTRTQyUjFRMGFIWllSMGRYVWtRd1JGRRAB",
+            "review_text": "Staying in hotel second time. Family friendly. Noise proof. Silent and comfortable nights.\nRoom service is also very good. Mr. Sultan is very nice guy who keeps our room neat daily.",
+            "reviewer": "Sana Waqas"
+        },
+        {
+            "date": "a week ago",
+            "rating": "5",
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25KRk0yRmtMVFoyTnpkRGVXSjZNa3BoU0ZaeVQyYxAB",
+            "review_text": "Stayed here for NYE countdown since 2023. Their service and standard maintained for 3 years and counting (hopefully). Everything was great, but maybe just the breakfast can have more varieties will be better.",
+            "reviewer": "Darren Lim"
+        },
+        {
+            "date": "2 months ago",
+            "rating": "5",
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tJMVFUQjNNMGR2V1RadGMwWk9UbFZqVEVWUk4xRRAB",
+            "review_text": "Great stay at the hotel! Everything was clean and well organized. Special thanks to Sultan from housekeeping — very polite, hardworking, and always smiling. His care and attention made our stay even better. Highly recommended! 🌟 …",
+            "reviewer": "Fatimah Al jaman"
+        },
+        {
+            "date": "a week ago",
+            "rating": "4",
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pGelVYUkxYMWgzZW5sSmF6ZFVOMHcxT1ZSVk1VRRAB",
+            "review_text": "Mr. Ashlesh is very very nice and helpful during on my 6 day vacation stay in hotel, I would like to expree my great thanks for him kindness and help.\nMetro is close by and hotel have great breakfast option…",
+            "reviewer": "J I Y A U L H A Q U E A N S A R I"
+        },
+        {
+            "date": "2 months ago",
+            "rating": "5",
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25KSE0yVllhRU5wWm5aTGNtc3hUbmRsVWpkSVNGRRAB",
+            "review_text": "Such a nice staff especially the front office Ashlesh. All was amazing. He always went beyond his limits to help us even he is new joiner. All were good in their work all smiling & generous. Hotel is a brand and was a pleasant stay over here.",
+            "reviewer": "Sidhant salgaonkar"
+        },
+        {
+            "date": "a week ago",
+            "rating": "5",
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tKNGJsbFdiRkpVYldaM1pXSjRZVTVmUXpKS01VRRAB",
+            "review_text": "I been there before three months and really i enjoyed my stay, to be honest i really loved the restaurant sooooooo much, amazing food they have. The prices was acceptable and the service very good and the staff of the reception was so respectful and helpful. So recommended",
+            "reviewer": "Ashraf Hammadi"
+        },
+        {
+            "date": "3 months ago on Google",
+            "rating": "5",
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2toVlRVZDBOMWxXU0ZkblpEWjJXa1ZoTFdod2FVRRAB",
+            "review_text": "I had an excellent experience with the room service provided by Mr. Sultan. He was very professional, attentive, and ensured everything was perfectly taken care of. What stood out the most was his warm personality—he is a very nice person, …",
+            "reviewer": "MTH"
+        },
+        {
+            "date": "3 months ago on Google",
+            "rating": "5",
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT20wM1lYSXhSREpCUzBaR1FYVXlRMnB4YW1kblpXYxAB",
+            "review_text": "I recently stayed at Premier Inn Al Jaddaf and had an excellent overall experience. The hotel is well located, with easy access to the city while still offering a quiet environment. The food and service were of high quality, meeting the …",
+            "reviewer": "Iustin Purice"
+        },
+        {
+            "date": "4 weeks ago on Tripadvisor",
+            "rating": "5",
+            "review_id": "ChZDSUhNMG9nS0VMU1BnSlNSOWM2UGVnEAE",
+            "review_text": "Location is ok hotel service aslo average but I can tell the room service is very good specially Raheel is providing a good service. He is very kind and attretive person always make my room very tidy. Thanks Raheel for his excellent services.",
+            "reviewer": "872shahabk"
+        },
+        {
+            "date": "3 months ago on Google",
+            "rating": "5",
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25GZk1HdDFPRXRSTFZKQlpFTkZPUzF1UnpkNGIxRRAB",
+            "review_text": "Excellent Stay at Premier Inn Al Jaddaf! The Perfect Dubai Base.\nI recently had a fantastic experience at the Premier Inn Dubai Al Jaddaf (بريمير إن الجداف), and I couldn't be happier with my choice. This hotel truly delivers …",
+            "reviewer": "Nenad Stanković"
+        },
+        {
+            "date": "2 weeks ago",
+            "rating": "5",
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xoS2RuaFBha3RVUlhCSFVuY3pObDlFUVRKb04zYxAB",
+            "review_text": "Room is nice and very convenience for the area. Room will be cleaning every day if you not put any sign and amenities will be topup and change. So far i’m in love with the hotel. Will come back if i’m here again.",
+            "reviewer": "Laili Hrl"
+        },
+        {
+            "date": "2 months ago",
+            "rating": "5",
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xaWFMyOVdhWEpIYTJ4aFMzZGhablp4T0RSbE9HYxAB",
+            "review_text": "We have had the pleasure in staying at the Premier Inn Al Jaddaf on multiple occasions and each time the hotel has been just fantastic. The staff are excellent from reception to The Toad team and special mention to Raheem in housekeeping …",
+            "reviewer": "Terry Currie"
+        },
+        {
+            "date": "3 months ago on Google",
+            "rating": "5",
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pGellrRmhTRlJPZG1WQ1lqbE9TemxMVUVJMk5YYxAB",
+            "review_text": "Denish did a fantastic job with the housekeeping! The rooms were spotless, fresh, and well-organized after his work. Everything looked clean and comfortable. I really appreciate his professionalism and attention to detail. Highly recommended",
+            "reviewer": "Ally Morosana"
+        },
+        {
+            "date": "3 months ago on Google",
+            "rating": "5",
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21vdFVGbDZkRlEzTmtKdFpYSlNNWFJXZVZSdE5IYxAB",
+            "review_text": "I have been staying at the Premier Inn Hotel for the last 15 days, and my experience has been excellent. The housekeeping staff, especially DINESH, does an outstanding job — he cleans my room very well and super fast every day. The rooms …",
+            "reviewer": "Anandaraj Subramanian"
+        },
+        {
+            "date": "a week ago",
+            "rating": "4",
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT205YVpISjBOVU5mWXkxNFoxbzFUMDFyV1ZsZk1rRRAB",
+            "review_text": "I stayed at this hotel for 8 nights. The location is very convenient, as it is very close to the airport, though there are not many activities around the hotel itself. Al Jaddaf Metro Station (Green Line) is about a 5-minute walk away, and …",
+            "reviewer": "Naseem G"
+        },
+        {
+            "date": "2 months ago on Google",
+            "rating": "5",
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25oVWMwTlRMVlZZU21vME1WaDVUMU4xUm1kMFZIYxAB",
+            "review_text": "During my unplanned business trip to Dubai, I called your hotel late at night from my hometown airport. The lady who answered the phone immediately understood the seriousness of my request and provided service as if I were already standing …",
+            "reviewer": "Serkan Serbes"
+        },
+        {
+            "date": "a month ago on Google",
+            "rating": "5",
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pobE5uQkdVRGQ2TVhwU1ZVbFJTMFJHYlRoYVduYxAB",
+            "review_text": "We had an amazing experience at the Premier Inn Hotel, Al Jaddaf-Dubai.\n\nFrom start to finish, everything was just perfect! …",
+            "reviewer": "Mahesh Chinthaltana"
+        },
+        {
+            "date": "a month ago",
+            "rating": "5",
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25OTmIxUk1SM0JHVkZOTVlWWnRXbU0yZFc1M1JIYxAB",
+            "review_text": "I enjoyed my stay with premier inn hotel and room price also very cheap. Housekeeping staff Avishka and his friend Thilina, Chathuka, Jithendra, Dinesh, Girija they doing they are job very well. Thanks for them giving good service for us to continue our stay with premier inn",
+            "reviewer": "Chandini Derose"
+        },
+        {
+            "date": "2 months ago on Google",
+            "rating": "5",
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xCc1dWOHdkMUpuWTNKSmRtdFdRbmRIWTBsdGJtYxAB",
+            "review_text": "Really good cleaning staff and maintenance team especially from Mahboob who sorted my water tap leak quick and was very polite. Also Thalina did the best room service clean and it was spotless in my room. This hotel has a great location to access most things within 20 mins in Dubai.",
+            "reviewer": "Hanna Ashtari"
+        },
+        {
+            "date": "a week ago",
+            "rating": "5",
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tWZlRGZzVlRTg0VmxWUk9EWmtRblIwUzB4a05XYxAB",
+            "review_text": "\"Excellent hotel experience! Staff support was top-notch - friendly, helpful, and always ready to assist especially Mr Rejith ,Chandra.The room was comfortable and clean, exactly what I needed after a long day. Highly recommend! 😊👍\" …",
+            "reviewer": "sudhi suresh"
+        },
+        {
+            "date": "2 months ago",
+            "rating": "5",
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21kSlNURjZaSEJ6Y1hSRVRrUm5kazVDU1UwMWFWRRAB",
+            "review_text": "My seven-day stay here was excellent. The staff is incredibly polite and supportive, providing help whenever needed. It's a fantastic family-oriented and kid-friendly hotel located in a lovely area. Highly recommend this positive experience!",
+            "reviewer": "Sambhaji Andhare"
+        },
+        {
+            "date": "3 months ago",
+            "rating": "5",
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25kcVdtbEdSVUpaU1RSTk9XNHhkSE5hTFc5WmEwRRAB",
+            "review_text": "I had a very pleasant experience at this hotel. The rooms were cleaned and maintained daily, the service was excellent, and the food was tasty and varied. The staff was always kind and helpful. I would like to especially mention Md Iqbal, …",
+            "reviewer": "Bogdan Purice"
+        },
+        {
+            "date": "2 months ago",
+            "rating": "5",
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21FNGFUQjJhbTFhVW1wd1RVSlZkMEptZFV0ZlNYYxAB",
+            "review_text": "The rooms were spotless, and the staff were exceptionally friendly and attentive. During our early check-out at 5:00 a.m., Kheix, Hruin, Vikas, and Julius were incredibly helpful and even arranged a taxi for us. We had a great experience and would happily stay at Premier Inn again!",
+            "reviewer": "Nina Duah"
+        },
+        {
+            "date": "a week ago",
+            "rating": "5",
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xodmJVSkNPVVZvWDJZNGExUmFOa1V4U0RWbWJVRRAB",
+            "review_text": "We stayed 7 nights during new year time, hotel is closer to main tourist attractions and plenty of shopping and eateries nearby. Hotel service is good and clean especially Jitender the service boy keeping our room neat and tidy.",
+            "reviewer": "Jemin P"
+        },
+        {
+            "date": "3 months ago on Google",
+            "rating": "5",
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25aUVVqWkdlRU01ZVRocGFYSXlVVUZRV0hCbldtYxAB",
+            "review_text": "Big thanks to Pooja and housekeeping team for keeping our rooms spotless! ✨ The bed linens were fresh and perfectly changed, and the cleaning was absolutely amazing. 🧹🛏️ there effort and attention to detail really made our stay comfortable. Truly appreciate the excellent service! 🙌 …",
+            "reviewer": "Dinalyn Haplasca"
+        },
+        {
+            "date": "a month ago on Google",
+            "rating": "5",
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2toNkxURlZkVmRUWkdKcWRuSklYMnROUmxwVFRYYxAB",
+            "review_text": "Very good service. MD Iqbal was very good and very professional. He did my room service and after finishing he asked if there was anything else I needed. Well done.",
+            "reviewer": "Athar Mahmud"
+        },
+        {
+            "date": "a month ago on Google",
+            "rating": "5",
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21kMExYSnJhMDVTT1dsbE1DMTFhVzV0YWxWbVRsRRAB",
+            "review_text": "Very good service quality provided by Raheel. Amazing staff he have great experience to managed the work and good skills . whenever he saw me in corridor always smiling and greating .also his colleagues Ali Zohaib iqbal Zaheer Very good staff",
+            "reviewer": "Gill Mustapur"
+        },
+        {
+            "date": "a month ago on Trip.com",
+            "rating": "3.5",
+            "review_id": "ChdDSUhNMG9nS0VJZU1rcWFMMGFyMzh3RRAB",
+            "review_text": "Looks like budget hotel. Overall ok but can be improved.  Toilet does not come with bathroom cup.  Washing teeth is challenging.  Shampoo & Shower all in one.  There is not holder at least people can put their own shampoo and conditioner …",
+            "reviewer": "Trip.com Member"
+        },
+        {
+            "date": "4 weeks ago",
+            "rating": "5",
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2kxV1EwcE9hVFI1VWxwVE1rdHVkVTkzYjJ4V01YYxAB",
+            "review_text": "Excellent service and friendly staff. Fast room service. Room cleaning very through and spotless. Especially Thet from Myanmar. Very precise cleaning and helpful. Will come back again.",
+            "reviewer": "Raj kumar"
+        },
+        {
+            "date": "3 months ago",
+            "rating": "5",
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21sMU5tMTFMV2MzTUhsb1JEQkZkRlZ1YzNCc1NHYxAB",
+            "review_text": "Great hotel for its price.\nVery clean rooms (thanks to Sujan and Ranjit, Abhishek and others on the 7th floor) and public spaces like gym and pool. …",
+            "reviewer": "Anna Blueberry"
+        },
+        {
+            "date": "3 weeks ago on Google",
+            "rating": "5",
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2w5WVJuSldaRlpHWDIxQllUQnFUVEJ3WkVSeldsRRAB",
+            "review_text": "Fantastic stay and our room was beautiful, clean and bed was so comfortable. The staff arun truly made it special so warm and helpful , making us feel like family ..thanku soo much ur hard work...",
+            "reviewer": "Bhago Sandhyar"
+        },
+        {
+            "date": "4 months ago on Google",
+            "rating": "5",
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tFd1RFOVVSRk5DVVhGa1pEbGhaR1JCVjNSU0xVRRAB",
+            "review_text": "Abhishek has been wonderful throughout my stay. He always keeps my room spotless, is very polite, and goes above and beyond to make sure everything is perfect. His kindness and professionalism really stood out thank you.",
+            "reviewer": "Pietro Manarin"
+        },
+        {
+            "date": "2 months ago",
+            "rating": "3",
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xodGRGOW5Wbll6ZDFvMmNIWXhjRkpwUVdKM1dsRRAB",
+            "review_text": "We had a wonderful stay at the hotel!\nEva was incredibly helpful and friendly — she assisted us a lot with our bookings and made our experience so much easier and more enjoyable.\nThank you, Eva, for your great service!",
+            "reviewer": "Zainab AL-Harthi"
+        },
+        {
+            "date": "2 months ago on Google",
+            "rating": "5",
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21adWFWcFVOM0U0ZUhKMVgyWmhZVE5hWmsxbVVFRRAB",
+            "review_text": "This is a great budget property. Good big rooms and beds with good service. Breakfast spread is also awesome with veg options as well.\nWill surely recommend this to anyone willing to stay close to metro station.",
+            "reviewer": "Vishesh Vatsal"
+        },
+        {
+            "date": "2 months ago on Google",
+            "rating": "5",
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2taMmFGUmlUMDFqZEhrMlFqRnZSV3BDU0RkNVRFRRAB",
+            "review_text": "Prompt service and responsive staff. Room was not cold after 2 days away. Front desk promptly followed up and maintenance staff Mahboob patiently explained to me the air con control He even helped to change the filter to improve the air con performance.",
+            "reviewer": "Phoebe Tay"
+        },
+        {
+            "date": "a week ago",
+            "rating": "5",
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tWaGF6WkhhamM1ZUZreVgwRjZNV3BxZVdrMlZrRRAB",
+            "review_text": "Lokendra.Thank u so much for all your services. I was so happy when i come swimming pool.everything are clean good.Lokendra is a very good life guard.i wish him the best.",
+            "reviewer": "Mirna CHARLES-NICOLAS"
+        },
+        {
+            "date": "2 months ago on Google",
+            "rating": "5",
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25WWldUVnRaWGxPY0RsdmNHZFZWRjg0Y0drNFprRRAB",
+            "review_text": "I'm very impressed with the complete team in the front desk. All of them are very kind and friendly. House keeping staff had their jobs done very well in keeping the room clean. I will not hesitate to recommend this place for a business or leisure trip.",
+            "reviewer": "B&B Holdings PTE LTD"
+        },
+        {
+            "date": "5 months ago",
+            "rating": "4",
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xCWWNWSjBUbmwyTjJaU2JXRm1hVzVLUVROcU5tYxAB",
+            "review_text": "The only thing I didn’t like was I had to pay additional for toothbrush & Toothpaste. As it was a 2 days stay this should be complimentary! …",
+            "reviewer": "Mohammed Arif Shaikh"
+        },
+        {
+            "date": "4 months ago",
+            "rating": "1",
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xsMlVFdDBVVlIxWTNKeWVVWjBhekp0WkVWUWRHYxAB",
+            "review_text": "To be honest, I EXPECTED to enjoy our staycation at this hotel, but I was very disappointed with the services provided. It was the first time I experienced being charged extra for basic amenities such as a toothbrush and toothpaste. …",
+            "reviewer": "Apple Ronquillo"
+        },
+        {
+            "date": "a week ago",
+            "rating": "5",
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21jNFpEQnBRMVV4VW1WV01qTlFZVWxqU0c1Q1owRRAB",
+            "review_text": "Had a wonderful stay here the rooms are so clean and the staff is always ready to help with smile, thanks Zippy Vikas, Lorna, Menna",
+            "reviewer": "Khan Muhammad"
+        },
+        {
+            "date": "a month ago on Google",
+            "rating": "5",
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pWdlQyUnlTbWhSYmtjMVZuaEdZVnBQVEZoaE5tYxAB",
+            "review_text": "Had a better stay in this hotel. Room cleaning was very good. Abhishek, Rejith , Chandra from housekeeping his talking behavior was very good also he clean my very well.",
+            "reviewer": "Aashish Magar"
+        },
+        {
+            "date": "4 months ago",
+            "rating": "5",
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pKWFFrcEZSVUZRZVZoZlZUaFBRMGxTYkhOR1psRRAB",
+            "review_text": "When it was breakfast, the food was really good and the pool, so relaxing that you can make a water bed there. When you even sleep in the bed you really felt like your in a baby bed from the comfort it has. 100% recommended for tourist that needs to go on a vacation.",
+            "reviewer": "Josiah Dylan Dejadena"
+        },
+        {
+            "date": "a week ago",
+            "rating": "5",
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tKc1drUk5Oa3RRUTFRd2FuTjBiVFpRYlhOc1YxRRAB",
+            "review_text": "The hotel is very clean and nice and the room was lovely with comfortable bed. Avishka looked after our room to be always clean and we are very happy with the service.",
+            "reviewer": "Alex Felder"
+        },
+        {
+            "date": "a week ago",
+            "rating": "5",
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25oT2QyazBUblZwZVdzelNuQm5hVVJhUWt4ak4wRRAB",
+            "review_text": "This hotel is clean and comfortable, would highly recommend. Jitendra is a very helpful worker, he cleaned our room well.",
+            "reviewer": "Aamna Bhatti"
+        },
+        {
+            "date": "3 months ago",
+            "rating": "5",
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xKcVp6QjJWMmxYWTNVNGVVMW9SMlZWVW5BemQyYxAB",
+            "review_text": "Housekeeping staff are very friendly. I just got to meet only 2 people namely Dinesh and Sulthan. Even the others are so good doing their job as when I come to my room after going out it looks so fresh and neat same like day 01.",
+            "reviewer": "Ameesha Perera"
+        },
+        {
+            "date": "2 months ago",
+            "rating": "5",
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2trMWNVMWxkelpuVlU1aVdEQkNiVmgyV1ZWdVVWRRAB",
+            "review_text": "My husband and I stayed for 4 nights. The hotel staff was polite and helpful. Girja was quite polite when I asked to change the towels in our room. The breakfast was quite satisfactory, I have nothing negative to add.",
+            "reviewer": "Dimitra Sot"
+        },
+        {
+            "date": "4 weeks ago on Tripadvisor",
+            "rating": "5",
+            "review_id": "ChZDSUhNMG9nS0VMNm1rSUtyemJXZkpBEAE",
+            "review_text": "I m very happy with my whole stay .very nice staff specially Raheel. He is amazing staff had a excellent service experince. Thanks to him.",
+            "reviewer": "952gurig"
+        },
+        {
+            "date": "3 months ago",
+            "rating": "1",
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21SYWExVnNiMkZFV1RCUWVETm5hbmhwVTFCMmFVRRAB",
+            "review_text": "Extremely Disappointing and Unprofessional Experience\n\nI am staying at this hotel for one month, and my experience has been nothing …",
+            "reviewer": "Nancy Kh"
+        },
+        {
+            "date": "4 weeks ago",
+            "rating": "5",
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xwbWQzTjVibkJmUjBOMk0wcDJlWGRET1U0dFdtYxAB",
+            "review_text": "Great stay.\nVery Good rooms and services\nwe enjoyed a lot …",
+            "reviewer": "Aswin Eldhose"
+        },
+        {
+            "date": "4 weeks ago",
+            "rating": "3",
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tKTFgzWkdTWEZtVGpWUGFHbzBWSGwzYm5GdE9GRRAB",
+            "review_text": "Good things are location, polite staff.\n\nBUT! There were no disposable toiletries in the room; no matter what I asked …",
+            "reviewer": "Margarita Oaktree"
+        },
+        {
+            "date": "3 months ago on Google",
+            "rating": "5",
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2poQlMwcGZVVk16T1haMlFtZEdaREk1WWpJNFJGRRAB",
+            "review_text": "Today, I was assisted by your Employee Girija T , who has good Customer Service Skills and is attentive to Guest needs .He is a Good Member of Staff that Premier inn Al-Jaddaf has and should be proud of. Please pass my regards for good Customer Service . Regards Peter",
+            "reviewer": "peter muhia"
+        },
+        {
+            "date": "a month ago on Google",
+            "rating": "5",
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tGRmFWRnJaVzh6TVRJMGFESTNZVVl3UzFsa1JHYxAB",
+            "review_text": "Amazing stay! Ashlesh checked us in and was accommodating and welcoming. The Room was fantastic and we slept so well. Just a Great experience overall!! 🤩🤩 …",
+            "reviewer": "Tanuja Koranga"
+        },
+        {
+            "date": "3 months ago",
+            "rating": "5",
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT201R1VFWTFOVFZMYTFGTExVdHZaemRGTkRodmJtYxAB",
+            "review_text": "Housekeepinng room  service was excellent. Who providing Mr. Girija thami doing great job.room was always neat and clean. Near metro station. i would to say everyone visit in premierinn hotel al jadaf. thank you",
+            "reviewer": "Ashika Rai"
+        },
+        {
+            "date": "3 months ago on Google",
+            "rating": "5",
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pVMlQwUXdSbkUxYWpSRGJ6TmxPV1pxYTBoelIxRRAB",
+            "review_text": "Wonderful stay with exceptionally clean rooms, friendly staff, and great service. Avishka was quick to respond to my service request, and sorted out my hotel room quickly, and effectively. Appreciate the hospitality!",
+            "reviewer": "sharad parbhoo"
+        },
+        {
+            "date": "2 months ago on Google",
+            "rating": "5",
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xKWmJXVlhOR1JRUlhka09YaE1XamwxTTI5cVRuYxAB",
+            "review_text": "Excellent service provided . Rooms were well maintained and absolutely clean . Very welcoming staff specially the floor attendants Sultan and Zuhaib they surely do a good job keeping our rooms clean and maintaining cleanliness throughout the floor .",
+            "reviewer": "Krisleen Fernandes"
+        },
+        {
+            "date": "4 months ago",
+            "rating": "1",
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tkSmFESTVkQzFvVGsxYU5XNVNkMWhoUlU1Q2EwRRAB",
+            "review_text": "I had a very disappointing experience at this hotel. The staff are always unfriendly and rude. They don’t change the bed linens or towels even when requested, and they don’t provide extra tissue or water unless you repeatedly ask. Their …",
+            "reviewer": "Basma Benmohamed"
+        },
+        {
+            "date": "a month ago",
+            "rating": "1",
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tWNk0xOUphRTFSZUZKa2MyNWFOV05mUzFwVlRrRRAB",
+            "review_text": "Having very bad experience and AC not working room 431. Calling reception no answer and using the application to complaint maintenance closed after 10pm. Very worst service and no helpful staffs. Better to avoid the hotel staying as mentioned family room but it’s a standard room with one additional sofa. Not worth for the money .",
+            "reviewer": "IFairozdeen Abdulazeez"
+        },
+        {
+            "date": "2 months ago on Google",
+            "rating": "5",
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s5NlZtWnhlblpxU3pWZmVsUlZjMlJyWldaVlUyYxAB",
+            "review_text": "I really enjoyed my stay there, no daughters had a lovely time too. A big thank you for the brilliant team Hnin, Shoeb, Alesh and Rahim. Definitely will come back for more 😊 …",
+            "reviewer": "Radwa"
+        },
+        {
+            "date": "4 months ago",
+            "rating": "5",
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pSSU5TMHpkMjloZWtFMWFHWjVOR0pyUzB4NWRVRRAB",
+            "review_text": "My stay at Premier Inn Al Jaddaf was excellent. The cleanliness of the hotel is outstanding, and the rooms were always spotless. A special thanks to Pooja for her hard work and kindness – she truly does an amazing job and made my stay even more comfortable.",
+            "reviewer": "Nikola Buzadžić"
+        },
+        {
+            "date": "a week ago",
+            "rating": "5",
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2paT2VUZDFNMjVVVGs5WmVrdzJVRmRhTlVsaWRGRRAB",
+            "review_text": "As a South African this place is really nice and convenient. Walking distance from a grocery store and restaurant. Close to the airport and main city. Easy to call a cab and leave the hotel.",
+            "reviewer": "Michael Philips"
+        },
+        {
+            "date": "2 months ago",
+            "rating": "5",
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xOd2J5MVZaWFoxVGpVMGJuRlRlVkZSUkcxNlEyYxAB",
+            "review_text": "I am so grateful we chose the premiere inn hotel,for they do the best service,best crews,best hotel.Special mention to Eva the from the security department always do the taxi booking for us,and Shoeb the duty Manager who let us stay a bit …",
+            "reviewer": "Corcenie Cavan"
+        },
+        {
+            "date": "a month ago on Google",
+            "rating": "5",
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xSMlNFOXNYM05rUTI1YVkzZHNVMkZZVVRkMmRtYxAB",
+            "review_text": "Avishka along with his friends Thilina and Chathka from housekeeping are really nice. great room cleaning everytime and they respond real quick to housekeeping requests :)",
+            "reviewer": "77 88"
+        },
+        {
+            "date": "3 months ago",
+            "rating": "5",
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2t0NlNEUlFWR05GVkVKa2FXVm5TbXhrVTJ3NVZrRRAB",
+            "review_text": "Mr. Aditya Barde, the hotel manager, is the epitome of courtesy and professionalism. He is always smiling, kind, and respectful towards all guests. His high morals are his hallmark, and he consistently goes above and beyond to meet guests’ …",
+            "reviewer": "Ali Aldhaheri"
+        },
+        {
+            "date": "4 weeks ago",
+            "rating": "5",
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25vdFNUZG9UREpITmt4UE9UaEZWRGR0YmtGQk5XYxAB",
+            "review_text": "Everything is perfect in this hotel: location, rooms, breakfast, fitness, swimming pool and staff!\nLokindra is the best lifeguard you could wish for. 😊 …",
+            "reviewer": "Hans van Geest"
+        },
+        {
+            "date": "4 months ago",
+            "rating": "3",
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21WM056TXdaRWRTU0c1Vk5tbzVRVzVNU0U5R05VRRAB",
+            "review_text": "stayed here few times, in general things are clean and tidy. Room service delays time to time. Request for no smoking and family floor to avoid the smell. Rooms are very quiet and sound proof (I guess). Parking may get full at times. Costa coffee branch with large seating.",
+            "reviewer": "Yunus Kabariya"
+        }
+    ]
+}
